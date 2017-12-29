@@ -22,13 +22,8 @@ def load_dir(folder):
             data['descr'].append(record.description)
             data['id'].append(record.id)
             seq, ann = record.seq.split('#')
-            if 'C' in str(ann):
-                cleave_index = str(ann).index('C')
-                data['seq'].append(seq[:cleave_index])
-                data['ann'].append(ann[:cleave_index])
-            else:
-                data['seq'].append(seq)
-                data['ann'].append(ann)
+            data['seq'].append(str(seq)[:30])
+            data['ann'].append(str(ann))
     return pd.DataFrame(data)
 
 """ Fills a dataframe with data using FOLDER CONSTANTS"""
@@ -57,11 +52,19 @@ def calc_states(train_df):
     for ann, seq in zip(train_df['ann'], train_df['seq']):
         for a, s in zip(ann, seq):
             trans_count[a] += 1
-            obs_count[s] += 1
+            if s != 'X':
+                obs_count[s] += 1
     return trans_count.keys(), obs_count.keys()
 
 """Converts a Sequence to numeric format"""
 def get_binary(df, obs_keys):
+    if type(df) == str:
+        res = []
+        for s in df:
+            if s in obs_keys:
+                res.append(obs_keys.index(s)) 
+        return res
+
     binseq = []
     for seq in df['seq']:
         res = []
@@ -73,12 +76,21 @@ def get_binary(df, obs_keys):
 
 """Format df for hmm"""
 def getX(df):
-    X = np.array([df['binseq'][0]]).T
+    binseqs = np.array(df['binseq'])
+    X = np.array([binseqs[0]]).T
     lens = [len(X)]
-    for binseq in df['binseq'][1:]:
+    for binseq in binseqs[1:]:
         lens.append(len(binseq))
         X = np.concatenate([X, np.array([binseq]).T])
     return X, lens
+
+"""Remove sequence after cleave site"""
+def remove_00s(train_df):
+    for i, row in train_df.iterrows():
+        if 'C' in row['ann']:
+            cleave_index = row['ann'].index('C')
+            train_df.loc[i, 'seq'] = row['seq'][:cleave_index]
+            train_df.loc[i, 'ann'] = row['ann'][:cleave_index]
 
 """Train a HMM using baum-welch"""
 def fit_model(train_df, states):
@@ -97,33 +109,35 @@ def run_hmm(df):
         train_df = df.iloc[train_index]
         test_df =  df.iloc[test_index]
 
-        #Compute number of states from training data
-        trans_keys, obs_keys = calc_states(train_df)
-
-        #Convert sequences to integers
-        train_df['binseq'] = get_binary(train_df, obs_keys)
-        test_df['binseq'] = get_binary(test_df, obs_keys)
-
         #Split training into negative and positive
         gb = train_df.groupby('label')
         groups = [gb.get_group(x) for x in gb.groups]
-        train_df_neg = groups[0].reset_index(drop=True)
-        train_df_pos = groups[1].reset_index(drop=True)
-        pos_model = fit_model(train_df_pos, len(trans_keys))
-        neg_model = fit_model(train_df_neg, len(trans_keys)) 
+        train_df_neg = groups[0]
+        train_df_pos = groups[1]
+
+        #Compute number of states from training data
+        trans_keys_pos, obs_keys_pos = calc_states(train_df_pos)
+        trans_keys_neg, obs_keys_neg = calc_states(train_df_neg)
+
+        #Convert sequences to integers
+        train_df_pos['binseq'] = get_binary(train_df_pos, obs_keys_pos)
+        train_df_neg['binseq'] = get_binary(train_df_neg, obs_keys_neg)
+
+        pos_model = fit_model(train_df_pos, 43)
+        neg_model = fit_model(train_df_neg, 20) 
 
         predictions = []
-
         #Compute test scores
-        for seq in test_df['binseq']:
-            pos_score = pos_model.score([seq])
-            neg_score = neg_model.score([seq])
+        for seq in test_df['seq']:
+            seq_pos = get_binary(seq, obs_keys_pos)
+            seq_neg = get_binary(seq, obs_keys_neg)
+            pos_score = pos_model.score([seq_pos])
+            neg_score = neg_model.score([seq_neg])
             if pos_score > neg_score:
                 predictions.append(1)
             else:
                 predictions.append(0)
-
-        score = 1.0*np.sum(test_df['label'] == predictions)/len(predictions)
+        score = 1.0*np.sum(np.array(test_df['label']) == predictions)/len(predictions)
         #Predict peptide or non peptide
         scores.append(score)
     print 'Average score ', np.mean(scores)
