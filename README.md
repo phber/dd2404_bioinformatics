@@ -9,12 +9,15 @@ Two parameters were tuned:
 
 1. Number of hidden states
 Used 43 hidden states for the positive model and 20 hidden states (chosen quite arbitrarly) for the negative model.
-Reached an accuracy of about 70% on the validation set using 5-folded cross validation. Number of hidden states in the negative model should be investigated further.
+Number of hidden states in the negative model should be investigated further.
+
+Reached an avg. accuracy of about 70% on the validation set using 2-folded cross validation
 
 2. Number of protein sequences 
 While Nielsen (1998) truncated all sequences to the first 70 acids, we found the highest accuracy to be yielded using the
-first 30 acids (about 80% accuracy). This should be investigated further.
+first 30 acids. This should be investigated further.
 
+Reached an avg. accuracy of about 85% on the validation set using 2-folded cross validation (30 acids).
 
 ## 28 dec 2017
 
