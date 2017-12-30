@@ -1,17 +1,28 @@
 from Bio import SeqIO
+from Bio import Alphabet
 import os
 import pandas as pd
 from sklearn.model_selection import KFold
 import numpy as np
 from collections import defaultdict
-from hmmlearn import hmm
+from Bio.HMM import MarkovModel, Trainer
+from sklearn.metrics import confusion_matrix
 
+""" Paths for training and test data """
 BASE_DIR = os.path.join(os.path.dirname(__file__ ), '..')
 DATA_DIR = os.path.join(BASE_DIR, 'data')
 NEGATIVE_TM_DIR = os.path.join(DATA_DIR, 'negative_examples', 'tm')
 POSITIVE_TM_DIR = os.path.join(DATA_DIR, 'positive_examples', 'tm')
 NEGATIVE_NON_TM_DIR = os.path.join(DATA_DIR, 'negative_examples', 'non_tm')
 POSITIVE_NON_TM_DIR = os.path.join(DATA_DIR, 'positive_examples', 'non_tm')
+
+"""Alphabet for labels and sequences"""
+seq_alphabet = Alphabet.SingleLetterAlphabet()
+seq_alphabet.letters = ['A', 'C', 'E', 'D', 'G', 'F', 'I', 'H', 'K', 'M', 'L', 'N', 'Q', 'P', 'S', 'R', 'T', 'W', 'V', 'Y', 'X']
+state_alphabet_pos = Alphabet.SingleLetterAlphabet()
+state_alphabet_pos.letters = ['c', 'h', 'C', 'O', 'n','i', 'M', 'O', 'o']
+state_alphabet_neg = Alphabet.SingleLetterAlphabet()
+state_alphabet_neg.letters = ['i', 'M', 'O', 'o']
 
 """ Loads all fasta sequences from a folder into a DataFrame"""
 def load_dir(folder):
@@ -22,8 +33,9 @@ def load_dir(folder):
             data['descr'].append(record.description)
             data['id'].append(record.id)
             seq, ann = record.seq.split('#')
-            data['seq'].append(str(seq)[:30])
-            data['ann'].append(str(ann))
+            seq.alphabet = seq_alphabet
+            data['seq'].append(seq[:70])
+            data['ann'].append(ann[:70])
     return pd.DataFrame(data)
 
 """ Fills a dataframe with data using FOLDER CONSTANTS"""
@@ -56,52 +68,37 @@ def calc_states(train_df):
                 obs_count[s] += 1
     return trans_count.keys(), obs_count.keys()
 
-"""Converts a Sequence to numeric format"""
-def get_binary(df, obs_keys):
-    if type(df) == str:
-        res = []
-        for s in df:
-            if s in obs_keys:
-                res.append(obs_keys.index(s)) 
-        return res
-
-    binseq = []
-    for seq in df['seq']:
-        res = []
-        for s in seq:
-            if s in obs_keys:
-                res.append(obs_keys.index(s))
-        binseq.append(res)
-    return binseq
-
-"""Format df for hmm"""
-def getX(df):
-    binseqs = np.array(df['binseq'])
-    X = np.array([binseqs[0]]).T
-    lens = [len(X)]
-    for binseq in binseqs[1:]:
-        lens.append(len(binseq))
-        X = np.concatenate([X, np.array([binseq]).T])
-    return X, lens
-
-"""Remove sequence after cleave site"""
-def remove_00s(train_df):
-    for i, row in train_df.iterrows():
-        if 'C' in row['ann']:
-            cleave_index = row['ann'].index('C')
-            train_df.loc[i, 'seq'] = row['seq'][:cleave_index]
-            train_df.loc[i, 'ann'] = row['ann'][:cleave_index]
-
 """Train a HMM using baum-welch"""
-def fit_model(train_df, states):
-    model = hmm.MultinomialHMM(n_components=states)
-    X, lengths = getX(train_df)
-    model.fit(X, lengths)
-    return model
+def fit_model(train_df, positive = True):
+    training_seqs = []
+    if positive:
+        builder = MarkovModel.MarkovModelBuilder(state_alphabet_pos, seq_alphabet)
+        builder.allow_all_transitions()
+        builder.set_random_probabilities()
+        builder.set_initial_probabilities({'n' : 1})
+    else: 
+        builder = MarkovModel.MarkovModelBuilder(state_alphabet_neg, seq_alphabet)
+        builder.allow_all_transitions()
+        builder.set_random_probabilities()
+    training_seqs = []
+    for i, row in train_df.iterrows():
+        ann = row['ann']
+        ann.alphabet = state_alphabet_pos if positive else state_alphabet_neg
+        train_seq = Trainer.TrainingSequence(row['seq'], ann)
+        training_seqs.append(train_seq)
+    model = builder.get_markov_model()
+    trainer = Trainer.KnownStateTrainer(model)
+    trainer.train(training_seqs)
+    return trainer.train(training_seqs)
+
+"""Prediction scores"""
+def perf_measure(y_true, y_pred):
+    tn, fp, fn, tp = confusion_matrix(y_true, y_pred).ravel()
+    print tn, fp, fn, tp
 
 """Get cross validation scores"""
 def run_hmm(df):
-    kf = KFold(n_splits = 2, shuffle = True, random_state = 2)
+    kf = KFold(n_splits = 2, shuffle = True, random_state = 4)
     scores = []
     for train_index, test_index in kf.split(df):
         print 'Running k-fold...'
@@ -114,32 +111,22 @@ def run_hmm(df):
         groups = [gb.get_group(x) for x in gb.groups]
         train_df_neg = groups[0]
         train_df_pos = groups[1]
-
-        #Compute number of states from training data
-        trans_keys_pos, obs_keys_pos = calc_states(train_df_pos)
-        trans_keys_neg, obs_keys_neg = calc_states(train_df_neg)
-
-        #Convert sequences to integers
-        train_df_pos['binseq'] = get_binary(train_df_pos, obs_keys_pos)
-        train_df_neg['binseq'] = get_binary(train_df_neg, obs_keys_neg)
-
-        pos_model = fit_model(train_df_pos, 43)
-        neg_model = fit_model(train_df_neg, 20) 
-
+        pos_model = fit_model(train_df_pos, True)
+        neg_model = fit_model(train_df_neg, False) 
         predictions = []
         #Compute test scores
-        for seq in test_df['seq']:
-            seq_pos = get_binary(seq, obs_keys_pos)
-            seq_neg = get_binary(seq, obs_keys_neg)
-            pos_score = pos_model.score([seq_pos])
-            neg_score = neg_model.score([seq_neg])
+        for i, row in test_df.iterrows():
+            seq = row['seq']
+            pos_seq, pos_score = pos_model.viterbi(seq, state_alphabet_pos)
+            neg_sec, neg_score = neg_model.viterbi(seq, state_alphabet_neg)
             if pos_score > neg_score:
                 predictions.append(1)
             else:
                 predictions.append(0)
         score = 1.0*np.sum(np.array(test_df['label']) == predictions)/len(predictions)
-        #Predict peptide or non peptide
+        print score
         scores.append(score)
+        perf_measure(list(test_df['label']), predictions)
     print 'Average score ', np.mean(scores)
     print 'Deviation +- ', np.std(scores)
 
