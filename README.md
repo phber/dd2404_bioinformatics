@@ -2,6 +2,20 @@
 
 # Log
 
+
+## 31 dec 2017
+
+Changed to performance measures to precision, recall and F-score. Also changed testing to test only TM or non-TM proteins, or both. The results were (using 5-folded validation):
+```
+ALL TESTDATA: Average precision, recall, F-score:
+[0.89952194928962004, 0.92475784707141406, 0.91128394619236386]
+TM TESTDATA: Average precision, recall, F-score:
+[0.5696525105388679, 0.89361184426298856, 0.69494933638859258]
+NON TM TESTDATA: Average precision, recall, F-score:
+[0.91996094358046965, 0.93647088476833673, 0.92801386388
+```
+These can also be found in the "res" folder. 
+
 ## 30 dec 2017
 
 After further studying previous work in the area, by Nielsen and also the following paper:
