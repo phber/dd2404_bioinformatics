@@ -10,9 +10,11 @@ After further studying previous work in the area, by Nielsen and also the follow
 
 We decided to also use the annotations in the data during training. We therefore implemented the HMM-package in Biopython. We initializing random probabilities, except for the signal-peptides where probability was set to 1.0 for 'n'. We got the following accuracy using 2-folded cross validation:
 
-```Running k-fold...
+```
+Running k-fold...
 Average score  0.912961567445
-Deviation +-  0.000376789751319```
+Deviation +-  0.000376789751319
+```
 
 Also generated some data files for creating sequence logos.
 
