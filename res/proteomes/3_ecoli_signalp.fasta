@@ -1,0 +1,2523 @@
+
+	   	
+SignalP 4.1 Server - prediction results
+
+Technical University of Denmark
+
+
+ # SignalP-4.1 gram- predictions
+>sp_P52133_YFJR_ECOLI  Uncharacterized HTH-type transcriptional regulator YfjR OS_Escherichia coli _strain K12_ GN_yfjR PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.206
+  max. Y    25       0.217
+  max. S     5       0.435
+  mean S     1-24    0.297
+       D     1-24    0.255   0.570   NO
+Name=sp_P52133_YFJR_ECOLI	SP='NO' D=0.255 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AAT4_YBDG_ECOLI  Miniconductance mechanosensitive channel YbdG OS_Escherichia coli _strain K12_ GN_ybdG PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    39       0.102
+  max. Y    66       0.097
+  max. S    66       0.104
+  mean S     1-65    0.055
+       D     1-65    0.081   0.510   NO
+Name=sp_P0AAT4_YBDG_ECOLI	SP='NO' D=0.081 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P75898_RUTA_ECOLI  Pyrimidine monooxygenase RutA OS_Escherichia coli _strain K12_ GN_rutA PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    40       0.129
+  max. Y    40       0.136
+  max. S    39       0.181
+  mean S     1-39    0.115
+       D     1-39    0.126   0.570   NO
+Name=sp_P75898_RUTA_ECOLI	SP='NO' D=0.126 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P28304_QOR1_ECOLI  Quinone oxidoreductase 1 OS_Escherichia coli _strain K12_ GN_qorA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.112
+  max. Y    27       0.104
+  max. S    49       0.122
+  mean S     1-26    0.082
+       D     1-26    0.094   0.570   NO
+Name=sp_P28304_QOR1_ECOLI	SP='NO' D=0.094 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AEZ3_MIND_ECOLI  Septum site-determining protein MinD OS_Escherichia coli _strain K12_ GN_minD PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.128
+  max. Y    22       0.150
+  max. S     9       0.281
+  mean S     1-21    0.193
+       D     1-21    0.170   0.570   NO
+Name=sp_P0AEZ3_MIND_ECOLI	SP='NO' D=0.170 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P19318_NARY_ECOLI  Respiratory nitrate reductase 2 beta chain OS_Escherichia coli _strain K12_ GN_narY PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.124
+  max. Y    12       0.161
+  max. S     5       0.314
+  mean S     1-11    0.267
+       D     1-11    0.211   0.570   NO
+Name=sp_P19318_NARY_ECOLI	SP='NO' D=0.211 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P75958_LOLE_ECOLI  Lipoprotein-releasing system transmembrane protein LolE OS_Escherichia coli _strain K12_ GN_lolE PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    36       0.113
+  max. Y    21       0.116
+  max. S    21       0.175
+  mean S     1-20    0.127
+       D     1-20    0.120   0.510   NO
+Name=sp_P75958_LOLE_ECOLI	SP='NO' D=0.120 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AFP6_GCH1L_ECOLI  GTP cyclohydrolase 1 type 2 homolog OS_Escherichia coli _strain K12_ GN_ybgI PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    60       0.125
+  max. Y    60       0.105
+  max. S     1       0.120
+  mean S     1-59    0.090
+       D     1-59    0.098   0.570   NO
+Name=sp_P0AFP6_GCH1L_ECOLI	SP='NO' D=0.098 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ACB2_HEM2_ECOLI  Delta-aminolevulinic acid dehydratase OS_Escherichia coli _strain K12_ GN_hemB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.106
+  max. Y    11       0.152
+  max. S    27       0.305
+  mean S     1-10    0.229
+       D     1-10    0.189   0.570   NO
+Name=sp_P0ACB2_HEM2_ECOLI	SP='NO' D=0.189 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P07862_DDLB_ECOLI  D-alanine--D-alanine ligase B OS_Escherichia coli _strain K12_ GN_ddlB PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.174
+  max. Y    25       0.128
+  max. S    33       0.138
+  mean S     1-24    0.097
+       D     1-24    0.114   0.570   NO
+Name=sp_P07862_DDLB_ECOLI	SP='NO' D=0.114 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76035_YCIW_ECOLI  Uncharacterized protein YciW OS_Escherichia coli _strain K12_ GN_yciW PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    65       0.201
+  max. Y    65       0.132
+  max. S    23       0.117
+  mean S     1-64    0.089
+       D     1-64    0.112   0.570   NO
+Name=sp_P76035_YCIW_ECOLI	SP='NO' D=0.112 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P33595_SGRR_ECOLI  HTH-type transcriptional regulator SgrR OS_Escherichia coli _strain K12_ GN_sgrR PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.107
+  max. Y    31       0.115
+  max. S    40       0.199
+  mean S     1-30    0.118
+       D     1-30    0.116   0.570   NO
+Name=sp_P33595_SGRR_ECOLI	SP='NO' D=0.116 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P16676_CYSA_ECOLI  Sulfate_thiosulfate import ATP-binding protein CysA OS_Escherichia coli _strain K12_ GN_cysA PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.112
+  max. Y    33       0.113
+  max. S     1       0.160
+  mean S     1-32    0.111
+       D     1-32    0.112   0.570   NO
+Name=sp_P16676_CYSA_ECOLI	SP='NO' D=0.112 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P12998_BIOF_ECOLI  8-amino-7-oxononanoate synthase OS_Escherichia coli _strain K12_ GN_bioF PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.112
+  max. Y    30       0.097
+  max. S     1       0.114
+  mean S     1-29    0.087
+       D     1-29    0.093   0.570   NO
+Name=sp_P12998_BIOF_ECOLI	SP='NO' D=0.093 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P60390_RSMH_ECOLI  Ribosomal RNA small subunit methyltransferase H OS_Escherichia coli _strain K12_ GN_rsmH PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    54       0.110
+  max. Y    63       0.098
+  max. S     1       0.119
+  mean S     1-62    0.088
+       D     1-62    0.094   0.570   NO
+Name=sp_P60390_RSMH_ECOLI	SP='NO' D=0.094 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P60472_UPPS_ECOLI  Ditrans,polycis-undecaprenyl-diphosphate synthase __2E,6E_-farnesyl-diphosphate specific_ OS_Escherichia coli _strain K12_ GN_ispU PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.113
+  max. Y    51       0.129
+  max. S    42       0.213
+  mean S     1-50    0.115
+       D     1-50    0.122   0.570   NO
+Name=sp_P60472_UPPS_ECOLI	SP='NO' D=0.122 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P25747_YEIB_ECOLI  Uncharacterized protein YeiB OS_Escherichia coli _strain K12_ GN_yeiB PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.167
+  max. Y    32       0.150
+  max. S     2       0.175
+  mean S     1-31    0.125
+       D     1-31    0.141   0.510   NO
+Name=sp_P25747_YEIB_ECOLI	SP='NO' D=0.141 D-cutoff=0.510 Networks=SignalP-TM
+>sp_Q46791_YGEK_ECOLI  Putative uncharacterized response regulatory protein YgeK OS_Escherichia coli _strain K12_ GN_ygeK PE_5 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    66       0.110
+  max. Y    14       0.105
+  max. S     4       0.157
+  mean S     1-13    0.110
+       D     1-13    0.107   0.570   NO
+Name=sp_Q46791_YGEK_ECOLI	SP='NO' D=0.107 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AES6_GYRB_ECOLI  DNA gyrase subunit B OS_Escherichia coli _strain K12_ GN_gyrB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    54       0.109
+  max. Y    11       0.116
+  max. S     1       0.213
+  mean S     1-10    0.127
+       D     1-10    0.121   0.570   NO
+Name=sp_P0AES6_GYRB_ECOLI	SP='NO' D=0.121 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P64442_YCEO_ECOLI  Uncharacterized protein YceO OS_Escherichia coli _strain K12_ GN_yceO PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    16       0.097
+  max. Y    11       0.087
+  max. S     1       0.092
+  mean S     1-10    0.079
+       D     1-10    0.084   0.510   NO
+Name=sp_P64442_YCEO_ECOLI	SP='NO' D=0.084 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P52647_NIFJ_ECOLI  Probable pyruvate-flavodoxin oxidoreductase OS_Escherichia coli _strain K12_ GN_ydbK PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.171
+  max. Y    34       0.173
+  max. S    32       0.378
+  mean S     1-33    0.157
+       D     1-33    0.165   0.570   NO
+Name=sp_P52647_NIFJ_ECOLI	SP='NO' D=0.165 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ABJ9_CYDA_ECOLI  Cytochrome bd-I ubiquinol oxidase subunit 1 OS_Escherichia coli _strain K12_ GN_cydA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.106
+  max. Y    11       0.107
+  max. S     1       0.144
+  mean S     1-10    0.116
+       D     1-10    0.110   0.510   NO
+Name=sp_P0ABJ9_CYDA_ECOLI	SP='NO' D=0.110 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P33369_MDTQ_ECOLI  Putative multidrug resistance outer membrane protein MdtQ OS_Escherichia coli _strain K12_ GN_mdtQ PE_5 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.204
+  max. Y    24       0.414
+  max. S    17       0.929
+  mean S     1-23    0.827
+       D     1-23    0.608   0.570   YES
+Name=sp_P33369_MDTQ_ECOLI	SP='YES' Cleavage site between pos. 23 and 24: GCA-PM D=0.608 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P37330_MASZ_ECOLI  Malate synthase G OS_Escherichia coli _strain K12_ GN_glcB PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.101
+  max. Y    11       0.108
+  max. S     3       0.154
+  mean S     1-10    0.117
+       D     1-10    0.112   0.570   NO
+Name=sp_P37330_MASZ_ECOLI	SP='NO' D=0.112 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76219_YDJX_ECOLI  TVP38_TMEM64 family membrane protein YdjX OS_Escherichia coli _strain K12_ GN_ydjX PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.175
+  max. Y    24       0.128
+  max. S     1       0.174
+  mean S     1-23    0.109
+       D     1-23    0.121   0.510   NO
+Name=sp_P76219_YDJX_ECOLI	SP='NO' D=0.121 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P77091_HOKE_ECOLI  Protein HokE OS_Escherichia coli _strain K12_ GN_hokE PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.132
+  max. Y    11       0.175
+  max. S     1       0.458
+  mean S     1-10    0.299
+       D     1-10    0.221   0.510   NO
+Name=sp_P77091_HOKE_ECOLI	SP='NO' D=0.221 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P66899_DPAL_ECOLI  Diaminopropionate ammonia-lyase OS_Escherichia coli _strain K12_ GN_ygeX PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.114
+  max. Y    50       0.107
+  max. S     7       0.117
+  mean S     1-49    0.094
+       D     1-49    0.101   0.570   NO
+Name=sp_P66899_DPAL_ECOLI	SP='NO' D=0.101 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P68679_RS21_ECOLI  30S ribosomal protein S21 OS_Escherichia coli _strain K12_ GN_rpsU PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.102
+  max. Y    12       0.119
+  max. S     6       0.172
+  mean S     1-11    0.145
+       D     1-11    0.131   0.570   NO
+Name=sp_P68679_RS21_ECOLI	SP='NO' D=0.131 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39177_USPG_ECOLI  Universal stress protein UP12 OS_Escherichia coli _strain K12_ GN_uspG PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    53       0.335
+  max. Y    53       0.180
+  max. S    44       0.145
+  mean S     1-52    0.083
+       D     1-52    0.135   0.570   NO
+Name=sp_P39177_USPG_ECOLI	SP='NO' D=0.135 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76007_NHAP2_ECOLI  K____H___ antiporter NhaP2 OS_Escherichia coli _strain K12_ GN_cvrA PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    46       0.165
+  max. Y    11       0.108
+  max. S     1       0.179
+  mean S     1-10    0.111
+       D     1-10    0.109   0.510   NO
+Name=sp_P76007_NHAP2_ECOLI	SP='NO' D=0.109 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P77368_YBCL_ECOLI  UPF0098 protein YbcL OS_Escherichia coli _strain K12_ GN_ybcL PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.717
+  max. Y    20       0.826
+  max. S    19       0.970
+  mean S     1-19    0.944
+       D     1-19    0.882   0.570   YES
+Name=sp_P77368_YBCL_ECOLI	SP='YES' Cleavage site between pos. 19 and 20: AQA-AA D=0.882 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0C8J8_GATZ_ECOLI  D-tagatose-1,6-bisphosphate aldolase subunit GatZ OS_Escherichia coli _strain K12_ GN_gatZ PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.318
+  max. Y    33       0.253
+  max. S    21       0.405
+  mean S     1-32    0.200
+       D     1-32    0.228   0.570   NO
+Name=sp_P0C8J8_GATZ_ECOLI	SP='NO' D=0.228 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A6H8_CLSA_ECOLI  Cardiolipin synthase A OS_Escherichia coli _strain K12_ GN_clsA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.149
+  max. Y    40       0.090
+  max. S     1       0.119
+  mean S     1-39    0.054
+       D     1-39    0.077   0.510   NO
+Name=sp_P0A6H8_CLSA_ECOLI	SP='NO' D=0.077 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0ACU7_YJDC_ECOLI  HTH-type transcriptional regulator YjdC OS_Escherichia coli _strain K12_ GN_yjdC PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.123
+  max. Y    29       0.118
+  max. S    20       0.152
+  mean S     1-28    0.097
+       D     1-28    0.108   0.570   NO
+Name=sp_P0ACU7_YJDC_ECOLI	SP='NO' D=0.108 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76201_YDIQ_ECOLI  Putative electron transfer flavoprotein subunit YdiQ OS_Escherichia coli _strain K12_ GN_ydiQ PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.125
+  max. Y    24       0.113
+  max. S    12       0.136
+  mean S     1-23    0.111
+       D     1-23    0.112   0.570   NO
+Name=sp_P76201_YDIQ_ECOLI	SP='NO' D=0.112 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76042_YCJN_ECOLI  Putative ABC transporter periplasmic-binding protein YcjN OS_Escherichia coli _strain K12_ GN_ycjN PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.189
+  max. Y    20       0.374
+  max. S     1       0.903
+  mean S     1-19    0.769
+       D     1-19    0.559   0.570   NO
+Name=sp_P76042_YCJN_ECOLI	SP='NO' D=0.559 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A7C6_PEPE_ECOLI  Peptidase E OS_Escherichia coli _strain K12_ GN_pepE PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.155
+  max. Y    21       0.124
+  max. S     6       0.173
+  mean S     1-20    0.128
+       D     1-20    0.126   0.570   NO
+Name=sp_P0A7C6_PEPE_ECOLI	SP='NO' D=0.126 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P15639_PUR9_ECOLI  Bifunctional purine biosynthesis protein PurH OS_Escherichia coli _strain K12_ GN_purH PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.151
+  max. Y    12       0.208
+  max. S    12       0.501
+  mean S     1-11    0.423
+       D     1-11    0.309   0.570   NO
+Name=sp_P15639_PUR9_ECOLI	SP='NO' D=0.309 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P77219_YAHC_ECOLI  Uncharacterized protein YahC OS_Escherichia coli _strain K12_ GN_yahC PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    70       0.119
+  max. Y    25       0.143
+  max. S    14       0.234
+  mean S     1-24    0.188
+       D     1-24    0.160   0.510   NO
+Name=sp_P77219_YAHC_ECOLI	SP='NO' D=0.160 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P77364_GLXK2_ECOLI  Glycerate 3-kinase OS_Escherichia coli _strain K12_ GN_glxK PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    45       0.109
+  max. Y    35       0.110
+  max. S    30       0.135
+  mean S     1-34    0.108
+       D     1-34    0.109   0.570   NO
+Name=sp_P77364_GLXK2_ECOLI	SP='NO' D=0.109 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P77494_HOKB_ECOLI  Toxin HokB OS_Escherichia coli _strain K12_ GN_hokB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.105
+  max. Y    11       0.158
+  max. S     3       0.375
+  mean S     1-10    0.243
+       D     1-10    0.189   0.510   NO
+Name=sp_P77494_HOKB_ECOLI	SP='NO' D=0.189 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AAS3_YBBJ_ECOLI  Inner membrane protein YbbJ OS_Escherichia coli _strain K12_ GN_ybbJ PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.170
+  max. Y    11       0.119
+  max. S     3       0.196
+  mean S     1-10    0.150
+       D     1-10    0.130   0.510   NO
+Name=sp_P0AAS3_YBBJ_ECOLI	SP='NO' D=0.130 D-cutoff=0.510 Networks=SignalP-TM
+>sp_Q2MB16_YOBH_ECOLI  Uncharacterized protein YobH OS_Escherichia coli _strain K12_ GN_yobH PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.169
+  max. Y    34       0.136
+  max. S     2       0.246
+  mean S     1-33    0.115
+       D     1-33    0.128   0.510   NO
+Name=sp_Q2MB16_YOBH_ECOLI	SP='NO' D=0.128 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0A7X6_RIMM_ECOLI  Ribosome maturation factor RimM OS_Escherichia coli _strain K12_ GN_rimM PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    39       0.124
+  max. Y    39       0.121
+  max. S     2       0.167
+  mean S     1-38    0.112
+       D     1-38    0.117   0.570   NO
+Name=sp_P0A7X6_RIMM_ECOLI	SP='NO' D=0.117 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P37348_YECE_ECOLI  UPF0759 protein YecE OS_Escherichia coli _strain K12_ GN_yecE PE_3 SV_4
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.112
+  max. Y    11       0.135
+  max. S     3       0.267
+  mean S     1-10    0.185
+       D     1-10    0.159   0.570   NO
+Name=sp_P37348_YECE_ECOLI	SP='NO' D=0.159 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P64474_YDHL_ECOLI  Uncharacterized protein YdhL OS_Escherichia coli _strain K12_ GN_ydhL PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.104
+  max. Y    45       0.112
+  max. S    34       0.142
+  mean S     1-44    0.110
+       D     1-44    0.111   0.570   NO
+Name=sp_P64474_YDHL_ECOLI	SP='NO' D=0.111 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76628_YGAY_ECOLI  Putative uncharacterized transporter YgaY OS_Escherichia coli _strain K12_ GN_ygaY PE_5 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.333
+  max. Y    26       0.291
+  max. S    21       0.428
+  mean S     1-25    0.270
+       D     1-25    0.283   0.510   NO
+Name=sp_P76628_YGAY_ECOLI	SP='NO' D=0.283 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P31991_YDCD_ECOLI  Uncharacterized protein YdcD OS_Escherichia coli _strain K12_ GN_ydcD PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.142
+  max. Y    32       0.161
+  max. S     1       0.323
+  mean S     1-31    0.194
+       D     1-31    0.173   0.510   NO
+Name=sp_P31991_YDCD_ECOLI	SP='NO' D=0.173 D-cutoff=0.510 Networks=SignalP-TM
+>sp_Q6BF25_LDRD_ECOLI  Small toxic polypeptide LdrD OS_Escherichia coli _strain K12_ GN_ldrD PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.155
+  max. Y    21       0.101
+  max. S    11       0.125
+  mean S     1-20    0.078
+       D     1-20    0.092   0.510   NO
+Name=sp_Q6BF25_LDRD_ECOLI	SP='NO' D=0.092 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P12995_BIOA_ECOLI  Adenosylmethionine-8-amino-7-oxononanoate aminotransferase OS_Escherichia coli _strain K12_ GN_bioA PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    55       0.168
+  max. Y    32       0.133
+  max. S    17       0.164
+  mean S     1-31    0.109
+       D     1-31    0.122   0.570   NO
+Name=sp_P12995_BIOA_ECOLI	SP='NO' D=0.122 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P06610_BTUE_ECOLI  Thioredoxin_glutathione peroxidase BtuE OS_Escherichia coli _strain K12_ GN_btuE PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.111
+  max. Y    45       0.126
+  max. S    35       0.217
+  mean S     1-44    0.115
+       D     1-44    0.121   0.570   NO
+Name=sp_P06610_BTUE_ECOLI	SP='NO' D=0.121 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P37760_RMLD_ECOLI  dTDP-4-dehydrorhamnose reductase OS_Escherichia coli _strain K12_ GN_rfbD PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.180
+  max. Y    34       0.162
+  max. S    26       0.232
+  mean S     1-33    0.146
+       D     1-33    0.154   0.570   NO
+Name=sp_P37760_RMLD_ECOLI	SP='NO' D=0.154 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AB89_PUR8_ECOLI  Adenylosuccinate lyase OS_Escherichia coli _strain K12_ GN_purB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    61       0.215
+  max. Y    52       0.156
+  max. S    50       0.170
+  mean S     1-51    0.103
+       D     1-51    0.131   0.570   NO
+Name=sp_P0AB89_PUR8_ECOLI	SP='NO' D=0.131 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P75616_YAAX_ECOLI  Uncharacterized protein YaaX OS_Escherichia coli _strain K12_ GN_yaaX PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.841
+  max. Y    24       0.894
+  max. S    12       0.984
+  mean S     1-23    0.949
+       D     1-23    0.920   0.570   YES
+Name=sp_P75616_YAAX_ECOLI	SP='YES' Cleavage site between pos. 23 and 24: AQA-AE D=0.920 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ACI6_ASNC_ECOLI  Regulatory protein AsnC OS_Escherichia coli _strain K12_ GN_asnC PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.443
+  max. Y    27       0.217
+  max. S    23       0.159
+  mean S     1-26    0.104
+       D     1-26    0.164   0.570   NO
+Name=sp_P0ACI6_ASNC_ECOLI	SP='NO' D=0.164 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AGG2_TESB_ECOLI  Acyl-CoA thioesterase 2 OS_Escherichia coli _strain K12_ GN_tesB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    47       0.117
+  max. Y    11       0.109
+  max. S     1       0.150
+  mean S     1-10    0.116
+       D     1-10    0.112   0.570   NO
+Name=sp_P0AGG2_TESB_ECOLI	SP='NO' D=0.112 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76278_YEBZ_ECOLI  Inner membrane protein YebZ OS_Escherichia coli _strain K12_ GN_yebZ PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.140
+  max. Y    11       0.123
+  max. S     1       0.187
+  mean S     1-10    0.155
+       D     1-10    0.135   0.510   NO
+Name=sp_P76278_YEBZ_ECOLI	SP='NO' D=0.135 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0A9C3_GALM_ECOLI  Aldose 1-epimerase OS_Escherichia coli _strain K12_ GN_galM PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    10       0.161
+  max. Y    41       0.160
+  max. S    30       0.295
+  mean S     1-40    0.165
+       D     1-40    0.162   0.570   NO
+Name=sp_P0A9C3_GALM_ECOLI	SP='NO' D=0.162 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P00804_LSPA_ECOLI  Lipoprotein signal peptidase OS_Escherichia coli _strain K12_ GN_lspA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    36       0.135
+  max. Y    11       0.111
+  max. S     2       0.154
+  mean S     1-10    0.131
+       D     1-10    0.118   0.510   NO
+Name=sp_P00804_LSPA_ECOLI	SP='NO' D=0.118 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P33195_GCSP_ECOLI  Glycine dehydrogenase _decarboxylating_ OS_Escherichia coli _strain K12_ GN_gcvP PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    60       0.111
+  max. Y    67       0.100
+  max. S     1       0.113
+  mean S     1-66    0.087
+       D     1-66    0.094   0.570   NO
+Name=sp_P33195_GCSP_ECOLI	SP='NO' D=0.094 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P09996_YIDB_ECOLI  Uncharacterized protein YidB OS_Escherichia coli _strain K12_ GN_yidB PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.157
+  max. Y    56       0.105
+  max. S    52       0.124
+  mean S     1-55    0.081
+       D     1-55    0.094   0.570   NO
+Name=sp_P09996_YIDB_ECOLI	SP='NO' D=0.094 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ACR0_ALLS_ECOLI  HTH-type transcriptional activator AllS OS_Escherichia coli _strain K12_ GN_allS PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.150
+  max. Y    23       0.132
+  max. S    22       0.276
+  mean S     1-22    0.112
+       D     1-22    0.123   0.570   NO
+Name=sp_P0ACR0_ALLS_ECOLI	SP='NO' D=0.123 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P31064_YEDE_ECOLI  UPF0394 inner membrane protein YedE OS_Escherichia coli _strain K12_ GN_yedE PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.167
+  max. Y    24       0.170
+  max. S    12       0.267
+  mean S     1-23    0.172
+       D     1-23    0.171   0.510   NO
+Name=sp_P31064_YEDE_ECOLI	SP='NO' D=0.171 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P04825_AMPN_ECOLI  Aminopeptidase N OS_Escherichia coli _strain K12_ GN_pepN PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    50       0.108
+  max. Y    17       0.103
+  max. S    10       0.127
+  mean S     1-16    0.102
+       D     1-16    0.103   0.570   NO
+Name=sp_P04825_AMPN_ECOLI	SP='NO' D=0.103 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P33346_YEHI_ECOLI  Uncharacterized protein YehI OS_Escherichia coli _strain K12_ GN_yehI PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    47       0.102
+  max. Y    54       0.107
+  max. S    46       0.147
+  mean S     1-53    0.090
+       D     1-53    0.099   0.570   NO
+Name=sp_P33346_YEHI_ECOLI	SP='NO' D=0.099 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ACK5_DEOR_ECOLI  Deoxyribose operon repressor OS_Escherichia coli _strain K12_ GN_deoR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    66       0.108
+  max. Y    12       0.113
+  max. S    39       0.155
+  mean S     1-11    0.125
+       D     1-11    0.118   0.570   NO
+Name=sp_P0ACK5_DEOR_ECOLI	SP='NO' D=0.118 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_Q46942_YQEI_ECOLI  Uncharacterized protein YqeI OS_Escherichia coli _strain K12_ GN_yqeI PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    51       0.158
+  max. Y    51       0.177
+  max. S    41       0.263
+  mean S     1-50    0.146
+       D     1-50    0.162   0.570   NO
+Name=sp_Q46942_YQEI_ECOLI	SP='NO' D=0.162 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A6K3_DEF_ECOLI  Peptide deformylase OS_Escherichia coli _strain K12_ GN_def PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.113
+  max. Y    70       0.106
+  max. S    68       0.120
+  mean S     1-69    0.091
+       D     1-69    0.099   0.570   NO
+Name=sp_P0A6K3_DEF_ECOLI	SP='NO' D=0.099 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AAU7_YBFE_ECOLI  Uncharacterized protein YbfE OS_Escherichia coli _strain K12_ GN_ybfE PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C     3       0.105
+  max. Y    40       0.110
+  max. S    46       0.136
+  mean S     1-39    0.110
+       D     1-39    0.110   0.570   NO
+Name=sp_P0AAU7_YBFE_ECOLI	SP='NO' D=0.110 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P77615_YCJW_ECOLI  Uncharacterized HTH-type transcriptional regulator YcjW OS_Escherichia coli _strain K12_ GN_ycjW PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.112
+  max. Y    11       0.126
+  max. S     6       0.188
+  mean S     1-10    0.161
+       D     1-10    0.142   0.570   NO
+Name=sp_P77615_YCJW_ECOLI	SP='NO' D=0.142 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P64451_YDCL_ECOLI  Uncharacterized lipoprotein YdcL OS_Escherichia coli _strain K12_ GN_ydcL PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.223
+  max. Y    25       0.430
+  max. S     1       0.951
+  mean S     1-24    0.863
+       D     1-24    0.634   0.570   YES
+Name=sp_P64451_YDCL_ECOLI	SP='YES' Cleavage site between pos. 24 and 25: ASK-IT D=0.634 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AEQ6_GLNP_ECOLI  Glutamine transport system permease protein GlnP OS_Escherichia coli _strain K12_ GN_glnP PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    46       0.119
+  max. Y    12       0.084
+  max. S    69       0.101
+  mean S     1-11    0.074
+       D     1-11    0.081   0.510   NO
+Name=sp_P0AEQ6_GLNP_ECOLI	SP='NO' D=0.081 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P16429_HYCC_ECOLI  Formate hydrogenlyase subunit 3 OS_Escherichia coli _strain K12_ GN_hycC PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.168
+  max. Y    18       0.179
+  max. S     1       0.357
+  mean S     1-17    0.245
+       D     1-17    0.204   0.510   NO
+Name=sp_P16429_HYCC_ECOLI	SP='NO' D=0.204 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P37052_YCHJ_ECOLI  UPF0225 protein YchJ OS_Escherichia coli _strain K12_ GN_ychJ PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.134
+  max. Y    24       0.138
+  max. S    22       0.220
+  mean S     1-23    0.133
+       D     1-23    0.135   0.570   NO
+Name=sp_P37052_YCHJ_ECOLI	SP='NO' D=0.135 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AC73_EBGC_ECOLI  Evolved beta-galactosidase subunit beta OS_Escherichia coli _strain K12_ GN_ebgC PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.111
+  max. Y    41       0.100
+  max. S     6       0.111
+  mean S     1-40    0.094
+       D     1-40    0.097   0.570   NO
+Name=sp_P0AC73_EBGC_ECOLI	SP='NO' D=0.097 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39314_YTFF_ECOLI  Inner membrane protein YtfF OS_Escherichia coli _strain K12_ GN_ytfF PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.128
+  max. Y    69       0.096
+  max. S     1       0.135
+  mean S     1-68    0.060
+       D     1-68    0.083   0.510   NO
+Name=sp_P39314_YTFF_ECOLI	SP='NO' D=0.083 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P28912_YHHI_ECOLI  H repeat-associated putative transposase YhhI OS_Escherichia coli _strain K12_ GN_yhhI PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.169
+  max. Y    42       0.240
+  max. S    36       0.654
+  mean S     1-41    0.185
+       D     1-41    0.214   0.570   NO
+Name=sp_P28912_YHHI_ECOLI	SP='NO' D=0.214 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76128_DDPA_ECOLI  Probable D,D-dipeptide-binding periplasmic protein DdpA OS_Escherichia coli _strain K12_ GN_ddpA PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.839
+  max. Y    26       0.853
+  max. S    12       0.947
+  mean S     1-25    0.902
+       D     1-25    0.876   0.570   YES
+Name=sp_P76128_DDPA_ECOLI	SP='YES' Cleavage site between pos. 25 and 26: AHA-AV D=0.876 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P65294_YGDR_ECOLI  Uncharacterized lipoprotein YgdR OS_Escherichia coli _strain K12_ GN_ygdR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.252
+  max. Y    28       0.354
+  max. S     6       0.899
+  mean S     1-27    0.702
+       D     1-27    0.517   0.570   NO
+Name=sp_P65294_YGDR_ECOLI	SP='NO' D=0.517 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P31469_CBRC_ECOLI  UPF0167 protein CbrC OS_Escherichia coli _strain K12_ GN_cbrC PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.106
+  max. Y    11       0.113
+  max. S     3       0.207
+  mean S     1-10    0.130
+       D     1-10    0.121   0.570   NO
+Name=sp_P31469_CBRC_ECOLI	SP='NO' D=0.121 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A6T5_GCH1_ECOLI  GTP cyclohydrolase 1 OS_Escherichia coli _strain K12_ GN_folE PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.125
+  max. Y    31       0.119
+  max. S    52       0.152
+  mean S     1-30    0.097
+       D     1-30    0.109   0.570   NO
+Name=sp_P0A6T5_GCH1_ECOLI	SP='NO' D=0.109 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39172_ZNUA_ECOLI  High-affinity zinc uptake system protein ZnuA OS_Escherichia coli _strain K12_ GN_znuA PE_1 SV_4
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.573
+  max. Y    27       0.662
+  max. S    13       0.971
+  mean S     1-26    0.853
+       D     1-26    0.752   0.570   YES
+Name=sp_P39172_ZNUA_ECOLI	SP='YES' Cleavage site between pos. 26 and 27: ADA-AV D=0.752 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P67127_YGDQ_ECOLI  UPF0053 inner membrane protein YgdQ OS_Escherichia coli _strain K12_ GN_ygdQ PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    49       0.350
+  max. Y    49       0.179
+  max. S     1       0.160
+  mean S     1-48    0.075
+       D     1-48    0.141   0.510   NO
+Name=sp_P67127_YGDQ_ECOLI	SP='NO' D=0.141 D-cutoff=0.510 Networks=SignalP-TM
+>sp_Q47129_FEAR_ECOLI  Transcriptional activator FeaR OS_Escherichia coli _strain K12_ GN_feaR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    53       0.104
+  max. Y    42       0.115
+  max. S    40       0.146
+  mean S     1-41    0.121
+       D     1-41    0.118   0.570   NO
+Name=sp_Q47129_FEAR_ECOLI	SP='NO' D=0.118 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P64524_CBTA_ECOLI  Cytoskeleton-binding toxin CbtA OS_Escherichia coli _strain K12_ GN_cbtA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    45       0.124
+  max. Y    12       0.124
+  max. S    11       0.271
+  mean S     1-11    0.141
+       D     1-11    0.132   0.570   NO
+Name=sp_P64524_CBTA_ECOLI	SP='NO' D=0.132 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P77357_ABGA_ECOLI  p-aminobenzoyl-glutamate hydrolase subunit A OS_Escherichia coli _strain K12_ GN_abgA PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    52       0.112
+  max. Y    54       0.104
+  max. S     3       0.138
+  mean S     1-53    0.089
+       D     1-53    0.097   0.570   NO
+Name=sp_P77357_ABGA_ECOLI	SP='NO' D=0.097 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P33341_YEHB_ECOLI  Outer membrane usher protein YehB OS_Escherichia coli _strain K12_ GN_yehB PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.679
+  max. Y    23       0.769
+  max. S    20       0.915
+  mean S     1-22    0.844
+       D     1-22    0.804   0.570   YES
+Name=sp_P33341_YEHB_ECOLI	SP='YES' Cleavage site between pos. 22 and 23: AYA-AE D=0.804 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P75711_YBBV_ECOLI  Uncharacterized protein YbbV OS_Escherichia coli _strain K12_ GN_ybbV PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    61       0.110
+  max. Y    11       0.123
+  max. S     7       0.185
+  mean S     1-10    0.159
+       D     1-10    0.136   0.510   NO
+Name=sp_P75711_YBBV_ECOLI	SP='NO' D=0.136 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0A8W8_YFBU_ECOLI  UPF0304 protein YfbU OS_Escherichia coli _strain K12_ GN_yfbU PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.249
+  max. Y    27       0.184
+  max. S     6       0.184
+  mean S     1-26    0.130
+       D     1-26    0.159   0.570   NO
+Name=sp_P0A8W8_YFBU_ECOLI	SP='NO' D=0.159 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P28697_MBIA_ECOLI  Uncharacterized protein MbiA OS_Escherichia coli _strain K12_ GN_mbiA PE_2 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.157
+  max. Y    35       0.192
+  max. S    50       0.342
+  mean S     1-34    0.218
+       D     1-34    0.204   0.570   NO
+Name=sp_P28697_MBIA_ECOLI	SP='NO' D=0.204 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P32140_SQUS_ECOLI  Sulfoquinovose isomerase OS_Escherichia coli _strain K12_ GN_yihS PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    66       0.127
+  max. Y    66       0.113
+  max. S     4       0.143
+  mean S     1-65    0.101
+       D     1-65    0.107   0.570   NO
+Name=sp_P32140_SQUS_ECOLI	SP='NO' D=0.107 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AFR4_YCIO_ECOLI  Uncharacterized protein YciO OS_Escherichia coli _strain K12_ GN_yciO PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.125
+  max. Y    42       0.115
+  max. S     4       0.154
+  mean S     1-41    0.111
+       D     1-41    0.114   0.570   NO
+Name=sp_P0AFR4_YCIO_ECOLI	SP='NO' D=0.114 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P27128_RFAI_ECOLI  Lipopolysaccharide 1,3-galactosyltransferase OS_Escherichia coli _strain K12_ GN_rfaI PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    49       0.114
+  max. Y    22       0.103
+  max. S    23       0.123
+  mean S     1-21    0.088
+       D     1-21    0.096   0.570   NO
+Name=sp_P27128_RFAI_ECOLI	SP='NO' D=0.096 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P00935_METB_ECOLI  Cystathionine gamma-synthase OS_Escherichia coli _strain K12_ GN_metB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.127
+  max. Y    37       0.123
+  max. S    36       0.181
+  mean S     1-36    0.103
+       D     1-36    0.114   0.570   NO
+Name=sp_P00935_METB_ECOLI	SP='NO' D=0.114 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P22186_MRAZ_ECOLI  Transcriptional regulator MraZ OS_Escherichia coli _strain K12_ GN_mraZ PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    55       0.116
+  max. Y    55       0.114
+  max. S     3       0.141
+  mean S     1-54    0.106
+       D     1-54    0.110   0.570   NO
+Name=sp_P22186_MRAZ_ECOLI	SP='NO' D=0.110 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P16917_RHSB_ECOLI  Protein RhsB OS_Escherichia coli _strain K12_ GN_rhsB PE_3 SV_4
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    46       0.116
+  max. Y    36       0.129
+  max. S    24       0.185
+  mean S     1-35    0.127
+       D     1-35    0.128   0.570   NO
+Name=sp_P16917_RHSB_ECOLI	SP='NO' D=0.128 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P36560_ASR_ECOLI  Acid shock protein OS_Escherichia coli _strain K12_ GN_asr PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.907
+  max. Y    22       0.944
+  max. S    18       0.989
+  mean S     1-21    0.976
+       D     1-21    0.959   0.570   YES
+Name=sp_P36560_ASR_ECOLI	SP='YES' Cleavage site between pos. 21 and 22: AFA-AE D=0.959 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P31129_YDEH_ECOLI  Diguanylate cyclase YdeH OS_Escherichia coli _strain K12_ GN_ydeH PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.128
+  max. Y    38       0.134
+  max. S    32       0.239
+  mean S     1-37    0.125
+       D     1-37    0.130   0.570   NO
+Name=sp_P31129_YDEH_ECOLI	SP='NO' D=0.130 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0CF43_INSC4_ECOLI  Transposase InsC for insertion element IS2H OS_Escherichia coli _strain K12_ GN_insC4 PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    63       0.105
+  max. Y    15       0.121
+  max. S     3       0.166
+  mean S     1-14    0.151
+       D     1-14    0.135   0.570   NO
+Name=sp_P0CF43_INSC4_ECOLI	SP='NO' D=0.135 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P31553_CAIT_ECOLI  L-carnitine_gamma-butyrobetaine antiporter OS_Escherichia coli _strain K12_ GN_caiT PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    36       0.144
+  max. Y    36       0.146
+  max. S    32       0.208
+  mean S     1-35    0.142
+       D     1-35    0.145   0.510   NO
+Name=sp_P31553_CAIT_ECOLI	SP='NO' D=0.145 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P09394_GLPQ_ECOLI  Glycerophosphodiester phosphodiesterase, periplasmic OS_Escherichia coli _strain K12_ GN_glpQ PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.712
+  max. Y    26       0.800
+  max. S    10       0.956
+  mean S     1-25    0.906
+       D     1-25    0.850   0.570   YES
+Name=sp_P09394_GLPQ_ECOLI	SP='YES' Cleavage site between pos. 25 and 26: AMA-AD D=0.850 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39173_YEAD_ECOLI  Putative glucose-6-phosphate 1-epimerase OS_Escherichia coli _strain K12_ GN_yeaD PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.201
+  max. Y    20       0.158
+  max. S     1       0.179
+  mean S     1-19    0.132
+       D     1-19    0.146   0.570   NO
+Name=sp_P39173_YEAD_ECOLI	SP='NO' D=0.146 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39347_INTB_ECOLI  Putative protein IntB OS_Escherichia coli _strain K12_ GN_intB PE_5 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    40       0.119
+  max. Y    40       0.118
+  max. S    37       0.163
+  mean S     1-39    0.112
+       D     1-39    0.115   0.570   NO
+Name=sp_P39347_INTB_ECOLI	SP='NO' D=0.115 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39196_LPLT_ECOLI  Lysophospholipid transporter LplT OS_Escherichia coli _strain K12_ GN_lplT PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.127
+  max. Y    28       0.151
+  max. S    26       0.241
+  mean S     1-27    0.154
+       D     1-27    0.152   0.510   NO
+Name=sp_P39196_LPLT_ECOLI	SP='NO' D=0.152 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P45795_YRDB_ECOLI  Uncharacterized protein YrdB OS_Escherichia coli _strain K12_ GN_yrdB PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.151
+  max. Y    42       0.175
+  max. S    33       0.412
+  mean S     1-41    0.137
+       D     1-41    0.157   0.570   NO
+Name=sp_P45795_YRDB_ECOLI	SP='NO' D=0.157 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ADJ3_YHJR_ECOLI  Protein YhjR OS_Escherichia coli _strain K12_ GN_yhjR PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.112
+  max. Y    38       0.098
+  max. S     1       0.104
+  mean S     1-37    0.076
+       D     1-37    0.087   0.570   NO
+Name=sp_P0ADJ3_YHJR_ECOLI	SP='NO' D=0.087 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ADE4_TAMA_ECOLI  Translocation and assembly module subunit TamA OS_Escherichia coli _strain K12_ GN_tamA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.861
+  max. Y    22       0.890
+  max. S    18       0.948
+  mean S     1-21    0.914
+       D     1-21    0.901   0.570   YES
+Name=sp_P0ADE4_TAMA_ECOLI	SP='YES' Cleavage site between pos. 21 and 22: AVA-AN D=0.901 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39362_SGCE_ECOLI  Protein SgcE OS_Escherichia coli _strain K12_ GN_sgcE PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    11       0.161
+  max. Y    11       0.149
+  max. S     7       0.216
+  mean S     1-10    0.141
+       D     1-10    0.145   0.570   NO
+Name=sp_P39362_SGCE_ECOLI	SP='NO' D=0.145 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0DP64_YBEM_ECOLI  Putative protein YbeM OS_Escherichia coli _strain K12_ GN_ybeM PE_5 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    53       0.156
+  max. Y    18       0.233
+  max. S    10       0.422
+  mean S     1-17    0.332
+       D     1-17    0.280   0.570   NO
+Name=sp_P0DP64_YBEM_ECOLI	SP='NO' D=0.280 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P43667_YGAH_ECOLI  Uncharacterized protein YgaH OS_Escherichia coli _strain K12_ GN_ygaH PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.142
+  max. Y    38       0.123
+  max. S     1       0.188
+  mean S     1-37    0.105
+       D     1-37    0.117   0.510   NO
+Name=sp_P43667_YGAH_ECOLI	SP='NO' D=0.117 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P75704_YKIA_ECOLI  Putative uncharacterized protein YkiA OS_Escherichia coli _strain K12_ GN_ykiA PE_5 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    44       0.137
+  max. Y    15       0.166
+  max. S    10       0.372
+  mean S     1-14    0.264
+       D     1-14    0.212   0.570   NO
+Name=sp_P75704_YKIA_ECOLI	SP='NO' D=0.212 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P77173_ZIPA_ECOLI  Cell division protein ZipA OS_Escherichia coli _strain K12_ GN_zipA PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.169
+  max. Y    66       0.107
+  max. S     2       0.149
+  mean S     1-65    0.091
+       D     1-65    0.101   0.510   NO
+Name=sp_P77173_ZIPA_ECOLI	SP='NO' D=0.101 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P30131_HYPF_ECOLI  Carbamoyltransferase HypF OS_Escherichia coli _strain K12_ GN_hypF PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.113
+  max. Y    20       0.142
+  max. S     2       0.211
+  mean S     1-19    0.177
+       D     1-19    0.159   0.570   NO
+Name=sp_P30131_HYPF_ECOLI	SP='NO' D=0.159 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P77596_YAGF_ECOLI  D-xylonate dehydratase YagF OS_Escherichia coli _strain K12_ GN_yagF PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.179
+  max. Y    22       0.140
+  max. S    26       0.215
+  mean S     1-21    0.105
+       D     1-21    0.124   0.570   NO
+Name=sp_P77596_YAGF_ECOLI	SP='NO' D=0.124 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P31808_YCIK_ECOLI  Uncharacterized oxidoreductase YciK OS_Escherichia coli _strain K12_ GN_yciK PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.112
+  max. Y    11       0.129
+  max. S     1       0.285
+  mean S     1-10    0.152
+       D     1-10    0.140   0.570   NO
+Name=sp_P31808_YCIK_ECOLI	SP='NO' D=0.140 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P07363_CHEA_ECOLI  Chemotaxis protein CheA OS_Escherichia coli _strain K12_ GN_cheA PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    17       0.108
+  max. Y    70       0.095
+  max. S    70       0.100
+  mean S     1-69    0.075
+       D     1-69    0.086   0.570   NO
+Name=sp_P07363_CHEA_ECOLI	SP='NO' D=0.086 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76008_LDCA_ECOLI  Murein tetrapeptide carboxypeptidase OS_Escherichia coli _strain K12_ GN_ldcA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    19       0.154
+  max. Y    19       0.139
+  max. S    12       0.165
+  mean S     1-18    0.126
+       D     1-18    0.133   0.570   NO
+Name=sp_P76008_LDCA_ECOLI	SP='NO' D=0.133 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0DPC5_YTID_ECOLI  Protein YtiD OS_Escherichia coli _strain K12_ GN_ytiD PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.101
+  max. Y    31       0.099
+  max. S    21       0.110
+  mean S     1-30    0.083
+       D     1-30    0.092   0.570   NO
+Name=sp_P0DPC5_YTID_ECOLI	SP='NO' D=0.092 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A8F8_UVRB_ECOLI  UvrABC system protein B OS_Escherichia coli _strain K12_ GN_uvrB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    65       0.130
+  max. Y    65       0.113
+  max. S    50       0.137
+  mean S     1-64    0.093
+       D     1-64    0.104   0.570   NO
+Name=sp_P0A8F8_UVRB_ECOLI	SP='NO' D=0.104 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A8Y3_YIHX_ECOLI  Alpha-D-glucose 1-phosphate phosphatase YihX OS_Escherichia coli _strain K12_ GN_yihX PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.142
+  max. Y    22       0.122
+  max. S    21       0.128
+  mean S     1-21    0.100
+       D     1-21    0.112   0.570   NO
+Name=sp_P0A8Y3_YIHX_ECOLI	SP='NO' D=0.112 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AFW8_ROF_ECOLI  Protein rof OS_Escherichia coli _strain K12_ GN_rof PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.127
+  max. Y    41       0.108
+  max. S    55       0.109
+  mean S     1-40    0.086
+       D     1-40    0.097   0.570   NO
+Name=sp_P0AFW8_ROF_ECOLI	SP='NO' D=0.097 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P27243_RFAL_ECOLI  O-antigen ligase OS_Escherichia coli _strain K12_ GN_rfaL PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.114
+  max. Y    11       0.122
+  max. S     5       0.180
+  mean S     1-10    0.156
+       D     1-10    0.135   0.510   NO
+Name=sp_P27243_RFAL_ECOLI	SP='NO' D=0.135 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P02338_PRTL_ECOLI  Protamine-like protein OS_Escherichia coli _strain K12_ GN_tpr PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    17       0.100
+  max. Y    11       0.126
+  max. S     4       0.196
+  mean S     1-10    0.164
+       D     1-10    0.144   0.570   NO
+Name=sp_P02338_PRTL_ECOLI	SP='NO' D=0.144 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AFM9_PSPB_ECOLI  Phage shock protein B OS_Escherichia coli _strain K12_ GN_pspB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.112
+  max. Y    11       0.101
+  max. S     1       0.200
+  mean S     1-10    0.090
+       D     1-10    0.097   0.510   NO
+Name=sp_P0AFM9_PSPB_ECOLI	SP='NO' D=0.097 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0A912_PAL_ECOLI  Peptidoglycan-associated lipoprotein OS_Escherichia coli _strain K12_ GN_pal PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.500
+  max. Y    21       0.534
+  max. S    18       0.965
+  mean S     1-20    0.907
+       D     1-20    0.709   0.570   YES
+Name=sp_P0A912_PAL_ECOLI	SP='YES' Cleavage site between pos. 20 and 21: AIA-AC D=0.709 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P63177_RLMB_ECOLI  23S rRNA _guanosine-2_-O-_-methyltransferase RlmB OS_Escherichia coli _strain K12_ GN_rlmB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.115
+  max. Y    24       0.107
+  max. S    23       0.131
+  mean S     1-23    0.091
+       D     1-23    0.099   0.570   NO
+Name=sp_P63177_RLMB_ECOLI	SP='NO' D=0.099 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A8L1_SYS_ECOLI  Serine--tRNA ligase OS_Escherichia coli _strain K12_ GN_serS PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    67       0.100
+  max. Y    67       0.101
+  max. S    42       0.113
+  mean S     1-66    0.089
+       D     1-66    0.096   0.570   NO
+Name=sp_P0A8L1_SYS_ECOLI	SP='NO' D=0.096 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AC41_SDHA_ECOLI  Succinate dehydrogenase flavoprotein subunit OS_Escherichia coli _strain K12_ GN_sdhA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    50       0.189
+  max. Y    50       0.162
+  max. S     3       0.205
+  mean S     1-49    0.145
+       D     1-49    0.154   0.570   NO
+Name=sp_P0AC41_SDHA_ECOLI	SP='NO' D=0.154 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_Q2EEU2_YJHX_ECOLI  UPF0386 protein YjhX OS_Escherichia coli _strain K12_ GN_yjhX PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.106
+  max. Y    12       0.111
+  max. S     3       0.166
+  mean S     1-11    0.127
+       D     1-11    0.119   0.570   NO
+Name=sp_Q2EEU2_YJHX_ECOLI	SP='NO' D=0.119 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P46141_YGBE_ECOLI  Inner membrane protein YgbE OS_Escherichia coli _strain K12_ GN_ygbE PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.233
+  max. Y    70       0.108
+  max. S    62       0.159
+  mean S     1-69    0.068
+       D     1-69    0.093   0.510   NO
+Name=sp_P46141_YGBE_ECOLI	SP='NO' D=0.093 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AGA2_SECY_ECOLI  Protein translocase subunit SecY OS_Escherichia coli _strain K12_ GN_secY PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    47       0.104
+  max. Y    47       0.103
+  max. S    12       0.116
+  mean S     1-46    0.083
+       D     1-46    0.095   0.510   NO
+Name=sp_P0AGA2_SECY_ECOLI	SP='NO' D=0.095 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0A8I5_TRMB_ECOLI  tRNA _guanine-N_7_-_-methyltransferase OS_Escherichia coli _strain K12_ GN_trmB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.133
+  max. Y    16       0.129
+  max. S    11       0.201
+  mean S     1-15    0.153
+       D     1-15    0.140   0.570   NO
+Name=sp_P0A8I5_TRMB_ECOLI	SP='NO' D=0.140 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P32709_NRFD_ECOLI  Protein NrfD OS_Escherichia coli _strain K12_ GN_nrfD PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    46       0.148
+  max. Y    48       0.132
+  max. S    45       0.213
+  mean S     1-47    0.066
+       D     1-47    0.108   0.510   NO
+Name=sp_P32709_NRFD_ECOLI	SP='NO' D=0.108 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P52644_HSLJ_ECOLI  Heat shock protein HslJ OS_Escherichia coli _strain K12_ GN_hslJ PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.238
+  max. Y    21       0.427
+  max. S    13       0.937
+  mean S     1-20    0.844
+       D     1-20    0.623   0.570   YES
+Name=sp_P52644_HSLJ_ECOLI	SP='YES' Cleavage site between pos. 20 and 21: VSN-DK D=0.623 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P36678_GSPM_ECOLI  Putative type II secretion system protein M OS_Escherichia coli _strain K12_ GN_gspM PE_2 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.121
+  max. Y    16       0.117
+  max. S    11       0.172
+  mean S     1-15    0.133
+       D     1-15    0.123   0.510   NO
+Name=sp_P36678_GSPM_ECOLI	SP='NO' D=0.123 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P32690_YJBI_ECOLI  Putative uncharacterized protein YjbI OS_Escherichia coli _strain K12_ GN_yjbI PE_5 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    19       0.141
+  max. Y    19       0.109
+  max. S    49       0.133
+  mean S     1-18    0.078
+       D     1-18    0.094   0.570   NO
+Name=sp_P32690_YJBI_ECOLI	SP='NO' D=0.094 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P46852_YHHW_ECOLI  Quercetin 2,3-dioxygenase OS_Escherichia coli _strain K12_ GN_yhhW PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.165
+  max. Y    28       0.122
+  max. S     7       0.147
+  mean S     1-27    0.100
+       D     1-27    0.111   0.570   NO
+Name=sp_P46852_YHHW_ECOLI	SP='NO' D=0.111 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P32687_YJBF_ECOLI  Uncharacterized lipoprotein YjbF OS_Escherichia coli _strain K12_ GN_yjbF PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.427
+  max. Y    21       0.597
+  max. S    17       0.960
+  mean S     1-20    0.829
+       D     1-20    0.706   0.570   YES
+Name=sp_P32687_YJBF_ECOLI	SP='YES' Cleavage site between pos. 20 and 21: ATT-KE D=0.706 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P63204_GADE_ECOLI  Transcriptional regulator GadE OS_Escherichia coli _strain K12_ GN_gadE PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    19       0.103
+  max. Y    19       0.103
+  max. S     1       0.141
+  mean S     1-18    0.104
+       D     1-18    0.104   0.570   NO
+Name=sp_P63204_GADE_ECOLI	SP='NO' D=0.104 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39902_SPRT_ECOLI  Protein SprT OS_Escherichia coli _strain K12_ GN_sprT PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.125
+  max. Y    11       0.150
+  max. S     3       0.294
+  mean S     1-10    0.219
+       D     1-10    0.182   0.570   NO
+Name=sp_P39902_SPRT_ECOLI	SP='NO' D=0.182 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P31979_NUOF_ECOLI  NADH-quinone oxidoreductase subunit F OS_Escherichia coli _strain K12_ GN_nuoF PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    57       0.101
+  max. Y    11       0.123
+  max. S     1       0.261
+  mean S     1-10    0.135
+       D     1-10    0.128   0.570   NO
+Name=sp_P31979_NUOF_ECOLI	SP='NO' D=0.128 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P43341_LPXH_ECOLI  UDP-2,3-diacylglucosamine hydrolase OS_Escherichia coli _strain K12_ GN_lpxH PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.160
+  max. Y    20       0.126
+  max. S    11       0.184
+  mean S     1-19    0.116
+       D     1-19    0.121   0.570   NO
+Name=sp_P43341_LPXH_ECOLI	SP='NO' D=0.121 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ACS5_ZNTR_ECOLI  HTH-type transcriptional regulator ZntR OS_Escherichia coli _strain K12_ GN_zntR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    55       0.106
+  max. Y    38       0.108
+  max. S    21       0.126
+  mean S     1-37    0.100
+       D     1-37    0.104   0.570   NO
+Name=sp_P0ACS5_ZNTR_ECOLI	SP='NO' D=0.104 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AA89_DOSC_ECOLI  Diguanylate cyclase DosC OS_Escherichia coli _strain K12_ GN_dosC PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.150
+  max. Y    53       0.110
+  max. S    60       0.120
+  mean S     1-52    0.084
+       D     1-52    0.098   0.570   NO
+Name=sp_P0AA89_DOSC_ECOLI	SP='NO' D=0.098 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P16687_PHNI_ECOLI  Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI OS_Escherichia coli _strain K12_ GN_phnI PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.115
+  max. Y    36       0.100
+  max. S    27       0.106
+  mean S     1-35    0.081
+       D     1-35    0.091   0.570   NO
+Name=sp_P16687_PHNI_ECOLI	SP='NO' D=0.091 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P64581_YQJD_ECOLI  Uncharacterized protein YqjD OS_Escherichia coli _strain K12_ GN_yqjD PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.103
+  max. Y    33       0.103
+  max. S     1       0.117
+  mean S     1-32    0.089
+       D     1-32    0.096   0.570   NO
+Name=sp_P64581_YQJD_ECOLI	SP='NO' D=0.096 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P08400_PHOR_ECOLI  Phosphate regulon sensor protein PhoR OS_Escherichia coli _strain K12_ GN_phoR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.170
+  max. Y    11       0.128
+  max. S     3       0.231
+  mean S     1-10    0.168
+       D     1-10    0.143   0.510   NO
+Name=sp_P08400_PHOR_ECOLI	SP='NO' D=0.143 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0CF69_INSE4_ECOLI  Transposase InsE for insertion sequence IS3D OS_Escherichia coli _strain K12_ GN_insE4 PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.109
+  max. Y    11       0.128
+  max. S     6       0.243
+  mean S     1-10    0.176
+       D     1-10    0.150   0.570   NO
+Name=sp_P0CF69_INSE4_ECOLI	SP='NO' D=0.150 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ACU5_FABR_ECOLI  HTH-type transcriptional repressor FabR OS_Escherichia coli _strain K12_ GN_fabR PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    50       0.174
+  max. Y    50       0.134
+  max. S     6       0.193
+  mean S     1-49    0.120
+       D     1-49    0.127   0.570   NO
+Name=sp_P0ACU5_FABR_ECOLI	SP='NO' D=0.127 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P11875_SYR_ECOLI  Arginine--tRNA ligase OS_Escherichia coli _strain K12_ GN_argS PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.136
+  max. Y    11       0.142
+  max. S     6       0.269
+  mean S     1-10    0.215
+       D     1-10    0.177   0.570   NO
+Name=sp_P11875_SYR_ECOLI	SP='NO' D=0.177 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P31069_KCH_ECOLI  Voltage-gated potassium channel Kch OS_Escherichia coli _strain K12_ GN_kch PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.106
+  max. Y    11       0.114
+  max. S     4       0.153
+  mean S     1-10    0.136
+       D     1-10    0.122   0.510   NO
+Name=sp_P31069_KCH_ECOLI	SP='NO' D=0.122 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0CF93_INSL3_ECOLI  Putative transposase InsL for insertion sequence element IS186C OS_Escherichia coli _strain K12_ GN_insL3 PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    65       0.124
+  max. Y    52       0.117
+  max. S    49       0.197
+  mean S     1-51    0.101
+       D     1-51    0.109   0.570   NO
+Name=sp_P0CF93_INSL3_ECOLI	SP='NO' D=0.109 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A6W9_GSH1_ECOLI  Glutamate--cysteine ligase OS_Escherichia coli _strain K12_ GN_gshA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.149
+  max. Y    21       0.110
+  max. S    29       0.106
+  mean S     1-20    0.073
+       D     1-20    0.093   0.570   NO
+Name=sp_P0A6W9_GSH1_ECOLI	SP='NO' D=0.093 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AAU5_YBFB_ECOLI  Uncharacterized protein YbfB OS_Escherichia coli _strain K12_ GN_ybfB PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.135
+  max. Y    29       0.168
+  max. S    26       0.303
+  mean S     1-28    0.147
+       D     1-28    0.160   0.510   NO
+Name=sp_P0AAU5_YBFB_ECOLI	SP='NO' D=0.160 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P06993_MALT_ECOLI  HTH-type transcriptional regulator MalT OS_Escherichia coli _strain K12_ GN_malT PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    36       0.120
+  max. Y    17       0.145
+  max. S    15       0.242
+  mean S     1-16    0.198
+       D     1-16    0.170   0.570   NO
+Name=sp_P06993_MALT_ECOLI	SP='NO' D=0.170 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P41036_NANT_ECOLI  Sialic acid transporter NanT OS_Escherichia coli _strain K12_ GN_nanT PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    58       0.109
+  max. Y    16       0.124
+  max. S     5       0.206
+  mean S     1-15    0.153
+       D     1-15    0.135   0.510   NO
+Name=sp_P41036_NANT_ECOLI	SP='NO' D=0.135 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P71242_WCAK_ECOLI  Colanic acid biosynthesis protein WcaK OS_Escherichia coli _strain K12_ GN_wcaK PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.188
+  max. Y    35       0.153
+  max. S    34       0.215
+  mean S     1-34    0.121
+       D     1-34    0.138   0.570   NO
+Name=sp_P71242_WCAK_ECOLI	SP='NO' D=0.138 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P32710_NRFE_ECOLI  Probable cytochrome c-type biogenesis protein NrfE OS_Escherichia coli _strain K12_ GN_nrfE PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    10       0.193
+  max. Y    17       0.121
+  max. S     7       0.204
+  mean S     1-16    0.147
+       D     1-16    0.130   0.510   NO
+Name=sp_P32710_NRFE_ECOLI	SP='NO' D=0.130 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P46853_YHHX_ECOLI  Uncharacterized oxidoreductase YhhX OS_Escherichia coli _strain K12_ GN_yhhX PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.112
+  max. Y    21       0.130
+  max. S    15       0.206
+  mean S     1-20    0.141
+       D     1-20    0.135   0.570   NO
+Name=sp_P46853_YHHX_ECOLI	SP='NO' D=0.135 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P18956_GGT_ECOLI  Glutathione hydrolase proenzyme OS_Escherichia coli _strain K12_ GN_ggt PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.723
+  max. Y    26       0.836
+  max. S    22       0.987
+  mean S     1-25    0.959
+       D     1-25    0.894   0.570   YES
+Name=sp_P18956_GGT_ECOLI	SP='YES' Cleavage site between pos. 25 and 26: AAA-AP D=0.894 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AFW2_RMF_ECOLI  Ribosome modulation factor OS_Escherichia coli _strain K12_ GN_rmf PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    50       0.118
+  max. Y    11       0.129
+  max. S     5       0.185
+  mean S     1-10    0.165
+       D     1-10    0.146   0.570   NO
+Name=sp_P0AFW2_RMF_ECOLI	SP='NO' D=0.146 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76100_YDCK_ECOLI  Uncharacterized acetyltransferase YdcK OS_Escherichia coli _strain K12_ GN_ydcK PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    55       0.163
+  max. Y    55       0.119
+  max. S     9       0.164
+  mean S     1-54    0.108
+       D     1-54    0.114   0.570   NO
+Name=sp_P76100_YDCK_ECOLI	SP='NO' D=0.114 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76083_PAAH_ECOLI  3-hydroxyadipyl-CoA dehydrogenase OS_Escherichia coli _strain K12_ GN_paaH PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.145
+  max. Y    19       0.195
+  max. S    17       0.433
+  mean S     1-18    0.321
+       D     1-18    0.254   0.570   NO
+Name=sp_P76083_PAAH_ECOLI	SP='NO' D=0.254 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P33997_ALPA_ECOLI  DNA-binding transcriptional activator AlpA OS_Escherichia coli _strain K12_ GN_alpA PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.227
+  max. Y    25       0.232
+  max. S     2       0.536
+  mean S     1-24    0.311
+       D     1-24    0.269   0.570   NO
+Name=sp_P33997_ALPA_ECOLI	SP='NO' D=0.269 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A9P9_IDNO_ECOLI  5-keto-D-gluconate 5-reductase OS_Escherichia coli _strain K12_ GN_idnO PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.181
+  max. Y    21       0.164
+  max. S     2       0.202
+  mean S     1-20    0.157
+       D     1-20    0.162   0.510   NO
+Name=sp_P0A9P9_IDNO_ECOLI	SP='NO' D=0.162 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P77569_MHPR_ECOLI  DNA-binding transcriptional activator MhpR OS_Escherichia coli _strain K12_ GN_mhpR PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.119
+  max. Y    13       0.191
+  max. S     5       0.460
+  mean S     1-12    0.371
+       D     1-12    0.275   0.570   NO
+Name=sp_P77569_MHPR_ECOLI	SP='NO' D=0.275 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_Q47689_MMUP_ECOLI  Probable S-methylmethionine permease OS_Escherichia coli _strain K12_ GN_mmuP PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.108
+  max. Y    16       0.162
+  max. S     8       0.316
+  mean S     1-15    0.263
+       D     1-15    0.200   0.510   NO
+Name=sp_Q47689_MMUP_ECOLI	SP='NO' D=0.200 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AAY4_YBJH_ECOLI  Uncharacterized protein YbjH OS_Escherichia coli _strain K12_ GN_ybjH PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.874
+  max. Y    23       0.915
+  max. S    11       0.982
+  mean S     1-22    0.958
+       D     1-22    0.935   0.570   YES
+Name=sp_P0AAY4_YBJH_ECOLI	SP='YES' Cleavage site between pos. 22 and 23: AMA-QS D=0.935 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ADL1_NEPI_ECOLI  Purine ribonucleoside efflux pump NepI OS_Escherichia coli _strain K12_ GN_nepI PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    48       0.151
+  max. Y    48       0.151
+  max. S    41       0.221
+  mean S     1-47    0.114
+       D     1-47    0.137   0.510   NO
+Name=sp_P0ADL1_NEPI_ECOLI	SP='NO' D=0.137 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P36677_YHDN_ECOLI  Uncharacterized protein YhdN OS_Escherichia coli _strain K12_ GN_yhdN PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.123
+  max. Y    46       0.099
+  max. S    66       0.104
+  mean S     1-45    0.069
+       D     1-45    0.085   0.570   NO
+Name=sp_P36677_YHDN_ECOLI	SP='NO' D=0.085 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P33940_MQO_ECOLI  Malate_quinone oxidoreductase OS_Escherichia coli _strain K12_ GN_mqo PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.278
+  max. Y    22       0.429
+  max. S    12       0.939
+  mean S     1-21    0.883
+       D     1-21    0.642   0.570   YES
+Name=sp_P33940_MQO_ECOLI	SP='YES' Cleavage site between pos. 21 and 22: SMA-AK D=0.642 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P32106_YIBG_ECOLI  Uncharacterized protein YibG OS_Escherichia coli _strain K12_ GN_yibG PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.567
+  max. Y    20       0.642
+  max. S    14       0.847
+  mean S     1-19    0.719
+       D     1-19    0.678   0.570   YES
+Name=sp_P32106_YIBG_ECOLI	SP='YES' Cleavage site between pos. 19 and 20: LHG-AD D=0.678 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P64540_YFCL_ECOLI  Uncharacterized protein YfcL OS_Escherichia coli _strain K12_ GN_yfcL PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    53       0.144
+  max. Y    53       0.111
+  max. S    20       0.118
+  mean S     1-52    0.077
+       D     1-52    0.095   0.570   NO
+Name=sp_P64540_YFCL_ECOLI	SP='NO' D=0.095 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P65367_YQCA_ECOLI  Uncharacterized protein YqcA OS_Escherichia coli _strain K12_ GN_yqcA PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.157
+  max. Y    25       0.165
+  max. S    12       0.248
+  mean S     1-24    0.167
+       D     1-24    0.166   0.570   NO
+Name=sp_P65367_YQCA_ECOLI	SP='NO' D=0.166 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AC55_GLNK_ECOLI  Nitrogen regulatory protein P-II 2 OS_Escherichia coli _strain K12_ GN_glnK PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    67       0.123
+  max. Y    22       0.107
+  max. S     2       0.133
+  mean S     1-21    0.107
+       D     1-21    0.107   0.570   NO
+Name=sp_P0AC55_GLNK_ECOLI	SP='NO' D=0.107 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P46118_HEXR_ECOLI  HTH-type transcriptional regulator HexR OS_Escherichia coli _strain K12_ GN_hexR PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.186
+  max. Y    42       0.151
+  max. S    39       0.169
+  mean S     1-41    0.096
+       D     1-41    0.125   0.570   NO
+Name=sp_P46118_HEXR_ECOLI	SP='NO' D=0.125 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AAY6_YBJN_ECOLI  Uncharacterized protein YbjN OS_Escherichia coli _strain K12_ GN_ybjN PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    62       0.134
+  max. Y    62       0.107
+  max. S    15       0.120
+  mean S     1-61    0.085
+       D     1-61    0.097   0.570   NO
+Name=sp_P0AAY6_YBJN_ECOLI	SP='NO' D=0.097 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P06989_HIS2_ECOLI  Histidine biosynthesis bifunctional protein HisIE OS_Escherichia coli _strain K12_ GN_hisI PE_3 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.124
+  max. Y    42       0.125
+  max. S    37       0.146
+  mean S     1-41    0.109
+       D     1-41    0.118   0.570   NO
+Name=sp_P06989_HIS2_ECOLI	SP='NO' D=0.118 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AD03_YEBS_ECOLI  Inner membrane protein YebS OS_Escherichia coli _strain K12_ GN_yebS PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    57       0.112
+  max. Y    11       0.125
+  max. S     2       0.264
+  mean S     1-10    0.150
+       D     1-10    0.137   0.570   NO
+Name=sp_P0AD03_YEBS_ECOLI	SP='NO' D=0.137 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AAT6_IOJAP_ECOLI  Ribosomal silencing factor RsfS OS_Escherichia coli _strain K12_ GN_rsfS PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    47       0.122
+  max. Y    53       0.113
+  max. S    48       0.169
+  mean S     1-52    0.081
+       D     1-52    0.098   0.570   NO
+Name=sp_P0AAT6_IOJAP_ECOLI	SP='NO' D=0.098 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P15029_FECD_ECOLI  Fe_3__ dicitrate transport system permease protein FecD OS_Escherichia coli _strain K12_ GN_fecD PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.121
+  max. Y    11       0.174
+  max. S     2       0.477
+  mean S     1-10    0.294
+       D     1-10    0.218   0.510   NO
+Name=sp_P15029_FECD_ECOLI	SP='NO' D=0.218 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P52140_YFJY_ECOLI  UPF0758 protein YfjY OS_Escherichia coli _strain K12_ GN_yfjY PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.110
+  max. Y    18       0.133
+  max. S     8       0.197
+  mean S     1-17    0.159
+       D     1-17    0.145   0.570   NO
+Name=sp_P52140_YFJY_ECOLI	SP='NO' D=0.145 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_Q46868_YQIC_ECOLI  Uncharacterized protein YqiC OS_Escherichia coli _strain K12_ GN_yqiC PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    40       0.102
+  max. Y    64       0.103
+  max. S    27       0.126
+  mean S     1-63    0.093
+       D     1-63    0.099   0.570   NO
+Name=sp_Q46868_YQIC_ECOLI	SP='NO' D=0.099 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A9H1_MUG_ECOLI  G_U mismatch-specific DNA glycosylase OS_Escherichia coli _strain K12_ GN_mug PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.322
+  max. Y    25       0.252
+  max. S    22       0.366
+  mean S     1-24    0.172
+       D     1-24    0.215   0.570   NO
+Name=sp_P0A9H1_MUG_ECOLI	SP='NO' D=0.215 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39263_YFCC_ECOLI  Putative basic amino acid antiporter YfcC OS_Escherichia coli _strain K12_ GN_yfcC PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    49       0.144
+  max. Y    49       0.153
+  max. S    39       0.227
+  mean S     1-48    0.137
+       D     1-48    0.147   0.510   NO
+Name=sp_P39263_YFCC_ECOLI	SP='NO' D=0.147 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P32694_YJBM_ECOLI  Uncharacterized protein YjbM OS_Escherichia coli _strain K12_ GN_yjbM PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    39       0.109
+  max. Y    44       0.109
+  max. S    36       0.137
+  mean S     1-43    0.096
+       D     1-43    0.103   0.570   NO
+Name=sp_P32694_YJBM_ECOLI	SP='NO' D=0.103 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76613_YPJC_ECOLI  Putative uncharacterized protein YpjC OS_Escherichia coli _strain K12_ GN_ypjC PE_5 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.106
+  max. Y    11       0.136
+  max. S     1       0.274
+  mean S     1-10    0.177
+       D     1-10    0.155   0.570   NO
+Name=sp_P76613_YPJC_ECOLI	SP='NO' D=0.155 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P64515_YECN_ECOLI  Inner membrane protein YecN OS_Escherichia coli _strain K12_ GN_yecN PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.119
+  max. Y    11       0.154
+  max. S     1       0.361
+  mean S     1-10    0.229
+       D     1-10    0.182   0.510   NO
+Name=sp_P64515_YECN_ECOLI	SP='NO' D=0.182 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AFP9_YBHR_ECOLI  Inner membrane transport permease YbhR OS_Escherichia coli _strain K12_ GN_ybhR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.153
+  max. Y    44       0.162
+  max. S    40       0.442
+  mean S     1-43    0.134
+       D     1-43    0.152   0.510   NO
+Name=sp_P0AFP9_YBHR_ECOLI	SP='NO' D=0.152 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P61887_RMLA2_ECOLI  Glucose-1-phosphate thymidylyltransferase 2 OS_Escherichia coli _strain K12_ GN_rffH PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.098
+  max. Y    16       0.111
+  max. S     7       0.146
+  mean S     1-15    0.125
+       D     1-15    0.116   0.510   NO
+Name=sp_P61887_RMLA2_ECOLI	SP='NO' D=0.116 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AAB8_USPD_ECOLI  Universal stress protein D OS_Escherichia coli _strain K12_ GN_uspD PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    54       0.108
+  max. Y    66       0.101
+  max. S    56       0.109
+  mean S     1-65    0.081
+       D     1-65    0.092   0.570   NO
+Name=sp_P0AAB8_USPD_ECOLI	SP='NO' D=0.092 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P75967_YMFD_ECOLI  Uncharacterized protein YmfD OS_Escherichia coli _strain K12_ GN_ymfD PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.120
+  max. Y    20       0.128
+  max. S     2       0.166
+  mean S     1-19    0.137
+       D     1-19    0.132   0.570   NO
+Name=sp_P75967_YMFD_ECOLI	SP='NO' D=0.132 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P69346_YEFM_ECOLI  Antitoxin YefM OS_Escherichia coli _strain K12_ GN_yefM PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    62       0.181
+  max. Y    62       0.138
+  max. S     1       0.221
+  mean S     1-61    0.113
+       D     1-61    0.126   0.570   NO
+Name=sp_P69346_YEFM_ECOLI	SP='NO' D=0.126 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AE58_CAIF_ECOLI  Transcriptional activatory protein CaiF OS_Escherichia coli _strain K12_ GN_caiF PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.221
+  max. Y    28       0.158
+  max. S     1       0.148
+  mean S     1-27    0.120
+       D     1-27    0.140   0.570   NO
+Name=sp_P0AE58_CAIF_ECOLI	SP='NO' D=0.140 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_Q2M5U1_YTJA_ECOLI  UPF0391 membrane protein YtjA OS_Escherichia coli _strain K12_ GN_ytjA PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.166
+  max. Y    20       0.173
+  max. S    12       0.335
+  mean S     1-19    0.242
+       D     1-19    0.198   0.510   NO
+Name=sp_Q2M5U1_YTJA_ECOLI	SP='NO' D=0.198 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P00904_TRPGD_ECOLI  Bifunctional protein TrpGD OS_Escherichia coli _strain K12_ GN_trpGD PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    19       0.166
+  max. Y    19       0.128
+  max. S    40       0.178
+  mean S     1-18    0.090
+       D     1-18    0.111   0.570   NO
+Name=sp_P00904_TRPGD_ECOLI	SP='NO' D=0.111 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P64481_YDJM_ECOLI  Inner membrane protein YdjM OS_Escherichia coli _strain K12_ GN_ydjM PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.333
+  max. Y    18       0.278
+  max. S    12       0.465
+  mean S     1-17    0.289
+       D     1-17    0.284   0.570   NO
+Name=sp_P64481_YDJM_ECOLI	SP='NO' D=0.284 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76418_YEGU_ECOLI  Uncharacterized protein YegU OS_Escherichia coli _strain K12_ GN_yegU PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.117
+  max. Y    21       0.131
+  max. S    14       0.198
+  mean S     1-20    0.144
+       D     1-20    0.137   0.570   NO
+Name=sp_P76418_YEGU_ECOLI	SP='NO' D=0.137 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0CF25_INSB1_ECOLI  Insertion element IS1 1 protein InsB OS_Escherichia coli _strain K12_ GN_insB1 PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    53       0.112
+  max. Y    12       0.112
+  max. S     2       0.160
+  mean S     1-11    0.128
+       D     1-11    0.119   0.570   NO
+Name=sp_P0CF25_INSB1_ECOLI	SP='NO' D=0.119 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_A5A615_YNCL_ECOLI  Uncharacterized protein YncL OS_Escherichia coli _strain K12_ GN_yncL PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.099
+  max. Y    11       0.133
+  max. S     3       0.264
+  mean S     1-10    0.174
+       D     1-10    0.148   0.510   NO
+Name=sp_A5A615_YNCL_ECOLI	SP='NO' D=0.148 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P06616_ERA_ECOLI  GTPase Era OS_Escherichia coli _strain K12_ GN_era PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.127
+  max. Y    21       0.138
+  max. S    10       0.217
+  mean S     1-20    0.153
+       D     1-20    0.145   0.570   NO
+Name=sp_P06616_ERA_ECOLI	SP='NO' D=0.145 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_Q46836_PPPA_ECOLI  Leader peptidase PppA OS_Escherichia coli _strain K12_ GN_pppA PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.178
+  max. Y    18       0.157
+  max. S    10       0.178
+  mean S     1-17    0.143
+       D     1-17    0.152   0.510   NO
+Name=sp_Q46836_PPPA_ECOLI	SP='NO' D=0.152 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P45546_YHFT_ECOLI  Uncharacterized protein YhfT OS_Escherichia coli _strain K12_ GN_yhfT PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.311
+  max. Y    22       0.337
+  max. S    21       0.685
+  mean S     1-21    0.308
+       D     1-21    0.326   0.510   NO
+Name=sp_P45546_YHFT_ECOLI	SP='NO' D=0.326 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AF76_YJFI_ECOLI  Uncharacterized protein YjfI OS_Escherichia coli _strain K12_ GN_yjfI PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.124
+  max. Y    11       0.148
+  max. S     8       0.298
+  mean S     1-10    0.212
+       D     1-10    0.178   0.570   NO
+Name=sp_P0AF76_YJFI_ECOLI	SP='NO' D=0.178 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39304_ULAD_ECOLI  3-keto-L-gulonate-6-phosphate decarboxylase UlaD OS_Escherichia coli _strain K12_ GN_ulaD PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    47       0.112
+  max. Y    17       0.117
+  max. S     6       0.206
+  mean S     1-16    0.125
+       D     1-16    0.120   0.570   NO
+Name=sp_P39304_ULAD_ECOLI	SP='NO' D=0.120 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P08660_AK3_ECOLI  Lysine-sensitive aspartokinase 3 OS_Escherichia coli _strain K12_ GN_lysC PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.206
+  max. Y    53       0.240
+  max. S    49       0.547
+  mean S     1-52    0.154
+       D     1-52    0.200   0.570   NO
+Name=sp_P08660_AK3_ECOLI	SP='NO' D=0.200 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P25550_ASLB_ECOLI  Anaerobic sulfatase-maturating enzyme homolog AslB OS_Escherichia coli _strain K12_ GN_aslB PE_3 SV_4
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.108
+  max. Y    11       0.128
+  max. S     5       0.224
+  mean S     1-10    0.170
+       D     1-10    0.148   0.570   NO
+Name=sp_P25550_ASLB_ECOLI	SP='NO' D=0.148 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AC44_DHSD_ECOLI  Succinate dehydrogenase hydrophobic membrane anchor subunit OS_Escherichia coli _strain K12_ GN_sdhD PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    39       0.133
+  max. Y    11       0.109
+  max. S     5       0.145
+  mean S     1-10    0.127
+       D     1-10    0.116   0.510   NO
+Name=sp_P0AC44_DHSD_ECOLI	SP='NO' D=0.116 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AAN1_HYBE_ECOLI  Hydrogenase-2 operon protein HybE OS_Escherichia coli _strain K12_ GN_hybE PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.149
+  max. Y    43       0.126
+  max. S    41       0.146
+  mean S     1-42    0.091
+       D     1-42    0.110   0.570   NO
+Name=sp_P0AAN1_HYBE_ECOLI	SP='NO' D=0.110 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P60240_RAPA_ECOLI  RNA polymerase-associated protein RapA OS_Escherichia coli _strain K12_ GN_rapA PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.116
+  max. Y    45       0.132
+  max. S    38       0.211
+  mean S     1-44    0.126
+       D     1-44    0.129   0.570   NO
+Name=sp_P60240_RAPA_ECOLI	SP='NO' D=0.129 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AB93_ARSB_ECOLI  Arsenical pump membrane protein OS_Escherichia coli _strain K12_ GN_arsB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    44       0.230
+  max. Y    44       0.150
+  max. S    30       0.173
+  mean S     1-43    0.098
+       D     1-43    0.131   0.510   NO
+Name=sp_P0AB93_ARSB_ECOLI	SP='NO' D=0.131 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P23876_FEPD_ECOLI  Ferric enterobactin transport system permease protein FepD OS_Escherichia coli _strain K12_ GN_fepD PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    51       0.205
+  max. Y    51       0.164
+  max. S    37       0.313
+  mean S     1-50    0.151
+       D     1-50    0.159   0.510   NO
+Name=sp_P23876_FEPD_ECOLI	SP='NO' D=0.159 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AC75_KDTA_ECOLI  3-deoxy-D-manno-octulosonic acid transferase OS_Escherichia coli _strain K12_ GN_waaA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    64       0.121
+  max. Y    33       0.105
+  max. S    27       0.128
+  mean S     1-32    0.076
+       D     1-32    0.094   0.510   NO
+Name=sp_P0AC75_KDTA_ECOLI	SP='NO' D=0.094 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P75823_LTAE_ECOLI  Low specificity L-threonine aldolase OS_Escherichia coli _strain K12_ GN_ltaE PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    62       0.145
+  max. Y    11       0.149
+  max. S    21       0.307
+  mean S     1-10    0.230
+       D     1-10    0.187   0.570   NO
+Name=sp_P75823_LTAE_ECOLI	SP='NO' D=0.187 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P64445_YNAJ_ECOLI  Uncharacterized protein YnaJ OS_Escherichia coli _strain K12_ GN_ynaJ PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.241
+  max. Y    33       0.266
+  max. S    15       0.637
+  mean S     1-32    0.392
+       D     1-32    0.313   0.510   NO
+Name=sp_P64445_YNAJ_ECOLI	SP='NO' D=0.313 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P28861_FENR_ECOLI  Flavodoxin_ferredoxin--NADP reductase OS_Escherichia coli _strain K12_ GN_fpr PE_1 SV_4
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.377
+  max. Y    27       0.319
+  max. S    16       0.341
+  mean S     1-26    0.235
+       D     1-26    0.280   0.570   NO
+Name=sp_P28861_FENR_ECOLI	SP='NO' D=0.280 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P10441_LPXB_ECOLI  Lipid-A-disaccharide synthase OS_Escherichia coli _strain K12_ GN_lpxB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.146
+  max. Y    23       0.118
+  max. S     1       0.138
+  mean S     1-22    0.098
+       D     1-22    0.109   0.570   NO
+Name=sp_P10441_LPXB_ECOLI	SP='NO' D=0.109 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P22939_ISPA_ECOLI  Farnesyl diphosphate synthase OS_Escherichia coli _strain K12_ GN_ispA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    55       0.155
+  max. Y    55       0.144
+  max. S    15       0.215
+  mean S     1-54    0.136
+       D     1-54    0.140   0.570   NO
+Name=sp_P22939_ISPA_ECOLI	SP='NO' D=0.140 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AF03_MOG_ECOLI  Molybdopterin adenylyltransferase OS_Escherichia coli _strain K12_ GN_mog PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.123
+  max. Y    22       0.113
+  max. S     1       0.149
+  mean S     1-21    0.100
+       D     1-21    0.107   0.570   NO
+Name=sp_P0AF03_MOG_ECOLI	SP='NO' D=0.107 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0CE50_INSH2_ECOLI  Transposase InsH for insertion sequence element IS5B OS_Escherichia coli _strain K12_ GN_insH2 PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.204
+  max. Y    21       0.189
+  max. S     1       0.283
+  mean S     1-20    0.194
+       D     1-20    0.191   0.570   NO
+Name=sp_P0CE50_INSH2_ECOLI	SP='NO' D=0.191 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A7U7_RS20_ECOLI  30S ribosomal protein S20 OS_Escherichia coli _strain K12_ GN_rpsT PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.179
+  max. Y    38       0.210
+  max. S    37       0.392
+  mean S     1-37    0.169
+       D     1-37    0.191   0.570   NO
+Name=sp_P0A7U7_RS20_ECOLI	SP='NO' D=0.191 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P78285_LYSD_ECOLI  Lysozyme RrrD OS_Escherichia coli _strain K12_ GN_rrrD PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.149
+  max. Y    22       0.276
+  max. S    17       0.615
+  mean S     1-21    0.462
+       D     1-21    0.345   0.510   NO
+Name=sp_P78285_LYSD_ECOLI	SP='NO' D=0.345 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P23890_CADC_ECOLI  Transcriptional activator CadC OS_Escherichia coli _strain K12_ GN_cadC PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    50       0.131
+  max. Y    50       0.145
+  max. S    40       0.298
+  mean S     1-49    0.147
+       D     1-49    0.146   0.570   NO
+Name=sp_P23890_CADC_ECOLI	SP='NO' D=0.146 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P52139_YFJX_ECOLI  Uncharacterized protein YfjX OS_Escherichia coli _strain K12_ GN_yfjX PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.101
+  max. Y    11       0.106
+  max. S     4       0.147
+  mean S     1-10    0.113
+       D     1-10    0.109   0.570   NO
+Name=sp_P52139_YFJX_ECOLI	SP='NO' D=0.109 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P27837_YIFK_ECOLI  Probable transport protein YifK OS_Escherichia coli _strain K12_ GN_yifK PE_1 SV_4
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.143
+  max. Y    42       0.091
+  max. S    68       0.100
+  mean S     1-41    0.058
+       D     1-41    0.079   0.510   NO
+Name=sp_P27837_YIFK_ECOLI	SP='NO' D=0.079 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P36675_ARFA_ECOLI  Alternative ribosome-rescue factor A OS_Escherichia coli _strain K12_ GN_arfA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.112
+  max. Y    11       0.118
+  max. S     5       0.179
+  mean S     1-10    0.139
+       D     1-10    0.128   0.570   NO
+Name=sp_P36675_ARFA_ECOLI	SP='NO' D=0.128 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P54745_MNGA_ECOLI  PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component OS_Escherichia coli _strain K12_ GN_mngA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.104
+  max. Y    16       0.148
+  max. S     9       0.301
+  mean S     1-15    0.196
+       D     1-15    0.171   0.570   NO
+Name=sp_P54745_MNGA_ECOLI	SP='NO' D=0.171 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AAV8_YBHH_ECOLI  Putative isomerase YbhH OS_Escherichia coli _strain K12_ GN_ybhH PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.108
+  max. Y    11       0.209
+  max. S     4       0.573
+  mean S     1-10    0.435
+       D     1-10    0.315   0.570   NO
+Name=sp_P0AAV8_YBHH_ECOLI	SP='NO' D=0.315 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P52636_YCCM_ECOLI  Putative electron transport protein YccM OS_Escherichia coli _strain K12_ GN_yccM PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    48       0.107
+  max. Y    11       0.126
+  max. S     5       0.227
+  mean S     1-10    0.166
+       D     1-10    0.141   0.510   NO
+Name=sp_P52636_YCCM_ECOLI	SP='NO' D=0.141 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P68767_AMPA_ECOLI  Cytosol aminopeptidase OS_Escherichia coli _strain K12_ GN_pepA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.112
+  max. Y    12       0.114
+  max. S     2       0.157
+  mean S     1-11    0.133
+       D     1-11    0.123   0.570   NO
+Name=sp_P68767_AMPA_ECOLI	SP='NO' D=0.123 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_Q46889_OTNK_ECOLI  3-oxo-tetronate kinase OS_Escherichia coli _strain K12_ GN_otnK PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    61       0.125
+  max. Y    61       0.110
+  max. S     9       0.127
+  mean S     1-60    0.104
+       D     1-60    0.107   0.570   NO
+Name=sp_Q46889_OTNK_ECOLI	SP='NO' D=0.107 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P37353_MENE_ECOLI  2-succinylbenzoate--CoA ligase OS_Escherichia coli _strain K12_ GN_menE PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    48       0.113
+  max. Y    11       0.130
+  max. S     3       0.237
+  mean S     1-10    0.171
+       D     1-10    0.149   0.570   NO
+Name=sp_P37353_MENE_ECOLI	SP='NO' D=0.149 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P75972_YMFI_ECOLI  Uncharacterized protein YmfI OS_Escherichia coli _strain K12_ GN_ymfI PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    69       0.111
+  max. Y    69       0.103
+  max. S    11       0.126
+  mean S     1-68    0.097
+       D     1-68    0.101   0.570   NO
+Name=sp_P75972_YMFI_ECOLI	SP='NO' D=0.101 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P30149_YABI_ECOLI  Inner membrane protein YabI OS_Escherichia coli _strain K12_ GN_yabI PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.146
+  max. Y    13       0.098
+  max. S     7       0.118
+  mean S     1-12    0.099
+       D     1-12    0.098   0.510   NO
+Name=sp_P30149_YABI_ECOLI	SP='NO' D=0.098 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AE67_CHEY_ECOLI  Chemotaxis protein CheY OS_Escherichia coli _strain K12_ GN_cheY PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.120
+  max. Y    37       0.115
+  max. S    11       0.149
+  mean S     1-36    0.113
+       D     1-36    0.114   0.570   NO
+Name=sp_P0AE67_CHEY_ECOLI	SP='NO' D=0.114 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P17410_CHBR_ECOLI  HTH-type transcriptional regulator ChbR OS_Escherichia coli _strain K12_ GN_chbR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    15       0.111
+  max. Y    62       0.104
+  max. S    61       0.112
+  mean S     1-61    0.094
+       D     1-61    0.099   0.570   NO
+Name=sp_P17410_CHBR_ECOLI	SP='NO' D=0.099 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P15032_RECE_ECOLI  Exodeoxyribonuclease 8 OS_Escherichia coli _strain K12_ GN_recE PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.113
+  max. Y    18       0.118
+  max. S     1       0.161
+  mean S     1-17    0.129
+       D     1-17    0.124   0.570   NO
+Name=sp_P15032_RECE_ECOLI	SP='NO' D=0.124 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AEG8_DSRB_ECOLI  Protein DsrB OS_Escherichia coli _strain K12_ GN_dsrB PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.135
+  max. Y    11       0.131
+  max. S     4       0.214
+  mean S     1-10    0.180
+       D     1-10    0.154   0.570   NO
+Name=sp_P0AEG8_DSRB_ECOLI	SP='NO' D=0.154 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P33360_YEHX_ECOLI  Glycine betaine uptake system ATP-binding protein YehX OS_Escherichia coli _strain K12_ GN_yehX PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.103
+  max. Y    42       0.103
+  max. S    12       0.125
+  mean S     1-41    0.092
+       D     1-41    0.098   0.570   NO
+Name=sp_P33360_YEHX_ECOLI	SP='NO' D=0.098 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P08390_USG_ECOLI  USG-1 protein OS_Escherichia coli _strain K12_ GN_usg PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.138
+  max. Y    22       0.138
+  max. S    17       0.203
+  mean S     1-21    0.136
+       D     1-21    0.137   0.570   NO
+Name=sp_P08390_USG_ECOLI	SP='NO' D=0.137 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A9G6_ACEA_ECOLI  Isocitrate lyase OS_Escherichia coli _strain K12_ GN_aceA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.126
+  max. Y    30       0.124
+  max. S     9       0.136
+  mean S     1-29    0.117
+       D     1-29    0.121   0.570   NO
+Name=sp_P0A9G6_ACEA_ECOLI	SP='NO' D=0.121 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P75806_YBJG_ECOLI  Putative undecaprenyl-diphosphatase YbjG OS_Escherichia coli _strain K12_ GN_ybjG PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.216
+  max. Y    21       0.162
+  max. S     1       0.275
+  mean S     1-20    0.146
+       D     1-20    0.156   0.510   NO
+Name=sp_P75806_YBJG_ECOLI	SP='NO' D=0.156 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P76134_YDEM_ECOLI  Anaerobic sulfatase-maturating enzyme homolog YdeM OS_Escherichia coli _strain K12_ GN_ydeM PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.118
+  max. Y    32       0.113
+  max. S     2       0.187
+  mean S     1-31    0.106
+       D     1-31    0.110   0.570   NO
+Name=sp_P76134_YDEM_ECOLI	SP='NO' D=0.110 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P00909_TRPC_ECOLI  Tryptophan biosynthesis protein TrpCF OS_Escherichia coli _strain K12_ GN_trpC PE_1 SV_4
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C     8       0.119
+  max. Y    11       0.111
+  max. S     2       0.168
+  mean S     1-10    0.125
+       D     1-10    0.117   0.570   NO
+Name=sp_P00909_TRPC_ECOLI	SP='NO' D=0.117 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P05707_SRLD_ECOLI  Sorbitol-6-phosphate 2-dehydrogenase OS_Escherichia coli _strain K12_ GN_srlD PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.134
+  max. Y    24       0.172
+  max. S     7       0.324
+  mean S     1-23    0.238
+       D     1-23    0.203   0.570   NO
+Name=sp_P05707_SRLD_ECOLI	SP='NO' D=0.203 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P45539_FRLA_ECOLI  Probable fructoselysine_psicoselysine transporter FrlA OS_Escherichia coli _strain K12_ GN_frlA PE_2 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.117
+  max. Y    33       0.132
+  max. S    26       0.261
+  mean S     1-32    0.155
+       D     1-32    0.140   0.510   NO
+Name=sp_P45539_FRLA_ECOLI	SP='NO' D=0.140 D-cutoff=0.510 Networks=SignalP-TM
+>sp_Q46867_YGIZ_ECOLI  Inner membrane protein YgiZ OS_Escherichia coli _strain K12_ GN_ygiZ PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.138
+  max. Y    11       0.110
+  max. S     2       0.160
+  mean S     1-10    0.121
+       D     1-10    0.114   0.510   NO
+Name=sp_Q46867_YGIZ_ECOLI	SP='NO' D=0.114 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P77509_YPHE_ECOLI  Uncharacterized ABC transporter ATP-binding protein YphE OS_Escherichia coli _strain K12_ GN_yphE PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.136
+  max. Y    26       0.130
+  max. S    25       0.156
+  mean S     1-25    0.128
+       D     1-25    0.129   0.570   NO
+Name=sp_P77509_YPHE_ECOLI	SP='NO' D=0.129 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P75677_YKFF_ECOLI  UPF0401 protein YkfF OS_Escherichia coli _strain K12_ GN_ykfF PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.266
+  max. Y    20       0.201
+  max. S     9       0.199
+  mean S     1-19    0.158
+       D     1-19    0.181   0.570   NO
+Name=sp_P75677_YKFF_ECOLI	SP='NO' D=0.181 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P04152_UMUC_ECOLI  Protein UmuC OS_Escherichia coli _strain K12_ GN_umuC PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    45       0.115
+  max. Y    20       0.135
+  max. S    11       0.231
+  mean S     1-19    0.157
+       D     1-19    0.145   0.570   NO
+Name=sp_P04152_UMUC_ECOLI	SP='NO' D=0.145 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A759_NAGB_ECOLI  Glucosamine-6-phosphate deaminase OS_Escherichia coli _strain K12_ GN_nagB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.107
+  max. Y    32       0.124
+  max. S    24       0.208
+  mean S     1-31    0.135
+       D     1-31    0.129   0.570   NO
+Name=sp_P0A759_NAGB_ECOLI	SP='NO' D=0.129 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76055_TTCA_ECOLI  tRNA-cytidine_32_ 2-sulfurtransferase OS_Escherichia coli _strain K12_ GN_ttcA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    67       0.107
+  max. Y    17       0.142
+  max. S     8       0.270
+  mean S     1-16    0.189
+       D     1-16    0.164   0.570   NO
+Name=sp_P76055_TTCA_ECOLI	SP='NO' D=0.164 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_C1P610_YPDK_ECOLI  Uncharacterized membrane protein YpdK OS_Escherichia coli _strain K12_ GN_ypdK PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    17       0.106
+  max. Y    11       0.127
+  max. S     2       0.308
+  mean S     1-10    0.153
+       D     1-10    0.137   0.510   NO
+Name=sp_C1P610_YPDK_ECOLI	SP='NO' D=0.137 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P77315_YPHD_ECOLI  Probable ABC transporter permease protein YphD OS_Escherichia coli _strain K12_ GN_yphD PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    45       0.178
+  max. Y    23       0.108
+  max. S     1       0.155
+  mean S     1-22    0.113
+       D     1-22    0.110   0.510   NO
+Name=sp_P77315_YPHD_ECOLI	SP='NO' D=0.110 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P76160_YDFR_ECOLI  Uncharacterized protein YdfR OS_Escherichia coli _strain K12_ GN_ydfR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.100
+  max. Y    13       0.117
+  max. S     5       0.178
+  mean S     1-12    0.138
+       D     1-12    0.127   0.570   NO
+Name=sp_P76160_YDFR_ECOLI	SP='NO' D=0.127 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A6C8_ARGB_ECOLI  Acetylglutamate kinase OS_Escherichia coli _strain K12_ GN_argB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.115
+  max. Y    31       0.113
+  max. S     1       0.140
+  mean S     1-30    0.113
+       D     1-30    0.113   0.570   NO
+Name=sp_P0A6C8_ARGB_ECOLI	SP='NO' D=0.113 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39288_QUEG_ECOLI  Epoxyqueuosine reductase OS_Escherichia coli _strain K12_ GN_queG PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.104
+  max. Y    32       0.100
+  max. S    24       0.116
+  mean S     1-31    0.081
+       D     1-31    0.091   0.570   NO
+Name=sp_P39288_QUEG_ECOLI	SP='NO' D=0.091 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ABP3_DCUC_ECOLI  Anaerobic C4-dicarboxylate transporter DcuC OS_Escherichia coli _strain K12_ GN_dcuC PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    56       0.117
+  max. Y    56       0.111
+  max. S    53       0.140
+  mean S     1-55    0.064
+       D     1-55    0.094   0.510   NO
+Name=sp_P0ABP3_DCUC_ECOLI	SP='NO' D=0.094 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0ACW6_YDCH_ECOLI  Uncharacterized protein YdcH OS_Escherichia coli _strain K12_ GN_ydcH PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    63       0.101
+  max. Y    12       0.114
+  max. S     6       0.177
+  mean S     1-11    0.135
+       D     1-11    0.124   0.570   NO
+Name=sp_P0ACW6_YDCH_ECOLI	SP='NO' D=0.124 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P31665_RPNC_ECOLI  Recombination-promoting nuclease RpnC OS_Escherichia coli _strain K12_ GN_rpnC PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.115
+  max. Y    66       0.099
+  max. S    40       0.105
+  mean S     1-65    0.085
+       D     1-65    0.093   0.570   NO
+Name=sp_P31665_RPNC_ECOLI	SP='NO' D=0.093 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76291_CMOB_ECOLI  tRNA U34 carboxymethyltransferase OS_Escherichia coli _strain K12_ GN_cmoB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.152
+  max. Y    28       0.132
+  max. S    19       0.181
+  mean S     1-27    0.116
+       D     1-27    0.125   0.570   NO
+Name=sp_P76291_CMOB_ECOLI	SP='NO' D=0.125 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P39368_YJHQ_ECOLI  Uncharacterized N-acetyltransferase YjhQ OS_Escherichia coli _strain K12_ GN_yjhQ PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    17       0.110
+  max. Y    29       0.095
+  max. S    21       0.099
+  mean S     1-28    0.075
+       D     1-28    0.086   0.570   NO
+Name=sp_P39368_YJHQ_ECOLI	SP='NO' D=0.086 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P31460_DGOR_ECOLI  Galactonate operon transcriptional repressor OS_Escherichia coli _strain K12_ GN_dgoR PE_4 SV_4
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.155
+  max. Y    33       0.129
+  max. S     2       0.150
+  mean S     1-32    0.108
+       D     1-32    0.119   0.570   NO
+Name=sp_P31460_DGOR_ECOLI	SP='NO' D=0.119 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0CF90_INSI4_ECOLI  Transposase InsI for insertion sequence element IS30D OS_Escherichia coli _strain K12_ GN_insI4 PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.118
+  max. Y    48       0.104
+  max. S     1       0.134
+  mean S     1-47    0.100
+       D     1-47    0.102   0.570   NO
+Name=sp_P0CF90_INSI4_ECOLI	SP='NO' D=0.102 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_A5A630_YTCA_ECOLI  Uncharacterized protein YtcA OS_Escherichia coli _strain K12_ GN_ytcA PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.139
+  max. Y    24       0.177
+  max. S    14       0.371
+  mean S     1-23    0.241
+       D     1-23    0.201   0.510   NO
+Name=sp_A5A630_YTCA_ECOLI	SP='NO' D=0.201 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P36661_YCCE_ECOLI  Uncharacterized protein YccE OS_Escherichia coli _strain K12_ GN_yccE PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.108
+  max. Y    55       0.117
+  max. S    49       0.166
+  mean S     1-54    0.107
+       D     1-54    0.113   0.570   NO
+Name=sp_P36661_YCCE_ECOLI	SP='NO' D=0.113 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76458_ATOD_ECOLI  Acetate CoA-transferase subunit alpha OS_Escherichia coli _strain K12_ GN_atoD PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    39       0.125
+  max. Y    39       0.135
+  max. S    34       0.214
+  mean S     1-38    0.151
+       D     1-38    0.143   0.570   NO
+Name=sp_P76458_ATOD_ECOLI	SP='NO' D=0.143 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AFL9_PQIA_ECOLI  Paraquat-inducible protein A OS_Escherichia coli _strain K12_ GN_pqiA PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.119
+  max. Y    11       0.148
+  max. S     5       0.310
+  mean S     1-10    0.236
+       D     1-10    0.181   0.510   NO
+Name=sp_P0AFL9_PQIA_ECOLI	SP='NO' D=0.181 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P08394_RECB_ECOLI  RecBCD enzyme subunit RecB OS_Escherichia coli _strain K12_ GN_recB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    50       0.115
+  max. Y    50       0.126
+  max. S    47       0.228
+  mean S     1-49    0.089
+       D     1-49    0.112   0.510   NO
+Name=sp_P08394_RECB_ECOLI	SP='NO' D=0.112 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P77375_YDHX_ECOLI  Uncharacterized ferredoxin-like protein YdhX OS_Escherichia coli _strain K12_ GN_ydhX PE_2 SV_4
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.293
+  max. Y    28       0.424
+  max. S     9       0.821
+  mean S     1-27    0.697
+       D     1-27    0.552   0.570   NO
+Name=sp_P77375_YDHX_ECOLI	SP='NO' D=0.552 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P25396_TEHA_ECOLI  Tellurite resistance protein TehA OS_Escherichia coli _strain K12_ GN_tehA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.119
+  max. Y    36       0.100
+  max. S    28       0.146
+  mean S     1-35    0.079
+       D     1-35    0.092   0.510   NO
+Name=sp_P25396_TEHA_ECOLI	SP='NO' D=0.092 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AEW1_HYFE_ECOLI  Hydrogenase-4 component E OS_Escherichia coli _strain K12_ GN_hyfE PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    54       0.165
+  max. Y    11       0.155
+  max. S     2       0.357
+  mean S     1-10    0.241
+       D     1-10    0.187   0.510   NO
+Name=sp_P0AEW1_HYFE_ECOLI	SP='NO' D=0.187 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P52134_YPJK_ECOLI  Uncharacterized protein YpjK OS_Escherichia coli _strain K12_ GN_ypjK PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    46       0.265
+  max. Y    46       0.281
+  max. S    42       0.517
+  mean S     1-45    0.209
+       D     1-45    0.254   0.510   NO
+Name=sp_P52134_YPJK_ECOLI	SP='NO' D=0.254 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0A6F3_GLPK_ECOLI  Glycerol kinase OS_Escherichia coli _strain K12_ GN_glpK PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.143
+  max. Y    22       0.127
+  max. S     2       0.183
+  mean S     1-21    0.123
+       D     1-21    0.125   0.570   NO
+Name=sp_P0A6F3_GLPK_ECOLI	SP='NO' D=0.125 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P08189_FIMF_ECOLI  Protein FimF OS_Escherichia coli _strain K12_ GN_fimF PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.871
+  max. Y    23       0.918
+  max. S    20       0.983
+  mean S     1-22    0.959
+       D     1-22    0.937   0.570   YES
+Name=sp_P08189_FIMF_ECOLI	SP='YES' Cleavage site between pos. 22 and 23: ALA-AD D=0.937 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0CF91_INSL1_ECOLI  Putative transposase InsL for insertion sequence element IS186A OS_Escherichia coli _strain K12_ GN_insL1 PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    65       0.124
+  max. Y    52       0.117
+  max. S    49       0.197
+  mean S     1-51    0.101
+       D     1-51    0.109   0.570   NO
+Name=sp_P0CF91_INSL1_ECOLI	SP='NO' D=0.109 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AE48_YTFP_ECOLI  Gamma-glutamylcyclotransferase family protein YtfP OS_Escherichia coli _strain K12_ GN_ytfP PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.117
+  max. Y    16       0.140
+  max. S    11       0.247
+  mean S     1-15    0.189
+       D     1-15    0.163   0.570   NO
+Name=sp_P0AE48_YTFP_ECOLI	SP='NO' D=0.163 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P24188_YCEA_ECOLI  UPF0176 protein YceA OS_Escherichia coli _strain K12_ GN_yceA PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    61       0.112
+  max. Y    47       0.112
+  max. S    35       0.140
+  mean S     1-46    0.100
+       D     1-46    0.106   0.570   NO
+Name=sp_P24188_YCEA_ECOLI	SP='NO' D=0.106 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76146_YNEE_ECOLI  UPF0187 protein YneE OS_Escherichia coli _strain K12_ GN_yneE PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.113
+  max. Y    23       0.109
+  max. S     3       0.145
+  mean S     1-22    0.114
+       D     1-22    0.110   0.510   NO
+Name=sp_P76146_YNEE_ECOLI	SP='NO' D=0.110 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P02919_PBPB_ECOLI  Penicillin-binding protein 1B OS_Escherichia coli _strain K12_ GN_mrcB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C     3       0.105
+  max. Y    52       0.129
+  max. S    45       0.177
+  mean S     1-51    0.125
+       D     1-51    0.127   0.570   NO
+Name=sp_P02919_PBPB_ECOLI	SP='NO' D=0.127 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76159_LYSQ_ECOLI  Probable prophage lysozyme OS_Escherichia coli _strain K12_ GN_rrrQ PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.219
+  max. Y    24       0.436
+  max. S    20       0.931
+  mean S     1-23    0.873
+       D     1-23    0.642   0.570   YES
+Name=sp_P76159_LYSQ_ECOLI	SP='YES' Cleavage site between pos. 23 and 24: ASA-PQ D=0.642 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P52132_YFJQ_ECOLI  UPF0380 protein YfjQ OS_Escherichia coli _strain K12_ GN_yfjQ PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.126
+  max. Y    11       0.125
+  max. S     5       0.202
+  mean S     1-10    0.155
+       D     1-10    0.139   0.570   NO
+Name=sp_P52132_YFJQ_ECOLI	SP='NO' D=0.139 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P02413_RL15_ECOLI  50S ribosomal protein L15 OS_Escherichia coli _strain K12_ GN_rplO PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    67       0.101
+  max. Y    12       0.107
+  max. S     3       0.128
+  mean S     1-11    0.119
+       D     1-11    0.113   0.570   NO
+Name=sp_P02413_RL15_ECOLI	SP='NO' D=0.113 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0ABS1_DKSA_ECOLI  RNA polymerase-binding transcription factor DksA OS_Escherichia coli _strain K12_ GN_dksA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.123
+  max. Y    11       0.145
+  max. S     1       0.341
+  mean S     1-10    0.191
+       D     1-10    0.167   0.570   NO
+Name=sp_P0ABS1_DKSA_ECOLI	SP='NO' D=0.167 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76508_YFDL_ECOLI  Putative uncharacterized protein YfdL OS_Escherichia coli _strain K12_ GN_yfdL PE_5 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.117
+  max. Y    42       0.107
+  max. S    40       0.128
+  mean S     1-41    0.092
+       D     1-41    0.100   0.570   NO
+Name=sp_P76508_YFDL_ECOLI	SP='NO' D=0.100 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AD19_YOHK_ECOLI  Inner membrane protein YohK OS_Escherichia coli _strain K12_ GN_yohK PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.211
+  max. Y    24       0.160
+  max. S     1       0.231
+  mean S     1-23    0.144
+       D     1-23    0.154   0.510   NO
+Name=sp_P0AD19_YOHK_ECOLI	SP='NO' D=0.154 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AE18_MAP1_ECOLI  Methionine aminopeptidase OS_Escherichia coli _strain K12_ GN_map PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.108
+  max. Y    40       0.108
+  max. S     4       0.150
+  mean S     1-39    0.106
+       D     1-39    0.107   0.570   NO
+Name=sp_P0AE18_MAP1_ECOLI	SP='NO' D=0.107 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P08312_SYFA_ECOLI  Phenylalanine--tRNA ligase alpha subunit OS_Escherichia coli _strain K12_ GN_pheS PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    19       0.166
+  max. Y    19       0.179
+  max. S     3       0.269
+  mean S     1-18    0.207
+       D     1-18    0.192   0.570   NO
+Name=sp_P08312_SYFA_ECOLI	SP='NO' D=0.192 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A786_PYRB_ECOLI  Aspartate carbamoyltransferase catalytic subunit OS_Escherichia coli _strain K12_ GN_pyrB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.111
+  max. Y    27       0.113
+  max. S    15       0.150
+  mean S     1-26    0.122
+       D     1-26    0.117   0.570   NO
+Name=sp_P0A786_PYRB_ECOLI	SP='NO' D=0.117 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P46859_GNTK_ECOLI  Thermoresistant gluconokinase OS_Escherichia coli _strain K12_ GN_gntK PE_1 SV_4
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.235
+  max. Y    26       0.170
+  max. S     1       0.211
+  mean S     1-25    0.124
+       D     1-25    0.148   0.570   NO
+Name=sp_P46859_GNTK_ECOLI	SP='NO' D=0.148 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0A8I3_YAAA_ECOLI  UPF0246 protein YaaA OS_Escherichia coli _strain K12_ GN_yaaA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.102
+  max. Y    15       0.146
+  max. S    10       0.450
+  mean S     1-14    0.202
+       D     1-14    0.172   0.570   NO
+Name=sp_P0A8I3_YAAA_ECOLI	SP='NO' D=0.172 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P67699_YDDM_ECOLI  Uncharacterized HTH-type transcriptional regulator YddM OS_Escherichia coli _strain K12_ GN_yddM PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.127
+  max. Y    31       0.113
+  max. S    45       0.162
+  mean S     1-30    0.089
+       D     1-30    0.102   0.570   NO
+Name=sp_P67699_YDDM_ECOLI	SP='NO' D=0.102 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P0AF45_YJBE_ECOLI  Uncharacterized protein YjbE OS_Escherichia coli _strain K12_ GN_yjbE PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.853
+  max. Y    22       0.907
+  max. S    15       0.990
+  mean S     1-21    0.960
+       D     1-21    0.932   0.570   YES
+Name=sp_P0AF45_YJBE_ECOLI	SP='YES' Cleavage site between pos. 21 and 22: AWA-AP D=0.932 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P38506_XNI_ECOLI  Flap endonuclease Xni OS_Escherichia coli _strain K12_ GN_ygdG PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    46       0.311
+  max. Y    20       0.187
+  max. S    19       0.289
+  mean S     1-19    0.178
+       D     1-19    0.183   0.570   NO
+Name=sp_P38506_XNI_ECOLI	SP='NO' D=0.183 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P60716_LIPA_ECOLI  Lipoyl synthase OS_Escherichia coli _strain K12_ GN_lipA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.107
+  max. Y    18       0.107
+  max. S     8       0.141
+  mean S     1-17    0.106
+       D     1-17    0.106   0.570   NO
+Name=sp_P60716_LIPA_ECOLI	SP='NO' D=0.106 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76611_PINH_ECOLI  Putative protein PinH OS_Escherichia coli _strain K12_ GN_pinH PE_5 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.272
+  max. Y    23       0.162
+  max. S    27       0.120
+  mean S     1-22    0.095
+       D     1-22    0.130   0.570   NO
+Name=sp_P76611_PINH_ECOLI	SP='NO' D=0.130 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76198_YDIN_ECOLI  Inner membrane transport protein YdiN OS_Escherichia coli _strain K12_ GN_ydiN PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.235
+  max. Y    34       0.187
+  max. S     1       0.289
+  mean S     1-33    0.154
+       D     1-33    0.174   0.510   NO
+Name=sp_P76198_YDIN_ECOLI	SP='NO' D=0.174 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AA70_YEDA_ECOLI  Uncharacterized inner membrane transporter YedA OS_Escherichia coli _strain K12_ GN_yedA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.125
+  max. Y    11       0.104
+  max. S     1       0.150
+  mean S     1-10    0.107
+       D     1-10    0.105   0.510   NO
+Name=sp_P0AA70_YEDA_ECOLI	SP='NO' D=0.105 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AEZ1_METF_ECOLI  5,10-methylenetetrahydrofolate reductase OS_Escherichia coli _strain K12_ GN_metF PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.111
+  max. Y    38       0.117
+  max. S    35       0.166
+  mean S     1-37    0.103
+       D     1-37    0.110   0.570   NO
+Name=sp_P0AEZ1_METF_ECOLI	SP='NO' D=0.110 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P33591_NIKB_ECOLI  Nickel transport system permease protein NikB OS_Escherichia coli _strain K12_ GN_nikB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    19       0.197
+  max. Y    11       0.161
+  max. S     2       0.399
+  mean S     1-10    0.248
+       D     1-10    0.193   0.510   NO
+Name=sp_P33591_NIKB_ECOLI	SP='NO' D=0.193 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P06965_DICC_ECOLI  Repressor protein of division inhibition gene dicB OS_Escherichia coli _strain K12_ GN_dicC PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.331
+  max. Y    20       0.255
+  max. S     7       0.246
+  mean S     1-19    0.187
+       D     1-19    0.223   0.570   NO
+Name=sp_P06965_DICC_ECOLI	SP='NO' D=0.223 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P64467_CNU_ECOLI  OriC-binding nucleoid-associated protein OS_Escherichia coli _strain K12_ GN_cnu PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    50       0.101
+  max. Y    11       0.113
+  max. S     1       0.188
+  mean S     1-10    0.120
+       D     1-10    0.116   0.570   NO
+Name=sp_P64467_CNU_ECOLI	SP='NO' D=0.116 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P21345_GLTP_ECOLI  Proton_glutamate-aspartate symporter OS_Escherichia coli _strain K12_ GN_gltP PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.123
+  max. Y    11       0.133
+  max. S     1       0.244
+  mean S     1-10    0.175
+       D     1-10    0.149   0.510   NO
+Name=sp_P21345_GLTP_ECOLI	SP='NO' D=0.149 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P76330_YEDQ_ECOLI  Probable diguanylate cyclase YedQ OS_Escherichia coli _strain K12_ GN_yedQ PE_2 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    44       0.109
+  max. Y    15       0.116
+  max. S    41       0.168
+  mean S     1-14    0.136
+       D     1-14    0.123   0.510   NO
+Name=sp_P76330_YEDQ_ECOLI	SP='NO' D=0.123 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0AFH6_OPPC_ECOLI  Oligopeptide transport system permease protein OppC OS_Escherichia coli _strain K12_ GN_oppC PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    64       0.213
+  max. Y    64       0.179
+  max. S    58       0.201
+  mean S     1-63    0.097
+       D     1-63    0.148   0.510   NO
+Name=sp_P0AFH6_OPPC_ECOLI	SP='NO' D=0.148 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P69228_BAER_ECOLI  Transcriptional regulatory protein BaeR OS_Escherichia coli _strain K12_ GN_baeR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    44       0.119
+  max. Y    49       0.111
+  max. S    43       0.141
+  mean S     1-48    0.092
+       D     1-48    0.102   0.570   NO
+Name=sp_P69228_BAER_ECOLI	SP='NO' D=0.102 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P64622_YHDV_ECOLI  Uncharacterized protein YhdV OS_Escherichia coli _strain K12_ GN_yhdV PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.268
+  max. Y    21       0.468
+  max. S     3       0.904
+  mean S     1-20    0.845
+       D     1-20    0.607   0.510   YES
+Name=sp_P64622_YHDV_ECOLI	SP='YES' Cleavage site between pos. 20 and 21: AHD-SP D=0.607 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P0A8Q0_FRDC_ECOLI  Fumarate reductase subunit C OS_Escherichia coli _strain K12_ GN_frdC PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    59       0.224
+  max. Y    59       0.145
+  max. S     3       0.196
+  mean S     1-58    0.121
+       D     1-58    0.136   0.510   NO
+Name=sp_P0A8Q0_FRDC_ECOLI	SP='NO' D=0.136 D-cutoff=0.510 Networks=SignalP-TM
+>sp_P45753_HOFM_ECOLI  DNA utilization protein HofM OS_Escherichia coli _strain K12_ GN_hofM PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.122
+  max. Y    20       0.124
+  max. S    12       0.172
+  mean S     1-19    0.117
+       D     1-19    0.121   0.570   NO
+Name=sp_P45753_HOFM_ECOLI	SP='NO' D=0.121 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P11458_NADA_ECOLI  Quinolinate synthase A OS_Escherichia coli _strain K12_ GN_nadA PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    58       0.105
+  max. Y    33       0.107
+  max. S    23       0.130
+  mean S     1-32    0.098
+       D     1-32    0.103   0.570   NO
+Name=sp_P11458_NADA_ECOLI	SP='NO' D=0.103 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P76155_TFAQ_ECOLI  Prophage tail fiber assembly protein homolog TfaQ OS_Escherichia coli _strain K12_ GN_tfaQ PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.111
+  max. Y    11       0.151
+  max. S     2       0.326
+  mean S     1-10    0.238
+       D     1-10    0.192   0.570   NO
+Name=sp_P76155_TFAQ_ECOLI	SP='NO' D=0.192 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P37387_XYLF_ECOLI  D-xylose-binding periplasmic protein OS_Escherichia coli _strain K12_ GN_xylF PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.780
+  max. Y    24       0.784
+  max. S     1       0.903
+  mean S     1-23    0.820
+       D     1-23    0.801   0.570   YES
+Name=sp_P37387_XYLF_ECOLI	SP='YES' Cleavage site between pos. 23 and 24: AHA-KE D=0.801 D-cutoff=0.570 Networks=SignalP-noTM
+>sp_P37680_SGBE_ECOLI  L-ribulose-5-phosphate 4-epimerase SgbE OS_Escherichia coli _strain K12_ GN_sgbE PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.342
+  max. Y    32       0.272
+  max. S    20       0.619
+  mean S     1-31    0.254
+       D     1-31    0.264   0.570   NO
+Name=sp_P37680_SGBE_ECOLI	SP='NO' D=0.264 D-cutoff=0.570 Networks=SignalP-noTM
+
+Signal peptides: 22
+# processed fasta entries
+# gff file of processed entries
+
+Please cite:
+SignalP 4.0: discriminating signal peptides from transmembrane regions
+Petersen TN., Brunak S., von Heijne G. & Nielsen H.
+Nature Methods, 8:785-786, 2011
+
+Explain the output.  Go back.
