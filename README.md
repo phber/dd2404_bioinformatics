@@ -4,20 +4,12 @@
 
 ## 1 jan 2018
 
-Add functions for reading proteomes. Also added functions for reading SignalP 4.1 output files, to use as a baseline error.
-Some test runs were made to measure the F-score of the classifier. However, we forgot to truncate the protein sequences during testing, which will require new test runs.
+1. To balance the precision and recall for TM-testdata, we decided to add a treshhold for scores between the models. If the score diferrence between the model is less than 2, the prediction is 0. This made the precision and recall for TM-data more even (see res file).
 
-```
-Type: PROTEOM of ecoli
-Validations : 5
-Truncations: 0
-ALL TESTDATA: Average precision, recall, F-score:
-0.563432835821,0.743842364532,0.64118895966
-TM TESTDATA: Average precision, recall, F-score:
-0.125,0.714285714286,0.212765957447
-NON TM TESTDATA: Average precision, recall, F-score:
-0.640350877193,0.744897959184,0.688679245283
-```
+2. We disallow some transitions in the model that are impossible (e.g, n -> c).
+
+3. Add functions for reading proteomes. Also added functions for reading SignalP 4.1 output files, to use as a baseline error.
+Some test runs were made to measure the F-score of the classifier (see res file).
 
 ## 31 dec 2017
 
