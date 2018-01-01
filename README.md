@@ -11,6 +11,8 @@
 3. Add functions for reading proteomes. Also added functions for reading SignalP 4.1 output files, to use as a baseline error.
 Some test runs were made to measure the F-score of the classifier (see res file).
 
+4. Added some metrics for MCC and cleavage site accuracy.
+
 ## 31 dec 2017
 
 Changed to performance measures to precision, recall and F-score. Also changed testing to test only TM or non-TM proteins, or both. The results were (using 5-folded validation):
