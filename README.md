@@ -23,6 +23,8 @@ NON TM TESTDATA: Average precision, recall, F-score:
 
 Changed to performance measures to precision, recall and F-score. Also changed testing to test only TM or non-TM proteins, or both. The results were (using 5-folded validation):
 ```
+Type: CROSS VALIDATION
+Validations: 5
 ALL TESTDATA: Average precision, recall, F-score:
 [0.89952194928962004, 0.92475784707141406, 0.91128394619236386]
 TM TESTDATA: Average precision, recall, F-score:
