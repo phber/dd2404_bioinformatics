@@ -1,0 +1,9 @@
+
+Type: PROTEOM of bacillus
+Validations : 1
+ALL TESTDATA: Average precision, recall, F-score, MCC:
+0.710447761194,0.840989399293,0.770226537217,0.755222944136+-0.0,0.0,0.0,0.0
+TM TESTDATA: Average precision, recall, F-score, MCC:
++-
+NON TM TESTDATA: Average precision, recall, F-score, MCC:
++-

@@ -58,7 +58,7 @@ def fill_train_df(write = False):
     neg_tm = load_dir(NEGATIVE_TM_DIR)
     neg_tm['label'] = 0
     neg_tm['tm'] = True
-    
+
     pos_tm = load_dir(POSITIVE_TM_DIR)
     pos_tm['label'] = 1
     pos_tm['tm'] = True
@@ -85,17 +85,17 @@ def store_result(scores_all, scores_tm, scores_non_tm, name, validations):
         f.write('\n')
         f.write('Validations : ' + str(validations))
         f.write('\n')
-        f.write('ALL TESTDATA: Average precision, recall, F-score, MCC, (Cleave Acc.):\n')
+        f.write('ALL TESTDATA: Average precision, recall, F-score, MCC:\n')
         f.write(','.join([str(np.mean(y)) for y in zip(*scores_all)]))
         f.write('+-')
         f.write(','.join([str(np.std(y)) for y in zip(*scores_all)]))
         f.write('\n')
-        f.write( 'TM TESTDATA: Average precision, recall, F-score, MCC, (Cleave Acc.):\n')
+        f.write( 'TM TESTDATA: Average precision, recall, F-score, MCC:\n')
         f.write(','.join([str(np.mean(y)) for y in zip(*scores_tm)]))
         f.write('+-')
         f.write(','.join([str(np.std(y)) for y in zip(*scores_tm)]))
         f.write('\n')
-        f.write( 'NON TM TESTDATA: Average precision, recall, F-score, MCC (Cleave Acc.):\n')
+        f.write( 'NON TM TESTDATA: Average precision, recall, F-score, MCC:\n')
         f.write(','.join([str(np.mean(y)) for y in zip(*scores_non_tm)]))
         f.write('+-')
         f.write(','.join([str(np.std(y)) for y in zip(*scores_non_tm)]))
@@ -110,7 +110,7 @@ def split_file(filename):
     ix = range(0, len(records), 2000)
     ix.append(len(records))
     for i in range(1, len(ix)):
-        new_f = os.path.join(PROTEOM_RES_DIR, str(name_index) + '_' + filename)
+        new_f = os.path.join(PROTEOM_DATA_DIR, str(name_index) + '_' + filename)
         with open(new_f, 'w') as output_handle:
            SeqIO.write(records.values()[ix[i-1]:ix[i]], output_handle, 'fasta')
         name_index += 1
@@ -144,4 +144,3 @@ def load_signalp(proteom, stopidx, startidx = 1):
             data['seq'].append(r.seq[:TRUNC_IDX])
     return pd.DataFrame(data)
 
-split_file('bacillus.fasta')

@@ -1,0 +1,1595 @@
+
+	   	
+SignalP 4.1 Server - prediction results
+
+Technical University of Denmark
+
+
+ # SignalP-4.1 gram+ predictions
+>sp_P94533_YSFE_BACSU  Uncharacterized protein YsfE OS_Bacillus subtilis _strain 168_ GN_ysfE PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.174
+  max. Y    38       0.126
+  max. S    37       0.133
+  mean S     1-37    0.092
+       D     1-37    0.113   0.450   NO
+Name=sp_P94533_YSFE_BACSU	SP='NO' D=0.113 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32032_PBPI_BACSU  Penicillin-binding protein 4B OS_Bacillus subtilis _strain 168_ GN_pbpI PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    36       0.112
+  max. Y    13       0.243
+  max. S     2       0.679
+  mean S     1-12    0.579
+       D     1-12    0.374   0.450   NO
+Name=sp_O32032_PBPI_BACSU	SP='NO' D=0.374 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P80242_OHRB_BACSU  Organic hydroperoxide resistance protein OhrB OS_Bacillus subtilis _strain 168_ GN_ohrB PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.119
+  max. Y    11       0.162
+  max. S     1       0.390
+  mean S     1-10    0.237
+       D     1-10    0.191   0.450   NO
+Name=sp_P80242_OHRB_BACSU	SP='NO' D=0.191 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O05250_MALK_BACSU  Sensor histidine kinase MalK OS_Bacillus subtilis _strain 168_ GN_malK PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.314
+  max. Y    33       0.379
+  max. S     3       0.651
+  mean S     1-32    0.534
+       D     1-32    0.439   0.450   NO
+Name=sp_O05250_MALK_BACSU	SP='NO' D=0.439 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O07001_YVDT_BACSU  Uncharacterized HTH-type transcriptional regulator YvdT OS_Bacillus subtilis _strain 168_ GN_yvdT PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.122
+  max. Y    11       0.118
+  max. S     2       0.208
+  mean S     1-10    0.128
+       D     1-10    0.122   0.450   NO
+Name=sp_O07001_YVDT_BACSU	SP='NO' D=0.122 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P94396_YCGS_BACSU  Uncharacterized hydrolase YcgS OS_Bacillus subtilis _strain 168_ GN_ycgS PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.142
+  max. Y    37       0.138
+  max. S    34       0.169
+  mean S     1-36    0.123
+       D     1-36    0.132   0.450   NO
+Name=sp_P94396_YCGS_BACSU	SP='NO' D=0.132 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P42311_YXIT_BACSU  Uncharacterized protein YxiT OS_Bacillus subtilis _strain 168_ GN_yxiT PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.354
+  max. Y    24       0.548
+  max. S    22       0.923
+  mean S     1-23    0.760
+       D     1-23    0.631   0.450   YES
+Name=sp_P42311_YXIT_BACSU	SP='YES' Cleavage site between pos. 23 and 24: AYA-AP D=0.631 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P94593_YWQA_BACSU  Uncharacterized ATP-dependent helicase YwqA OS_Bacillus subtilis _strain 168_ GN_ywqA PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.112
+  max. Y    25       0.102
+  max. S    17       0.124
+  mean S     1-24    0.086
+       D     1-24    0.096   0.450   NO
+Name=sp_P94593_YWQA_BACSU	SP='NO' D=0.096 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O06714_SBCC_BACSU  Nuclease SbcCD subunit C OS_Bacillus subtilis _strain 168_ GN_sbcC PE_3 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    60       0.138
+  max. Y    60       0.133
+  max. S     1       0.171
+  mean S     1-59    0.113
+       D     1-59    0.125   0.450   NO
+Name=sp_O06714_SBCC_BACSU	SP='NO' D=0.125 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P45869_YWKB_BACSU  Uncharacterized transporter YwkB OS_Bacillus subtilis _strain 168_ GN_ywkB PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.197
+  max. Y    34       0.186
+  max. S    22       0.325
+  mean S     1-33    0.177
+       D     1-33    0.183   0.450   NO
+Name=sp_P45869_YWKB_BACSU	SP='NO' D=0.183 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P28367_RF2_BACSU  Peptide chain release factor 2 OS_Bacillus subtilis _strain 168_ GN_prfB PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.127
+  max. Y    34       0.106
+  max. S    31       0.124
+  mean S     1-33    0.083
+       D     1-33    0.097   0.450   NO
+Name=sp_P28367_RF2_BACSU	SP='NO' D=0.097 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P25053_TENI_BACSU  Thiazole tautomerase OS_Bacillus subtilis _strain 168_ GN_tenI PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.108
+  max. Y    69       0.086
+  max. S    64       0.083
+  mean S     1-68    0.056
+       D     1-68    0.074   0.450   NO
+Name=sp_P25053_TENI_BACSU	SP='NO' D=0.074 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54544_MISCB_BACSU  Membrane protein insertase MisCB OS_Bacillus subtilis _strain 168_ GN_misCB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.840
+  max. Y    27       0.795
+  max. S    23       0.857
+  mean S     1-26    0.662
+       D     1-26    0.743   0.450   YES
+Name=sp_P54544_MISCB_BACSU	SP='YES' Cleavage site between pos. 26 and 27: AFA-AT D=0.743 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P24141_OPPA_BACSU  Oligopeptide-binding protein OppA OS_Bacillus subtilis _strain 168_ GN_oppA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.208
+  max. Y    31       0.355
+  max. S    14       0.898
+  mean S     1-30    0.737
+       D     1-30    0.504   0.450   YES
+Name=sp_P24141_OPPA_BACSU	SP='YES' Cleavage site between pos. 30 and 31: SNG-EG D=0.504 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O05236_YUGG_BACSU  Uncharacterized HTH-type transcriptional regulator YugG OS_Bacillus subtilis _strain 168_ GN_yugG PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.113
+  max. Y    29       0.091
+  max. S    26       0.106
+  mean S     1-28    0.071
+       D     1-28    0.083   0.450   NO
+Name=sp_O05236_YUGG_BACSU	SP='NO' D=0.083 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31537_YEZB_BACSU  Uncharacterized protein YezB OS_Bacillus subtilis _strain 168_ GN_yezB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    60       0.154
+  max. Y    11       0.164
+  max. S     2       0.320
+  mean S     1-10    0.263
+       D     1-10    0.202   0.450   NO
+Name=sp_O31537_YEZB_BACSU	SP='NO' D=0.202 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31628_YJCF_BACSU  Uncharacterized N-acetyltransferase YjcF OS_Bacillus subtilis _strain 168_ GN_yjcF PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.130
+  max. Y    32       0.112
+  max. S    30       0.174
+  mean S     1-31    0.080
+       D     1-31    0.100   0.450   NO
+Name=sp_O31628_YJCF_BACSU	SP='NO' D=0.100 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32244_YVBG_BACSU  UPF0056 membrane protein YvbG OS_Bacillus subtilis _strain 168_ GN_yvbG PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.159
+  max. Y    23       0.249
+  max. S     1       0.583
+  mean S     1-22    0.435
+       D     1-22    0.321   0.450   NO
+Name=sp_O32244_YVBG_BACSU	SP='NO' D=0.321 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q45497_YKTA_BACSU  UPF0223 protein YktA OS_Bacillus subtilis _strain 168_ GN_yktA PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.152
+  max. Y    37       0.100
+  max. S    34       0.138
+  mean S     1-36    0.055
+       D     1-36    0.082   0.450   NO
+Name=sp_Q45497_YKTA_BACSU	SP='NO' D=0.082 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O35028_YFKR_BACSU  Putative spore germination protein YfkR OS_Bacillus subtilis _strain 168_ GN_yfkR PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.120
+  max. Y    13       0.251
+  max. S     4       0.691
+  mean S     1-12    0.625
+       D     1-12    0.397   0.450   NO
+Name=sp_O35028_YFKR_BACSU	SP='NO' D=0.397 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P24327_PRSA_BACSU  Foldase protein PrsA OS_Bacillus subtilis _strain 168_ GN_prsA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.321
+  max. Y    30       0.441
+  max. S    18       0.859
+  mean S     1-29    0.713
+       D     1-29    0.547   0.450   YES
+Name=sp_P24327_PRSA_BACSU	SP='YES' Cleavage site between pos. 29 and 30: VIA-KT D=0.547 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34499_6PGL_BACSU  6-phosphogluconolactonase OS_Bacillus subtilis _strain 168_ GN_pgl PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.122
+  max. Y    40       0.129
+  max. S    37       0.220
+  mean S     1-39    0.111
+       D     1-39    0.122   0.450   NO
+Name=sp_O34499_6PGL_BACSU	SP='NO' D=0.122 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32117_YUTJ_BACSU  NADH dehydrogenase-like protein YutJ OS_Bacillus subtilis _strain 168_ GN_yutJ PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    51       0.110
+  max. Y    11       0.141
+  max. S     6       0.259
+  mean S     1-10    0.204
+       D     1-10    0.166   0.450   NO
+Name=sp_O32117_YUTJ_BACSU	SP='NO' D=0.166 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P12878_RS14_BACSU  30S ribosomal protein S14 OS_Bacillus subtilis _strain 168_ GN_rpsN1 PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    59       0.122
+  max. Y    11       0.157
+  max. S     1       0.334
+  mean S     1-10    0.232
+       D     1-10    0.186   0.450   NO
+Name=sp_P12878_RS14_BACSU	SP='NO' D=0.186 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P42106_QDOI_BACSU  Quercetin 2,3-dioxygenase OS_Bacillus subtilis _strain 168_ GN_qdoI PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    66       0.118
+  max. Y    11       0.170
+  max. S     7       0.329
+  mean S     1-10    0.283
+       D     1-10    0.214   0.450   NO
+Name=sp_P42106_QDOI_BACSU	SP='NO' D=0.214 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P40398_YHXD_BACSU  Uncharacterized oxidoreductase YhxD OS_Bacillus subtilis _strain 168_ GN_yhxD PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    13       0.120
+  max. Y    39       0.112
+  max. S    26       0.145
+  mean S     1-38    0.104
+       D     1-38    0.109   0.450   NO
+Name=sp_P40398_YHXD_BACSU	SP='NO' D=0.109 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O06010_YRAD_BACSU  Spore coat protein F-like protein YraD OS_Bacillus subtilis _strain 168_ GN_yraD PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.547
+  max. Y    38       0.307
+  max. S    34       0.301
+  mean S     1-37    0.112
+       D     1-37    0.231   0.450   NO
+Name=sp_O06010_YRAD_BACSU	SP='NO' D=0.231 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P96602_DCTR_BACSU  Probable C4-dicarboxylate response regulator DctR OS_Bacillus subtilis _strain 168_ GN_dctR PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.116
+  max. Y    41       0.119
+  max. S    37       0.151
+  mean S     1-40    0.087
+       D     1-40    0.106   0.450   NO
+Name=sp_P96602_DCTR_BACSU	SP='NO' D=0.106 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34970_YTTP_BACSU  Probable HTH-type transcriptional regulator YttP OS_Bacillus subtilis _strain 168_ GN_yttP PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.208
+  max. Y    34       0.201
+  max. S     2       0.278
+  mean S     1-33    0.191
+       D     1-33    0.197   0.450   NO
+Name=sp_O34970_YTTP_BACSU	SP='NO' D=0.197 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P94548_FADR_BACSU  Fatty acid metabolism regulator protein OS_Bacillus subtilis _strain 168_ GN_fadR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    39       0.127
+  max. Y    11       0.127
+  max. S     1       0.262
+  mean S     1-10    0.138
+       D     1-10    0.131   0.450   NO
+Name=sp_P94548_FADR_BACSU	SP='NO' D=0.131 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34389_MAO3_BACSU  Probable NAD-dependent malic enzyme 3 OS_Bacillus subtilis _strain 168_ GN_malS PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.208
+  max. Y    35       0.164
+  max. S    30       0.187
+  mean S     1-34    0.122
+       D     1-34    0.148   0.450   NO
+Name=sp_O34389_MAO3_BACSU	SP='NO' D=0.148 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34529_PFKA_BACSU  ATP-dependent 6-phosphofructokinase OS_Bacillus subtilis _strain 168_ GN_pfkA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.133
+  max. Y    22       0.144
+  max. S    18       0.273
+  mean S     1-21    0.160
+       D     1-21    0.150   0.450   NO
+Name=sp_O34529_PFKA_BACSU	SP='NO' D=0.150 D-cutoff=0.450 Networks=SignalP-TM
+>sp_C0H3R9_YVZG_BACSU  Uncharacterized protein YvzG OS_Bacillus subtilis _strain 168_ GN_yvzG PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.117
+  max. Y    31       0.123
+  max. S    27       0.189
+  mean S     1-30    0.084
+       D     1-30    0.107   0.450   NO
+Name=sp_C0H3R9_YVZG_BACSU	SP='NO' D=0.107 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P45855_THL_BACSU  Acetyl-CoA acetyltransferase OS_Bacillus subtilis _strain 168_ GN_mmgA PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.421
+  max. Y    27       0.325
+  max. S     4       0.477
+  mean S     1-26    0.332
+       D     1-26    0.328   0.450   NO
+Name=sp_P45855_THL_BACSU	SP='NO' D=0.328 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P39765_PYRR_BACSU  Bifunctional protein PyrR OS_Bacillus subtilis _strain 168_ GN_pyrR PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.107
+  max. Y    31       0.099
+  max. S     6       0.140
+  mean S     1-30    0.093
+       D     1-30    0.097   0.450   NO
+Name=sp_P39765_PYRR_BACSU	SP='NO' D=0.097 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P40866_SP5AA_BACSU  Stage V sporulation protein AA OS_Bacillus subtilis _strain 168_ GN_spoVAA PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.126
+  max. Y    11       0.168
+  max. S     1       0.387
+  mean S     1-10    0.258
+       D     1-10    0.203   0.450   NO
+Name=sp_P40866_SP5AA_BACSU	SP='NO' D=0.203 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P42969_LIPC_BACSU  Spore germination lipase LipC OS_Bacillus subtilis _strain 168_ GN_lipC PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.111
+  max. Y    11       0.143
+  max. S     4       0.231
+  mean S     1-10    0.205
+       D     1-10    0.167   0.450   NO
+Name=sp_P42969_LIPC_BACSU	SP='NO' D=0.167 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31853_YOJK_BACSU  Uncharacterized UDP-glucosyltransferase YojK OS_Bacillus subtilis _strain 168_ GN_yojK PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.133
+  max. Y    23       0.133
+  max. S    15       0.162
+  mean S     1-22    0.119
+       D     1-22    0.127   0.450   NO
+Name=sp_O31853_YOJK_BACSU	SP='NO' D=0.127 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54484_YQGA_BACSU  Cell wall-binding protein YqgA OS_Bacillus subtilis _strain 168_ GN_yqgA PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.645
+  max. Y    29       0.742
+  max. S    20       0.931
+  mean S     1-28    0.860
+       D     1-28    0.788   0.450   YES
+Name=sp_P54484_YQGA_BACSU	SP='YES' Cleavage site between pos. 28 and 29: AEA-AS D=0.788 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32097_YUZF_BACSU  Uncharacterized protein YuzF OS_Bacillus subtilis _strain 168_ GN_yuzF PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.110
+  max. Y    41       0.097
+  max. S    10       0.116
+  mean S     1-40    0.083
+       D     1-40    0.092   0.450   NO
+Name=sp_O32097_YUZF_BACSU	SP='NO' D=0.092 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P05043_SP0E_BACSU  Aspartyl-phosphate phosphatase Spo0E OS_Bacillus subtilis _strain 168_ GN_spo0E PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    40       0.109
+  max. Y    60       0.110
+  max. S    24       0.198
+  mean S     1-59    0.091
+       D     1-59    0.102   0.450   NO
+Name=sp_P05043_SP0E_BACSU	SP='NO' D=0.102 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O07011_GANQ_BACSU  Putative arabinogalactan oligomer transport system permease protein GanQ OS_Bacillus subtilis _strain 168_ GN_ganQ PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.334
+  max. Y    38       0.290
+  max. S     8       0.448
+  mean S     1-37    0.271
+       D     1-37    0.283   0.450   NO
+Name=sp_O07011_GANQ_BACSU	SP='NO' D=0.283 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P46344_PGPH_BACSU  Cyclic-di-AMP phosphodiesterase PgpH OS_Bacillus subtilis _strain 168_ GN_pgpH PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    50       0.119
+  max. Y    11       0.275
+  max. S     1       0.789
+  mean S     1-10    0.756
+       D     1-10    0.463   0.450   YES
+Name=sp_P46344_PGPH_BACSU	SP='YES' Cleavage site between pos. 10 and 11: TKS-SS D=0.463 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P42316_SCOB_BACSU  Probable succinyl-CoA_3-ketoacid coenzyme A transferase subunit B OS_Bacillus subtilis _strain 168_ GN_scoB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.121
+  max. Y    11       0.156
+  max. S     1       0.342
+  mean S     1-10    0.219
+       D     1-10    0.181   0.450   NO
+Name=sp_P42316_SCOB_BACSU	SP='NO' D=0.181 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O07517_YHAI_BACSU  Uncharacterized protein YhaI OS_Bacillus subtilis _strain 168_ GN_yhaI PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    65       0.109
+  max. Y    48       0.094
+  max. S    37       0.113
+  mean S     1-47    0.061
+       D     1-47    0.081   0.450   NO
+Name=sp_O07517_YHAI_BACSU	SP='NO' D=0.081 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32128_YUTC_BACSU  Uncharacterized lipoprotein YutC OS_Bacillus subtilis _strain 168_ GN_yutC PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.185
+  max. Y    24       0.390
+  max. S    19       0.900
+  mean S     1-23    0.826
+       D     1-23    0.560   0.450   YES
+Name=sp_O32128_YUTC_BACSU	SP='YES' Cleavage site between pos. 23 and 24: AGL-DN D=0.560 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34618_YTNA_BACSU  Uncharacterized amino acid permease YtnA OS_Bacillus subtilis _strain 168_ GN_ytnA PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.285
+  max. Y    38       0.262
+  max. S    33       0.356
+  mean S     1-37    0.212
+       D     1-37    0.242   0.450   NO
+Name=sp_O34618_YTNA_BACSU	SP='NO' D=0.242 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P39667_NADR_BACSU  Transcription repressor NadR OS_Bacillus subtilis _strain 168_ GN_nadR PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    36       0.120
+  max. Y    36       0.136
+  max. S    31       0.215
+  mean S     1-35    0.125
+       D     1-35    0.131   0.450   NO
+Name=sp_P39667_NADR_BACSU	SP='NO' D=0.131 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54598_YHCN_BACSU  Lipoprotein YhcN OS_Bacillus subtilis _strain 168_ GN_yhcN PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.208
+  max. Y    25       0.419
+  max. S    10       0.913
+  mean S     1-24    0.838
+       D     1-24    0.582   0.450   YES
+Name=sp_P54598_YHCN_BACSU	SP='YES' Cleavage site between pos. 24 and 25: GVA-DQ D=0.582 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P25144_CCPA_BACSU  Catabolite control protein A OS_Bacillus subtilis _strain 168_ GN_ccpA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.126
+  max. Y    19       0.179
+  max. S    13       0.346
+  mean S     1-18    0.225
+       D     1-18    0.197   0.450   NO
+Name=sp_P25144_CCPA_BACSU	SP='NO' D=0.197 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O05493_YDHB_BACSU  Probable membrane transporter protein YdhB OS_Bacillus subtilis _strain 168_ GN_ydhB PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.237
+  max. Y    12       0.159
+  max. S     3       0.281
+  mean S     1-11    0.251
+       D     1-11    0.195   0.450   NO
+Name=sp_O05493_YDHB_BACSU	SP='NO' D=0.195 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P96596_YDBA_BACSU  Uncharacterized protein YdbA OS_Bacillus subtilis _strain 168_ GN_ydbA PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    51       0.106
+  max. Y    61       0.098
+  max. S    50       0.129
+  mean S     1-60    0.066
+       D     1-60    0.085   0.450   NO
+Name=sp_P96596_YDBA_BACSU	SP='NO' D=0.085 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q00538_MMR_BACSU  Methylenomycin A resistance protein OS_Bacillus subtilis _strain 168_ GN_mmr PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.459
+  max. Y    42       0.358
+  max. S    29       0.388
+  mean S     1-41    0.244
+       D     1-41    0.313   0.450   NO
+Name=sp_Q00538_MMR_BACSU	SP='NO' D=0.313 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32218_BDBD_BACSU  Disulfide bond formation protein D OS_Bacillus subtilis _strain 168_ GN_bdbD PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.227
+  max. Y    37       0.392
+  max. S    24       0.883
+  mean S     1-36    0.741
+       D     1-36    0.528   0.450   YES
+Name=sp_O32218_BDBD_BACSU	SP='YES' Cleavage site between pos. 36 and 37: EQG-ND D=0.528 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31488_YDAN_BACSU  Uncharacterized protein YdaN OS_Bacillus subtilis _strain 168_ GN_ydaN PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.654
+  max. Y    24       0.679
+  max. S     6       0.877
+  mean S     1-23    0.758
+       D     1-23    0.710   0.450   YES
+Name=sp_O31488_YDAN_BACSU	SP='YES' Cleavage site between pos. 23 and 24: ALA-KD D=0.710 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P26942_YSXB_BACSU  Uncharacterized protein YsxB OS_Bacillus subtilis _strain 168_ GN_ysxB PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.177
+  max. Y    53       0.172
+  max. S    49       0.348
+  mean S     1-52    0.131
+       D     1-52    0.156   0.450   NO
+Name=sp_P26942_YSXB_BACSU	SP='NO' D=0.156 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31963_YOMU_BACSU  SPBc2 prophage-derived uncharacterized protein YomU OS_Bacillus subtilis _strain 168_ GN_yomU PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.125
+  max. Y    41       0.166
+  max. S    38       0.293
+  mean S     1-40    0.207
+       D     1-40    0.182   0.450   NO
+Name=sp_O31963_YOMU_BACSU	SP='NO' D=0.182 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P96611_YDBP_BACSU  Thioredoxin-like protein YdbP OS_Bacillus subtilis _strain 168_ GN_ydbP PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    52       0.106
+  max. Y    52       0.105
+  max. S    49       0.140
+  mean S     1-51    0.082
+       D     1-51    0.096   0.450   NO
+Name=sp_P96611_YDBP_BACSU	SP='NO' D=0.096 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O07625_YLAA_BACSU  Uncharacterized protein YlaA OS_Bacillus subtilis _strain 168_ GN_ylaA PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    51       0.125
+  max. Y    69       0.096
+  max. S    57       0.136
+  mean S     1-68    0.056
+       D     1-68    0.081   0.450   NO
+Name=sp_O07625_YLAA_BACSU	SP='NO' D=0.081 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P46922_OPUAC_BACSU  Glycine betaine-binding protein OpuAC OS_Bacillus subtilis _strain 168_ GN_opuAC PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.806
+  max. Y    32       0.692
+  max. S    17       0.921
+  mean S     1-31    0.742
+       D     1-31    0.712   0.450   YES
+Name=sp_P46922_OPUAC_BACSU	SP='YES' Cleavage site between pos. 31 and 32: ASA-AE D=0.712 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34988_YOQA_BACSU  SPBc2 prophage-derived uncharacterized protein YoqA OS_Bacillus subtilis _strain 168_ GN_yoqA PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.112
+  max. Y    11       0.098
+  max. S     1       0.122
+  mean S     1-10    0.091
+       D     1-10    0.095   0.450   NO
+Name=sp_O34988_YOQA_BACSU	SP='NO' D=0.095 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P50832_YPPD_BACSU  Uncharacterized protein YppD OS_Bacillus subtilis _strain 168_ GN_yppD PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.122
+  max. Y    27       0.128
+  max. S    19       0.224
+  mean S     1-26    0.106
+       D     1-26    0.120   0.450   NO
+Name=sp_P50832_YPPD_BACSU	SP='NO' D=0.120 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P46335_YXCE_BACSU  Uncharacterized protein YxcE OS_Bacillus subtilis _strain 168_ GN_yxcE PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.766
+  max. Y    28       0.830
+  max. S    11       0.976
+  mean S     1-27    0.928
+       D     1-27    0.868   0.450   YES
+Name=sp_P46335_YXCE_BACSU	SP='YES' Cleavage site between pos. 27 and 28: SHA-KS D=0.868 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P17896_SP4B_BACSU  SpoIVB peptidase OS_Bacillus subtilis _strain 168_ GN_spoIVB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    60       0.150
+  max. Y    13       0.221
+  max. S     2       0.581
+  mean S     1-12    0.492
+       D     1-12    0.326   0.450   NO
+Name=sp_P17896_SP4B_BACSU	SP='NO' D=0.326 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31833_YOAS_BACSU  Uncharacterized membrane protein YoaS OS_Bacillus subtilis _strain 168_ GN_yoaS PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.239
+  max. Y    35       0.242
+  max. S     6       0.588
+  mean S     1-34    0.343
+       D     1-34    0.281   0.450   NO
+Name=sp_O31833_YOAS_BACSU	SP='NO' D=0.281 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32200_LIAG_BACSU  Protein LiaG OS_Bacillus subtilis _strain 168_ GN_liaG PE_2 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.544
+  max. Y    28       0.568
+  max. S    11       0.819
+  mean S     1-27    0.670
+       D     1-27    0.608   0.450   YES
+Name=sp_O32200_LIAG_BACSU	SP='YES' Cleavage site between pos. 27 and 28: VFA-AG D=0.608 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P45453_COMX_BACSU  Competence pheromone OS_Bacillus subtilis _strain 168_ GN_comX PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    40       0.136
+  max. Y    18       0.125
+  max. S     8       0.208
+  mean S     1-17    0.149
+       D     1-17    0.134   0.450   NO
+Name=sp_P45453_COMX_BACSU	SP='NO' D=0.134 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32213_CYSI_BACSU  Sulfite reductase _NADPH_ hemoprotein beta-component OS_Bacillus subtilis _strain 168_ GN_cysI PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.109
+  max. Y    19       0.115
+  max. S     7       0.173
+  mean S     1-18    0.117
+       D     1-18    0.116   0.450   NO
+Name=sp_O32213_CYSI_BACSU	SP='NO' D=0.116 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P39756_FDHD_BACSU  Sulfur carrier protein FdhD OS_Bacillus subtilis _strain 168_ GN_fdhD PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    52       0.143
+  max. Y    52       0.106
+  max. S    36       0.112
+  mean S     1-51    0.066
+       D     1-51    0.091   0.450   NO
+Name=sp_P39756_FDHD_BACSU	SP='NO' D=0.091 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54500_YQGW_BACSU  Uncharacterized protein YqgW OS_Bacillus subtilis _strain 168_ GN_yqgW PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.127
+  max. Y    11       0.181
+  max. S     1       0.502
+  mean S     1-10    0.288
+       D     1-10    0.223   0.450   NO
+Name=sp_P54500_YQGW_BACSU	SP='NO' D=0.223 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P94536_YSFB_BACSU  Uncharacterized protein YsfB OS_Bacillus subtilis _strain 168_ GN_ysfB PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    14       0.109
+  max. Y    14       0.150
+  max. S    10       0.338
+  mean S     1-13    0.206
+       D     1-13    0.172   0.450   NO
+Name=sp_P94536_YSFB_BACSU	SP='NO' D=0.172 D-cutoff=0.450 Networks=SignalP-TM
+>sp_C0H3R5_YVRJ_BACSU  Uncharacterized protein YvrJ OS_Bacillus subtilis _strain 168_ GN_yvrJ PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    55       0.114
+  max. Y    13       0.148
+  max. S     2       0.261
+  mean S     1-12    0.218
+       D     1-12    0.175   0.450   NO
+Name=sp_C0H3R5_YVRJ_BACSU	SP='NO' D=0.175 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34830_YKOS_BACSU  Uncharacterized membrane protein YkoS OS_Bacillus subtilis _strain 168_ GN_ykoS PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.146
+  max. Y    39       0.171
+  max. S    36       0.355
+  mean S     1-38    0.171
+       D     1-38    0.171   0.450   NO
+Name=sp_O34830_YKOS_BACSU	SP='NO' D=0.171 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P37873_SP2M_BACSU  Stage II sporulation protein M OS_Bacillus subtilis _strain 168_ GN_spoIIM PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    36       0.201
+  max. Y    36       0.177
+  max. S     2       0.310
+  mean S     1-35    0.180
+       D     1-35    0.178   0.450   NO
+Name=sp_P37873_SP2M_BACSU	SP='NO' D=0.178 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O35025_YDIR_BACSU  Type-2 restriction enzyme BsuMI component YdiR OS_Bacillus subtilis _strain 168_ GN_ydiR PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    66       0.147
+  max. Y    26       0.121
+  max. S    12       0.171
+  mean S     1-25    0.120
+       D     1-25    0.121   0.450   NO
+Name=sp_O35025_YDIR_BACSU	SP='NO' D=0.121 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54527_YQIK_BACSU  Uncharacterized protein YqiK OS_Bacillus subtilis _strain 168_ GN_yqiK PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.150
+  max. Y    31       0.142
+  max. S    21       0.220
+  mean S     1-30    0.120
+       D     1-30    0.133   0.450   NO
+Name=sp_P54527_YQIK_BACSU	SP='NO' D=0.133 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q7WY64_MIFM_BACSU  Membrane protein insertion and folding monitor OS_Bacillus subtilis _strain 168_ GN_mifM PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.144
+  max. Y    44       0.146
+  max. S    36       0.274
+  mean S     1-43    0.111
+       D     1-43    0.133   0.450   NO
+Name=sp_Q7WY64_MIFM_BACSU	SP='NO' D=0.133 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O07605_GLTT_BACSU  Proton_sodium-glutamate symport protein OS_Bacillus subtilis _strain 168_ GN_gltT PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.142
+  max. Y    11       0.165
+  max. S     7       0.325
+  mean S     1-10    0.267
+       D     1-10    0.205   0.450   NO
+Name=sp_O07605_GLTT_BACSU	SP='NO' D=0.205 D-cutoff=0.450 Networks=SignalP-TM
+>sp_C0H404_YKZR_BACSU  Probably inactive glycosylase YkzR OS_Bacillus subtilis _strain 168_ GN_ykzR PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.130
+  max. Y    22       0.200
+  max. S    17       0.386
+  mean S     1-21    0.293
+       D     1-21    0.236   0.450   NO
+Name=sp_C0H404_YKZR_BACSU	SP='NO' D=0.236 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54943_YXED_BACSU  Uncharacterized protein YxeD OS_Bacillus subtilis _strain 168_ GN_yxeD PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.109
+  max. Y    31       0.139
+  max. S    27       0.224
+  mean S     1-30    0.146
+       D     1-30    0.142   0.450   NO
+Name=sp_P54943_YXED_BACSU	SP='NO' D=0.142 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P37549_SSPF_BACSU  Protein SspF OS_Bacillus subtilis _strain 168_ GN_sspF PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    56       0.109
+  max. Y    61       0.104
+  max. S    54       0.135
+  mean S     1-60    0.088
+       D     1-60    0.097   0.450   NO
+Name=sp_P37549_SSPF_BACSU	SP='NO' D=0.097 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q06799_SECE_BACSU  Protein translocase subunit SecE OS_Bacillus subtilis _strain 168_ GN_secE PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    54       0.114
+  max. Y    11       0.154
+  max. S     2       0.314
+  mean S     1-10    0.236
+       D     1-10    0.186   0.450   NO
+Name=sp_Q06799_SECE_BACSU	SP='NO' D=0.186 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P46914_COTS_BACSU  Spore coat protein S OS_Bacillus subtilis _strain 168_ GN_cotS PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.111
+  max. Y    37       0.102
+  max. S    27       0.123
+  mean S     1-36    0.070
+       D     1-36    0.089   0.450   NO
+Name=sp_P46914_COTS_BACSU	SP='NO' D=0.089 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34792_YVJA_BACSU  UPF0750 membrane protein YvjA OS_Bacillus subtilis _strain 168_ GN_yvjA PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    40       0.213
+  max. Y    40       0.233
+  max. S    37       0.364
+  mean S     1-39    0.151
+       D     1-39    0.201   0.450   NO
+Name=sp_O34792_YVJA_BACSU	SP='NO' D=0.201 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P94388_CAH_BACSU  Cephalosporin-C deacetylase OS_Bacillus subtilis _strain 168_ GN_cah PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.119
+  max. Y    20       0.131
+  max. S    11       0.239
+  mean S     1-19    0.138
+       D     1-19    0.134   0.450   NO
+Name=sp_P94388_CAH_BACSU	SP='NO' D=0.134 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54568_YQKE_BACSU  Uncharacterized protein YqkE OS_Bacillus subtilis _strain 168_ GN_yqkE PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.111
+  max. Y    41       0.127
+  max. S     1       0.208
+  mean S     1-40    0.122
+       D     1-40    0.125   0.450   NO
+Name=sp_P54568_YQKE_BACSU	SP='NO' D=0.125 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31778_MIAB_BACSU  tRNA-2-methylthio-N_6_-dimethylallyladenosine synthase OS_Bacillus subtilis _strain 168_ GN_miaB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.106
+  max. Y    47       0.117
+  max. S    40       0.202
+  mean S     1-46    0.098
+       D     1-46    0.109   0.450   NO
+Name=sp_O31778_MIAB_BACSU	SP='NO' D=0.109 D-cutoff=0.450 Networks=SignalP-TM
+>sp_C0H3Z8_XKZB_BACSU  Uncharacterized protein XkzB OS_Bacillus subtilis _strain 168_ GN_xkzB PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.103
+  max. Y    49       0.101
+  max. S    43       0.127
+  mean S     1-48    0.068
+       D     1-48    0.088   0.450   NO
+Name=sp_C0H3Z8_XKZB_BACSU	SP='NO' D=0.088 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P55872_IF3_BACSU  Translation initiation factor IF-3 OS_Bacillus subtilis _strain 168_ GN_infC PE_3 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    54       0.140
+  max. Y    54       0.105
+  max. S     4       0.132
+  mean S     1-53    0.085
+       D     1-53    0.097   0.450   NO
+Name=sp_P55872_IF3_BACSU	SP='NO' D=0.097 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P68731_DEGR_BACSU  Regulatory protein DegR OS_Bacillus subtilis _strain 168_ GN_degR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.120
+  max. Y    33       0.105
+  max. S    25       0.148
+  mean S     1-32    0.073
+       D     1-32    0.092   0.450   NO
+Name=sp_P68731_DEGR_BACSU	SP='NO' D=0.092 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P94428_GABD_BACSU  Succinate-semialdehyde dehydrogenase _NADP____ OS_Bacillus subtilis _strain 168_ GN_gabD PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.127
+  max. Y    31       0.123
+  max. S    23       0.217
+  mean S     1-30    0.097
+       D     1-30    0.113   0.450   NO
+Name=sp_P94428_GABD_BACSU	SP='NO' D=0.113 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34883_YTKC_BACSU  Uncharacterized protein YtkC OS_Bacillus subtilis _strain 168_ GN_ytkC PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.124
+  max. Y    11       0.133
+  max. S     1       0.246
+  mean S     1-10    0.166
+       D     1-10    0.146   0.450   NO
+Name=sp_O34883_YTKC_BACSU	SP='NO' D=0.146 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32105_YUIF_BACSU  Putative amino acid transporter YuiF OS_Bacillus subtilis _strain 168_ GN_yuiF PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.205
+  max. Y    25       0.221
+  max. S     1       0.606
+  mean S     1-24    0.324
+       D     1-24    0.261   0.450   NO
+Name=sp_O32105_YUIF_BACSU	SP='NO' D=0.261 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34947_YOAZ_BACSU  Uncharacterized protease YoaZ OS_Bacillus subtilis _strain 168_ GN_yoaZ PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.129
+  max. Y    66       0.114
+  max. S     1       0.189
+  mean S     1-65    0.089
+       D     1-65    0.104   0.450   NO
+Name=sp_O34947_YOAZ_BACSU	SP='NO' D=0.104 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O35018_LMRB_BACSU  Lincomycin resistance protein LmrB OS_Bacillus subtilis _strain 168_ GN_lmrB PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    52       0.140
+  max. Y    38       0.157
+  max. S    30       0.318
+  mean S     1-37    0.167
+       D     1-37    0.161   0.450   NO
+Name=sp_O35018_LMRB_BACSU	SP='NO' D=0.161 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q00828_RAPA_BACSU  Response regulator aspartate phosphatase A OS_Bacillus subtilis _strain 168_ GN_rapA PE_2 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.130
+  max. Y    11       0.115
+  max. S     2       0.224
+  mean S     1-10    0.123
+       D     1-10    0.118   0.450   NO
+Name=sp_Q00828_RAPA_BACSU	SP='NO' D=0.118 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54489_YQGL_BACSU  Uncharacterized protein YqgL OS_Bacillus subtilis _strain 168_ GN_yqgL PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    39       0.110
+  max. Y    11       0.117
+  max. S     2       0.208
+  mean S     1-10    0.126
+       D     1-10    0.120   0.450   NO
+Name=sp_P54489_YQGL_BACSU	SP='NO' D=0.120 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P39814_TOP1_BACSU  DNA topoisomerase 1 OS_Bacillus subtilis _strain 168_ GN_topA PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    15       0.231
+  max. Y    15       0.158
+  max. S    14       0.209
+  mean S     1-14    0.108
+       D     1-14    0.139   0.450   NO
+Name=sp_P39814_TOP1_BACSU	SP='NO' D=0.139 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34381_PKSA_BACSU  HTH-type transcriptional regulator PksA OS_Bacillus subtilis _strain 168_ GN_pksA PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.150
+  max. Y    11       0.126
+  max. S     4       0.200
+  mean S     1-10    0.153
+       D     1-10    0.136   0.450   NO
+Name=sp_O34381_PKSA_BACSU	SP='NO' D=0.136 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34819_PEL1_BACSU  Pectin lyase OS_Bacillus subtilis _strain 168_ GN_pelB PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.357
+  max. Y    25       0.544
+  max. S    15       0.906
+  mean S     1-24    0.841
+       D     1-24    0.659   0.450   YES
+Name=sp_O34819_PEL1_BACSU	SP='YES' Cleavage site between pos. 24 and 25: ALG-AV D=0.659 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P39823_PSS_BACSU  CDP-diacylglycerol--serine O-phosphatidyltransferase OS_Bacillus subtilis _strain 168_ GN_pssA PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.174
+  max. Y    12       0.141
+  max. S     6       0.282
+  mean S     1-11    0.202
+       D     1-11    0.165   0.450   NO
+Name=sp_P39823_PSS_BACSU	SP='NO' D=0.165 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P39649_YWFM_BACSU  Uncharacterized transporter YwfM OS_Bacillus subtilis _strain 168_ GN_ywfM PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.501
+  max. Y    26       0.498
+  max. S    17       0.594
+  mean S     1-25    0.418
+       D     1-25    0.467   0.450   YES
+Name=sp_P39649_YWFM_BACSU	SP='YES' Cleavage site between pos. 25 and 26: VQA-LA D=0.467 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P96720_YWQH_BACSU  Uncharacterized protein YwqH OS_Bacillus subtilis _strain 168_ GN_ywqH PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.145
+  max. Y    22       0.111
+  max. S    27       0.134
+  mean S     1-21    0.084
+       D     1-21    0.100   0.450   NO
+Name=sp_P96720_YWQH_BACSU	SP='NO' D=0.100 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q796C3_SQHC_BACSU  Sporulenol synthase OS_Bacillus subtilis _strain 168_ GN_sqhC PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.130
+  max. Y    11       0.148
+  max. S     2       0.253
+  mean S     1-10    0.215
+       D     1-10    0.174   0.450   NO
+Name=sp_Q796C3_SQHC_BACSU	SP='NO' D=0.174 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32201_LIAH_BACSU  Protein LiaH OS_Bacillus subtilis _strain 168_ GN_liaH PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.127
+  max. Y    11       0.155
+  max. S     1       0.304
+  mean S     1-10    0.232
+       D     1-10    0.185   0.450   NO
+Name=sp_O32201_LIAH_BACSU	SP='NO' D=0.185 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32272_TUAC_BACSU  Putative teichuronic acid biosynthesis glycosyltransferase TuaC OS_Bacillus subtilis _strain 168_ GN_tuaC PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.154
+  max. Y    20       0.159
+  max. S     6       0.244
+  mean S     1-19    0.177
+       D     1-19    0.166   0.450   NO
+Name=sp_O32272_TUAC_BACSU	SP='NO' D=0.166 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34326_YOQK_BACSU  SPBc2 prophage-derived uncharacterized protein YoqK OS_Bacillus subtilis _strain 168_ GN_yoqK PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    44       0.103
+  max. Y    67       0.091
+  max. S    67       0.093
+  mean S     1-66    0.065
+       D     1-66    0.081   0.450   NO
+Name=sp_O34326_YOQK_BACSU	SP='NO' D=0.081 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31889_YORZ_BACSU  SPBc2 prophage-derived uncharacterized protein YorZ OS_Bacillus subtilis _strain 168_ GN_yorZ PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.121
+  max. Y    38       0.146
+  max. S     3       0.245
+  mean S     1-37    0.158
+       D     1-37    0.150   0.450   NO
+Name=sp_O31889_YORZ_BACSU	SP='NO' D=0.150 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P39809_FLGM_BACSU  Negative regulator of flagellin synthesis OS_Bacillus subtilis _strain 168_ GN_flgM PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.115
+  max. Y    22       0.148
+  max. S    11       0.273
+  mean S     1-21    0.172
+       D     1-21    0.157   0.450   NO
+Name=sp_P39809_FLGM_BACSU	SP='NO' D=0.157 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54715_PTOCB_BACSU  PTS system maltose-specific EIICB component OS_Bacillus subtilis _strain 168_ GN_malP PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.116
+  max. Y    11       0.239
+  max. S     6       0.625
+  mean S     1-10    0.584
+       D     1-10    0.374   0.450   NO
+Name=sp_P54715_PTOCB_BACSU	SP='NO' D=0.374 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34336_YOPP_BACSU  SPBc2 prophage-derived probable integrase_recombinase YopP OS_Bacillus subtilis _strain 168_ GN_yopP PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    54       0.111
+  max. Y    54       0.131
+  max. S    44       0.225
+  mean S     1-53    0.117
+       D     1-53    0.125   0.450   NO
+Name=sp_O34336_YOPP_BACSU	SP='NO' D=0.125 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54586_YHCB_BACSU  Uncharacterized protein YhcB OS_Bacillus subtilis _strain 168_ GN_yhcB PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.131
+  max. Y    70       0.090
+  max. S    18       0.108
+  mean S     1-69    0.064
+       D     1-69    0.080   0.450   NO
+Name=sp_P54586_YHCB_BACSU	SP='NO' D=0.080 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P96705_YDGG_BACSU  Uncharacterized HTH-type transcriptional regulator YdgG OS_Bacillus subtilis _strain 168_ GN_ydgG PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.159
+  max. Y    27       0.146
+  max. S    23       0.192
+  mean S     1-26    0.127
+       D     1-26    0.138   0.450   NO
+Name=sp_P96705_YDGG_BACSU	SP='NO' D=0.138 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P26904_DPPC_BACSU  Dipeptide transport system permease protein DppC OS_Bacillus subtilis _strain 168_ GN_dppC PE_2 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.119
+  max. Y    70       0.113
+  max. S    17       0.158
+  mean S     1-69    0.092
+       D     1-69    0.105   0.450   NO
+Name=sp_P26904_DPPC_BACSU	SP='NO' D=0.105 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54467_YQFB_BACSU  Uncharacterized protein YqfB OS_Bacillus subtilis _strain 168_ GN_yqfB PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.193
+  max. Y    31       0.275
+  max. S    23       0.533
+  mean S     1-30    0.261
+       D     1-30    0.269   0.450   NO
+Name=sp_P54467_YQFB_BACSU	SP='NO' D=0.269 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31459_YBGA_BACSU  Uncharacterized HTH-type transcriptional regulator YbgA OS_Bacillus subtilis _strain 168_ GN_ybgA PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.165
+  max. Y    24       0.212
+  max. S    19       0.406
+  mean S     1-23    0.232
+       D     1-23    0.220   0.450   NO
+Name=sp_O31459_YBGA_BACSU	SP='NO' D=0.220 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O35006_HIS4_BACSU  1-_5-phosphoribosyl_-5-__5-phosphoribosylamino_methylideneamino_ imidazole-4-carboxamide isomerase OS_Bacillus subtilis _strain 168_ GN_hisA PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.120
+  max. Y    24       0.120
+  max. S    18       0.188
+  mean S     1-23    0.120
+       D     1-23    0.120   0.450   NO
+Name=sp_O35006_HIS4_BACSU	SP='NO' D=0.120 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31560_YFIR_BACSU  Uncharacterized HTH-type transcriptional regulator YfiR OS_Bacillus subtilis _strain 168_ GN_yfiR PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    48       0.103
+  max. Y    11       0.120
+  max. S     2       0.199
+  mean S     1-10    0.139
+       D     1-10    0.127   0.450   NO
+Name=sp_O31560_YFIR_BACSU	SP='NO' D=0.127 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O05240_YUGK_BACSU  Probable NADH-dependent butanol dehydrogenase 2 OS_Bacillus subtilis _strain 168_ GN_yugK PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    65       0.104
+  max. Y    11       0.106
+  max. S     1       0.169
+  mean S     1-10    0.101
+       D     1-10    0.104   0.450   NO
+Name=sp_O05240_YUGK_BACSU	SP='NO' D=0.104 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P39153_SUA5_BACSU  Threonylcarbamoyl-AMP synthase OS_Bacillus subtilis _strain 168_ GN_ywlC PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.608
+  max. Y    25       0.303
+  max. S    21       0.261
+  mean S     1-24    0.127
+       D     1-24    0.234   0.450   NO
+Name=sp_P39153_SUA5_BACSU	SP='NO' D=0.234 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P07343_FUMC_BACSU  Fumarate hydratase class II OS_Bacillus subtilis _strain 168_ GN_fumC PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.114
+  max. Y    58       0.140
+  max. S    54       0.217
+  mean S     1-57    0.109
+       D     1-57    0.128   0.450   NO
+Name=sp_P07343_FUMC_BACSU	SP='NO' D=0.128 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P42403_BGLC_BACSU  Aryl-phospho-beta-D-glucosidase BglC OS_Bacillus subtilis _strain 168_ GN_bglC PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.149
+  max. Y    11       0.134
+  max. S     4       0.296
+  mean S     1-10    0.173
+       D     1-10    0.149   0.450   NO
+Name=sp_P42403_BGLC_BACSU	SP='NO' D=0.149 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31922_YOQP_BACSU  SPBc2 prophage-derived uncharacterized protein YoqP OS_Bacillus subtilis _strain 168_ GN_yoqP PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.149
+  max. Y    22       0.134
+  max. S    21       0.256
+  mean S     1-21    0.122
+       D     1-21    0.129   0.450   NO
+Name=sp_O31922_YOQP_BACSU	SP='NO' D=0.129 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31504_YEEA_BACSU  Putative DNA methyltransferase YeeA OS_Bacillus subtilis _strain 168_ GN_yeeA PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    47       0.103
+  max. Y    47       0.097
+  max. S    41       0.138
+  mean S     1-46    0.060
+       D     1-46    0.083   0.450   NO
+Name=sp_O31504_YEEA_BACSU	SP='NO' D=0.083 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31447_YBFG_BACSU  Uncharacterized protein YbfG OS_Bacillus subtilis _strain 168_ GN_ybfG PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    54       0.121
+  max. Y    23       0.120
+  max. S    16       0.214
+  mean S     1-22    0.101
+       D     1-22    0.112   0.450   NO
+Name=sp_O31447_YBFG_BACSU	SP='NO' D=0.112 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P28619_RNPH_BACSU  Ribonuclease PH OS_Bacillus subtilis _strain 168_ GN_rph PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.144
+  max. Y    42       0.129
+  max. S    28       0.173
+  mean S     1-41    0.091
+       D     1-41    0.114   0.450   NO
+Name=sp_P28619_RNPH_BACSU	SP='NO' D=0.114 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P15400_SACX_BACSU  Negative regulator of SacY activity OS_Bacillus subtilis _strain 168_ GN_sacX PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    44       0.116
+  max. Y    11       0.127
+  max. S     1       0.215
+  mean S     1-10    0.148
+       D     1-10    0.135   0.450   NO
+Name=sp_P15400_SACX_BACSU	SP='NO' D=0.135 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P35137_PPIB_BACSU  Peptidyl-prolyl cis-trans isomerase B OS_Bacillus subtilis _strain 168_ GN_ppiB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.126
+  max. Y    23       0.112
+  max. S    22       0.147
+  mean S     1-22    0.082
+       D     1-22    0.100   0.450   NO
+Name=sp_P35137_PPIB_BACSU	SP='NO' D=0.100 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34765_YLBJ_BACSU  Sporulation integral membrane protein YlbJ OS_Bacillus subtilis _strain 168_ GN_ylbJ PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.491
+  max. Y    32       0.477
+  max. S    17       0.734
+  mean S     1-31    0.539
+       D     1-31    0.501   0.450   YES
+Name=sp_O34765_YLBJ_BACSU	SP='YES' Cleavage site between pos. 31 and 32: SFE-AS D=0.501 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54344_XTRA_BACSU  Phage-like element PBSX protein XtrA OS_Bacillus subtilis _strain 168_ GN_xtrA PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.112
+  max. Y    11       0.135
+  max. S     1       0.246
+  mean S     1-10    0.157
+       D     1-10    0.144   0.450   NO
+Name=sp_P54344_XTRA_BACSU	SP='NO' D=0.144 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P05654_PYRB_BACSU  Aspartate carbamoyltransferase OS_Bacillus subtilis _strain 168_ GN_pyrB PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    40       0.139
+  max. Y    11       0.130
+  max. S    19       0.242
+  mean S     1-10    0.164
+       D     1-10    0.143   0.450   NO
+Name=sp_P05654_PYRB_BACSU	SP='NO' D=0.143 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P96575_YDAB_BACSU  Putative acyl--CoA ligase YdaB OS_Bacillus subtilis _strain 168_ GN_ydaB PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.110
+  max. Y    24       0.121
+  max. S    49       0.175
+  mean S     1-23    0.121
+       D     1-23    0.121   0.450   NO
+Name=sp_P96575_YDAB_BACSU	SP='NO' D=0.121 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P96661_YDED_BACSU  Uncharacterized transporter YdeD OS_Bacillus subtilis _strain 168_ GN_ydeD PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.163
+  max. Y    28       0.197
+  max. S     1       0.368
+  mean S     1-27    0.258
+       D     1-27    0.221   0.450   NO
+Name=sp_P96661_YDED_BACSU	SP='NO' D=0.221 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P39805_LICT_BACSU  Transcription antiterminator LicT OS_Bacillus subtilis _strain 168_ GN_licT PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.124
+  max. Y    20       0.150
+  max. S    14       0.258
+  mean S     1-19    0.162
+       D     1-19    0.155   0.450   NO
+Name=sp_P39805_LICT_BACSU	SP='NO' D=0.155 D-cutoff=0.450 Networks=SignalP-TM
+>tr_L8E9J8_L8E9J8_BACSU  Uncharacterized protein OS_Bacillus subtilis _strain 168_ GN_yrpDX PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.113
+  max. Y    11       0.139
+  max. S     2       0.310
+  mean S     1-10    0.172
+       D     1-10    0.152   0.450   NO
+Name=tr_L8E9J8_L8E9J8_BACSU	SP='NO' D=0.152 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34569_YOAA_BACSU  Uncharacterized N-acetyltransferase YoaA OS_Bacillus subtilis _strain 168_ GN_yoaA PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.154
+  max. Y    23       0.129
+  max. S    18       0.194
+  mean S     1-22    0.086
+       D     1-22    0.112   0.450   NO
+Name=sp_O34569_YOAA_BACSU	SP='NO' D=0.112 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31761_YMFC_BACSU  Uncharacterized HTH-type transcriptional regulator YmfC OS_Bacillus subtilis _strain 168_ GN_ymfC PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    48       0.102
+  max. Y    11       0.107
+  max. S     2       0.160
+  mean S     1-10    0.108
+       D     1-10    0.107   0.450   NO
+Name=sp_O31761_YMFC_BACSU	SP='NO' D=0.107 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31702_MOEB_BACSU  Molybdopterin-synthase adenylyltransferase OS_Bacillus subtilis _strain 168_ GN_moeB PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.194
+  max. Y    41       0.172
+  max. S    40       0.275
+  mean S     1-40    0.123
+       D     1-40    0.153   0.450   NO
+Name=sp_O31702_MOEB_BACSU	SP='NO' D=0.153 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q796A8_YOTI_BACSU  SPBc2 prophage-derived uncharacterized protein YotI OS_Bacillus subtilis _strain 168_ GN_yotI PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.114
+  max. Y    69       0.097
+  max. S    57       0.114
+  mean S     1-68    0.073
+       D     1-68    0.088   0.450   NO
+Name=sp_Q796A8_YOTI_BACSU	SP='NO' D=0.088 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32284_YXZE_BACSU  Uncharacterized protein YxzE OS_Bacillus subtilis _strain 168_ GN_yxzE PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.675
+  max. Y    26       0.697
+  max. S    17       0.876
+  mean S     1-25    0.614
+       D     1-25    0.665   0.450   YES
+Name=sp_O32284_YXZE_BACSU	SP='YES' Cleavage site between pos. 25 and 26: SKN-KS D=0.665 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O35031_ACYP_BACSU  Acylphosphatase OS_Bacillus subtilis _strain 168_ GN_acyP PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.111
+  max. Y    31       0.115
+  max. S    27       0.168
+  mean S     1-30    0.094
+       D     1-30    0.106   0.450   NO
+Name=sp_O35031_ACYP_BACSU	SP='NO' D=0.106 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q08311_COTY_BACSU  Spore coat protein Y OS_Bacillus subtilis _strain 168_ GN_cotY PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    49       0.126
+  max. Y    31       0.128
+  max. S    27       0.206
+  mean S     1-30    0.128
+       D     1-30    0.128   0.450   NO
+Name=sp_Q08311_COTY_BACSU	SP='NO' D=0.128 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P42304_YXIM_BACSU  Uncharacterized esterase YxiM OS_Bacillus subtilis _strain 168_ GN_yxiM PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.802
+  max. Y    26       0.770
+  max. S    11       0.806
+  mean S     1-25    0.733
+       D     1-25    0.755   0.450   YES
+Name=sp_P42304_YXIM_BACSU	SP='YES' Cleavage site between pos. 25 and 26: VKA-AE D=0.755 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31404_ACOA_BACSU  Acetoin_2,6-dichlorophenolindophenol oxidoreductase subunit alpha OS_Bacillus subtilis _strain 168_ GN_acoA PE_2 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    64       0.107
+  max. Y    11       0.121
+  max. S     1       0.225
+  mean S     1-10    0.125
+       D     1-10    0.123   0.450   NO
+Name=sp_O31404_ACOA_BACSU	SP='NO' D=0.123 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P46324_YVRN_BACSU  Uncharacterized ABC transporter permease YvrN OS_Bacillus subtilis _strain 168_ GN_yvrN PE_3 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.130
+  max. Y    43       0.163
+  max. S     9       0.337
+  mean S     1-42    0.214
+       D     1-42    0.183   0.450   NO
+Name=sp_P46324_YVRN_BACSU	SP='NO' D=0.183 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q45603_YYCS_BACSU  Uncharacterized protein YycS OS_Bacillus subtilis _strain 168_ GN_yycS PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.146
+  max. Y    24       0.171
+  max. S     3       0.383
+  mean S     1-23    0.234
+       D     1-23    0.196   0.450   NO
+Name=sp_Q45603_YYCS_BACSU	SP='NO' D=0.196 D-cutoff=0.450 Networks=SignalP-TM
+>sp_C0H3U7_YCZL_BACSU  Uncharacterized protein YczL OS_Bacillus subtilis _strain 168_ GN_yczL PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    45       0.177
+  max. Y    45       0.128
+  max. S     1       0.226
+  mean S     1-44    0.110
+       D     1-44    0.121   0.450   NO
+Name=sp_C0H3U7_YCZL_BACSU	SP='NO' D=0.121 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34844_YODB_BACSU  HTH-type transcriptional regulator YodB OS_Bacillus subtilis _strain 168_ GN_yodB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    52       0.119
+  max. Y    13       0.177
+  max. S     1       0.369
+  mean S     1-12    0.269
+       D     1-12    0.213   0.450   NO
+Name=sp_O34844_YODB_BACSU	SP='NO' D=0.213 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P39217_TLPB_BACSU  Methyl-accepting chemotaxis protein TlpB OS_Bacillus subtilis _strain 168_ GN_tlpB PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.176
+  max. Y    20       0.201
+  max. S    15       0.444
+  mean S     1-19    0.301
+       D     1-19    0.240   0.450   NO
+Name=sp_P39217_TLPB_BACSU	SP='NO' D=0.240 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O05259_MRPB_BACSU  Na____H___ antiporter subunit B OS_Bacillus subtilis _strain 168_ GN_mrpB PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    39       0.148
+  max. Y    39       0.156
+  max. S    35       0.217
+  mean S     1-38    0.126
+       D     1-38    0.144   0.450   NO
+Name=sp_O05259_MRPB_BACSU	SP='NO' D=0.144 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P10585_GNTR_BACSU  Gluconate operon transcriptional repressor OS_Bacillus subtilis _strain 168_ GN_gntR PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    49       0.174
+  max. Y    49       0.159
+  max. S     7       0.248
+  mean S     1-48    0.130
+       D     1-48    0.148   0.450   NO
+Name=sp_P10585_GNTR_BACSU	SP='NO' D=0.148 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34892_YOBS_BACSU  Uncharacterized HTH-type transcriptional regulator YobS OS_Bacillus subtilis _strain 168_ GN_yobS PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.152
+  max. Y    21       0.137
+  max. S    15       0.288
+  mean S     1-20    0.141
+       D     1-20    0.139   0.450   NO
+Name=sp_O34892_YOBS_BACSU	SP='NO' D=0.139 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q45461_OPUBB_BACSU  Choline transport system permease protein OpuBB OS_Bacillus subtilis _strain 168_ GN_opuBB PE_2 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    69       0.120
+  max. Y    60       0.121
+  max. S    55       0.171
+  mean S     1-59    0.081
+       D     1-59    0.105   0.450   NO
+Name=sp_Q45461_OPUBB_BACSU	SP='NO' D=0.105 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P71049_SLRR_BACSU  HTH-type transcriptional regulator SlrR OS_Bacillus subtilis _strain 168_ GN_slrR PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    53       0.119
+  max. Y    11       0.166
+  max. S     3       0.348
+  mean S     1-10    0.278
+       D     1-10    0.210   0.450   NO
+Name=sp_P71049_SLRR_BACSU	SP='NO' D=0.210 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31907_YORG_BACSU  SPBc2 prophage-derived uncharacterized protein YorG OS_Bacillus subtilis _strain 168_ GN_yorG PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    67       0.152
+  max. Y    17       0.154
+  max. S    14       0.280
+  mean S     1-16    0.174
+       D     1-16    0.162   0.450   NO
+Name=sp_O31907_YORG_BACSU	SP='NO' D=0.162 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q45577_YBEC_BACSU  Probable amino acid-proton symporter YbeC OS_Bacillus subtilis _strain 168_ GN_ybeC PE_3 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.132
+  max. Y    11       0.244
+  max. S     2       0.676
+  mean S     1-10    0.617
+       D     1-10    0.389   0.450   NO
+Name=sp_Q45577_YBEC_BACSU	SP='NO' D=0.389 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P46353_DEOB_BACSU  Phosphopentomutase OS_Bacillus subtilis _strain 168_ GN_drm PE_3 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.177
+  max. Y    26       0.227
+  max. S    21       0.439
+  mean S     1-25    0.232
+       D     1-25    0.229   0.450   NO
+Name=sp_P46353_DEOB_BACSU	SP='NO' D=0.229 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P11065_HPR_BACSU  HTH-type transcriptional regulator Hpr OS_Bacillus subtilis _strain 168_ GN_hpr PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.111
+  max. Y    11       0.116
+  max. S     1       0.191
+  mean S     1-10    0.125
+       D     1-10    0.119   0.450   NO
+Name=sp_P11065_HPR_BACSU	SP='NO' D=0.119 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P32393_COMEB_BACSU  ComE operon protein 2 OS_Bacillus subtilis _strain 168_ GN_comEB PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    55       0.129
+  max. Y    21       0.168
+  max. S    14       0.396
+  mean S     1-20    0.221
+       D     1-20    0.189   0.450   NO
+Name=sp_P32393_COMEB_BACSU	SP='NO' D=0.189 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34669_YOCH_BACSU  Cell wall-binding protein YocH OS_Bacillus subtilis _strain 168_ GN_yocH PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.459
+  max. Y    26       0.607
+  max. S    18       0.919
+  mean S     1-25    0.839
+       D     1-25    0.698   0.450   YES
+Name=sp_O34669_YOCH_BACSU	SP='YES' Cleavage site between pos. 25 and 26: ASA-KE D=0.698 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P28366_SECA_BACSU  Protein translocase subunit SecA OS_Bacillus subtilis _strain 168_ GN_secA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.103
+  max. Y    11       0.132
+  max. S     7       0.241
+  mean S     1-10    0.184
+       D     1-10    0.152   0.450   NO
+Name=sp_P28366_SECA_BACSU	SP='NO' D=0.152 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O06728_YISP_BACSU  Putative phytoene_squalene synthase YisP OS_Bacillus subtilis _strain 168_ GN_yisP PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    51       0.230
+  max. Y    51       0.246
+  max. S    36       0.488
+  mean S     1-50    0.168
+       D     1-50    0.215   0.450   NO
+Name=sp_O06728_YISP_BACSU	SP='NO' D=0.215 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O05392_RUVA_BACSU  Holliday junction ATP-dependent DNA helicase RuvA OS_Bacillus subtilis _strain 168_ GN_ruvA PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.127
+  max. Y    37       0.094
+  max. S    21       0.103
+  mean S     1-36    0.065
+       D     1-36    0.083   0.450   NO
+Name=sp_O05392_RUVA_BACSU	SP='NO' D=0.083 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q797A7_YFNA_BACSU  Uncharacterized amino acid permease YfnA OS_Bacillus subtilis _strain 168_ GN_yfnA PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    53       0.262
+  max. Y    18       0.249
+  max. S    11       0.636
+  mean S     1-17    0.484
+       D     1-17    0.341   0.450   NO
+Name=sp_Q797A7_YFNA_BACSU	SP='NO' D=0.341 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O07599_YHFA_BACSU  Uncharacterized membrane protein YhfA OS_Bacillus subtilis _strain 168_ GN_yhfA PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    64       0.251
+  max. Y    64       0.164
+  max. S    39       0.212
+  mean S     1-63    0.084
+       D     1-63    0.133   0.450   NO
+Name=sp_O07599_YHFA_BACSU	SP='NO' D=0.133 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P94552_IABF2_BACSU  Intracellular exo-alpha-L-arabinofuranosidase 2 OS_Bacillus subtilis _strain 168_ GN_abf2 PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.111
+  max. Y    69       0.090
+  max. S    67       0.096
+  mean S     1-68    0.066
+       D     1-68    0.081   0.450   NO
+Name=sp_P94552_IABF2_BACSU	SP='NO' D=0.081 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O07547_YHEF_BACSU  Uncharacterized protein YheF OS_Bacillus subtilis _strain 168_ GN_yheF PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.134
+  max. Y    21       0.103
+  max. S     2       0.111
+  mean S     1-20    0.084
+       D     1-20    0.095   0.450   NO
+Name=sp_O07547_YHEF_BACSU	SP='NO' D=0.095 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34359_YOQJ_BACSU  Uncharacterized SPBc2 prophage-derived protein YoqJ OS_Bacillus subtilis _strain 168_ GN_yoqJ PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.123
+  max. Y    11       0.192
+  max. S     1       0.515
+  mean S     1-10    0.330
+       D     1-10    0.246   0.450   NO
+Name=sp_O34359_YOQJ_BACSU	SP='NO' D=0.246 D-cutoff=0.450 Networks=SignalP-TM
+>sp_C0H3Y1_YHZD_BACSU  Uncharacterized protein YhzD OS_Bacillus subtilis _strain 168_ GN_yhzD PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.155
+  max. Y    24       0.176
+  max. S    22       0.362
+  mean S     1-23    0.141
+       D     1-23    0.162   0.450   NO
+Name=sp_C0H3Y1_YHZD_BACSU	SP='NO' D=0.162 D-cutoff=0.450 Networks=SignalP-TM
+>sp_C0SPB4_YHAQ_BACSU  Uncharacterized ABC transporter ATP-binding protein YhaQ OS_Bacillus subtilis _strain 168_ GN_yhaQ PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.118
+  max. Y    68       0.104
+  max. S    60       0.123
+  mean S     1-67    0.073
+       D     1-67    0.091   0.450   NO
+Name=sp_C0SPB4_YHAQ_BACSU	SP='NO' D=0.091 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O32224_AZOR2_BACSU  FMN-dependent NADH-azoreductase 2 OS_Bacillus subtilis _strain 168_ GN_azoR2 PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.119
+  max. Y    21       0.125
+  max. S     9       0.174
+  mean S     1-20    0.124
+       D     1-20    0.125   0.450   NO
+Name=sp_O32224_AZOR2_BACSU	SP='NO' D=0.125 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O05496_YDHE_BACSU  Uncharacterized UDP-glucosyltransferase YdhE OS_Bacillus subtilis _strain 168_ GN_ydhE PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.140
+  max. Y    21       0.182
+  max. S     9       0.341
+  mean S     1-20    0.226
+       D     1-20    0.199   0.450   NO
+Name=sp_O05496_YDHE_BACSU	SP='NO' D=0.199 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q05470_PKSL_BACSU  Polyketide synthase PksL OS_Bacillus subtilis _strain 168_ GN_pksL PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    52       0.110
+  max. Y    11       0.198
+  max. S     4       0.505
+  mean S     1-10    0.384
+       D     1-10    0.270   0.450   NO
+Name=sp_Q05470_PKSL_BACSU	SP='NO' D=0.270 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31782_PKSN_BACSU  Polyketide synthase PksN OS_Bacillus subtilis _strain 168_ GN_pksN PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    44       0.228
+  max. Y    44       0.168
+  max. S     2       0.339
+  mean S     1-43    0.156
+       D     1-43    0.163   0.450   NO
+Name=sp_O31782_PKSN_BACSU	SP='NO' D=0.163 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31652_COXX1_BACSU  Protoheme IX farnesyltransferase 1 OS_Bacillus subtilis _strain 168_ GN_ctaB1 PE_1 SV_3
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    53       0.242
+  max. Y    53       0.198
+  max. S    44       0.219
+  mean S     1-52    0.126
+       D     1-52    0.170   0.450   NO
+Name=sp_O31652_COXX1_BACSU	SP='NO' D=0.170 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q08791_YCXA_BACSU  Uncharacterized MFS-type transporter YcxA OS_Bacillus subtilis _strain 168_ GN_ycxA PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.158
+  max. Y    13       0.241
+  max. S     2       0.692
+  mean S     1-12    0.577
+       D     1-12    0.372   0.450   NO
+Name=sp_Q08791_YCXA_BACSU	SP='NO' D=0.372 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34752_LGT_BACSU  Prolipoprotein diacylglyceryl transferase OS_Bacillus subtilis _strain 168_ GN_lgt PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    41       0.211
+  max. Y    41       0.108
+  max. S    39       0.101
+  mean S     1-40    0.042
+       D     1-40    0.082   0.450   NO
+Name=sp_O34752_LGT_BACSU	SP='NO' D=0.082 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P49783_SP3AF_BACSU  Stage III sporulation protein AF OS_Bacillus subtilis _strain 168_ GN_spoIIIAF PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.207
+  max. Y    53       0.166
+  max. S    52       0.271
+  mean S     1-52    0.135
+       D     1-52    0.154   0.450   NO
+Name=sp_P49783_SP3AF_BACSU	SP='NO' D=0.154 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34424_YTEJ_BACSU  Uncharacterized membrane protein YteJ OS_Bacillus subtilis _strain 168_ GN_yteJ PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    67       0.111
+  max. Y    70       0.094
+  max. S    63       0.117
+  mean S     1-69    0.045
+       D     1-69    0.075   0.450   NO
+Name=sp_O34424_YTEJ_BACSU	SP='NO' D=0.075 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31674_YKVI_BACSU  Uncharacterized membrane protein YkvI OS_Bacillus subtilis _strain 168_ GN_ykvI PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.157
+  max. Y    26       0.141
+  max. S    21       0.222
+  mean S     1-25    0.121
+       D     1-25    0.133   0.450   NO
+Name=sp_O31674_YKVI_BACSU	SP='NO' D=0.133 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O08469_CPXY_BACSU  Cytochrome P450 OS_Bacillus subtilis _strain 168_ GN_cypA PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.187
+  max. Y    27       0.186
+  max. S     1       0.392
+  mean S     1-26    0.174
+       D     1-26    0.182   0.450   NO
+Name=sp_O08469_CPXY_BACSU	SP='NO' D=0.182 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31602_SPX_BACSU  Regulatory protein Spx OS_Bacillus subtilis _strain 168_ GN_spxA PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    19       0.188
+  max. Y    19       0.207
+  max. S     2       0.600
+  mean S     1-18    0.313
+       D     1-18    0.249   0.450   NO
+Name=sp_O31602_SPX_BACSU	SP='NO' D=0.249 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P42250_YCBR_BACSU  Uncharacterized protein YcbR OS_Bacillus subtilis _strain 168_ GN_ycbR PE_4 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.107
+  max. Y    18       0.153
+  max. S    12       0.310
+  mean S     1-17    0.212
+       D     1-17    0.176   0.450   NO
+Name=sp_P42250_YCBR_BACSU	SP='NO' D=0.176 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31914_YOQY_BACSU  SPBc2 prophage-derived uncharacterized protein YoqY OS_Bacillus subtilis _strain 168_ GN_yoqY PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    60       0.148
+  max. Y    60       0.121
+  max. S     7       0.200
+  mean S     1-59    0.101
+       D     1-59    0.113   0.450   NO
+Name=sp_O31914_YOQY_BACSU	SP='NO' D=0.113 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P35537_FLIR_BACSU  Flagellar biosynthetic protein FliR OS_Bacillus subtilis _strain 168_ GN_fliR PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    61       0.130
+  max. Y    30       0.134
+  max. S     3       0.212
+  mean S     1-29    0.146
+       D     1-29    0.139   0.450   NO
+Name=sp_P35537_FLIR_BACSU	SP='NO' D=0.139 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P37539_YAAR_BACSU  Uncharacterized protein YaaR OS_Bacillus subtilis _strain 168_ GN_yaaR PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.116
+  max. Y    27       0.140
+  max. S    17       0.227
+  mean S     1-26    0.166
+       D     1-26    0.150   0.450   NO
+Name=sp_P37539_YAAR_BACSU	SP='NO' D=0.150 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34409_YFLN_BACSU  Probable metallo-hydrolase YflN OS_Bacillus subtilis _strain 168_ GN_yflN PE_2 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.138
+  max. Y    26       0.169
+  max. S     2       0.298
+  mean S     1-25    0.197
+       D     1-25    0.180   0.450   NO
+Name=sp_O34409_YFLN_BACSU	SP='NO' D=0.180 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34742_OPUCD_BACSU  Glycine betaine_carnitine_choline transport system permease protein OpuCD OS_Bacillus subtilis _strain 168_ GN_opuCD PE_1 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    70       0.117
+  max. Y    70       0.119
+  max. S    57       0.154
+  mean S     1-69    0.064
+       D     1-69    0.097   0.450   NO
+Name=sp_O34742_OPUCD_BACSU	SP='NO' D=0.097 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P37515_MAA_BACSU  Probable maltose O-acetyltransferase OS_Bacillus subtilis _strain 168_ GN_maa PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.105
+  max. Y    11       0.096
+  max. S     1       0.136
+  mean S     1-10    0.083
+       D     1-10    0.091   0.450   NO
+Name=sp_P37515_MAA_BACSU	SP='NO' D=0.091 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54439_YRKL_BACSU  Uncharacterized NAD_P_H oxidoreductase YrkL OS_Bacillus subtilis _strain 168_ GN_yrkL PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.110
+  max. Y    16       0.158
+  max. S    12       0.307
+  mean S     1-15    0.242
+       D     1-15    0.191   0.450   NO
+Name=sp_P54439_YRKL_BACSU	SP='NO' D=0.191 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O31904_YORJ_BACSU  SPBc2 prophage-derived uncharacterized protein YorJ OS_Bacillus subtilis _strain 168_ GN_yorJ PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.105
+  max. Y    34       0.105
+  max. S     1       0.146
+  mean S     1-33    0.097
+       D     1-33    0.102   0.450   NO
+Name=sp_O31904_YORJ_BACSU	SP='NO' D=0.102 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34430_YTNM_BACSU  Probable membrane transporter protein YtnM OS_Bacillus subtilis _strain 168_ GN_ytnM PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    44       0.305
+  max. Y    44       0.375
+  max. S    42       0.635
+  mean S     1-43    0.370
+       D     1-43    0.373   0.450   NO
+Name=sp_O34430_YTNM_BACSU	SP='NO' D=0.373 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P96692_MHQN_BACSU  Putative NAD_P_H nitroreductase MhqN OS_Bacillus subtilis _strain 168_ GN_mhqN PE_1 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    53       0.109
+  max. Y    15       0.131
+  max. S     2       0.207
+  mean S     1-14    0.159
+       D     1-14    0.142   0.450   NO
+Name=sp_P96692_MHQN_BACSU	SP='NO' D=0.142 D-cutoff=0.450 Networks=SignalP-TM
+>sp_C0H3Y9_YJZE_BACSU  Uncharacterized protein YjzE OS_Bacillus subtilis _strain 168_ GN_yjzE PE_4 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    16       0.151
+  max. Y    54       0.135
+  max. S    52       0.228
+  mean S     1-53    0.108
+       D     1-53    0.125   0.450   NO
+Name=sp_C0H3Y9_YJZE_BACSU	SP='NO' D=0.125 D-cutoff=0.450 Networks=SignalP-TM
+>sp_O34446_YJPA_BACSU  Uncharacterized protein YjpA OS_Bacillus subtilis _strain 168_ GN_yjpA PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    54       0.154
+  max. Y    23       0.132
+  max. S     1       0.201
+  mean S     1-22    0.138
+       D     1-22    0.134   0.450   NO
+Name=sp_O34446_YJPA_BACSU	SP='NO' D=0.134 D-cutoff=0.450 Networks=SignalP-TM
+>sp_P54478_YQFU_BACSU  UPF0750 membrane protein YqfU OS_Bacillus subtilis _strain 168_ GN_yqfU PE_3 SV_2
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.228
+  max. Y    30       0.248
+  max. S    15       0.490
+  mean S     1-29    0.296
+       D     1-29    0.267   0.450   NO
+Name=sp_P54478_YQFU_BACSU	SP='NO' D=0.267 D-cutoff=0.450 Networks=SignalP-TM
+>sp_Q45607_YYCO_BACSU  Uncharacterized protein YycO OS_Bacillus subtilis _strain 168_ GN_yycO PE_3 SV_1
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.559
+  max. Y    28       0.695
+  max. S    12       0.968
+  mean S     1-27    0.903
+       D     1-27    0.776   0.450   YES
+Name=sp_Q45607_YYCO_BACSU	SP='YES' Cleavage site between pos. 27 and 28: AKA-VK D=0.776 D-cutoff=0.450 Networks=SignalP-TM
+
+Signal peptides: 20
+# processed fasta entries
+# gff file of processed entries
+
+Please cite:
+SignalP 4.0: discriminating signal peptides from transmembrane regions
+Petersen TN., Brunak S., von Heijne G. & Nielsen H.
+Nature Methods, 8:785-786, 2011
+
+Explain the output.  Go back.

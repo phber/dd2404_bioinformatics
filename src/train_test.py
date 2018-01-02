@@ -1,13 +1,13 @@
 import pandas as pd
 from sklearn.model_selection import KFold
 import numpy as np
-from Bio.HMM import MarkovModel, Trainer, DynamicProgramming
+from Bio.HMM import MarkovModel, Trainer
 from sklearn.metrics import confusion_matrix
 from sklearn.utils import shuffle
 from sklearn.metrics import matthews_corrcoef
 from read_write import seq_alphabet, state_alphabet_pos, state_alphabet_neg
 from read_write import load_dir, load_signalp, fill_train_df, store_result
-
+from Bio.Seq import Seq
 
 """Train a HMM using ML-estimation"""
 def fit_model(train_df, positive = True):
@@ -48,18 +48,18 @@ def fit_model(train_df, positive = True):
     return trainer.train(training_seqs)
 
 """Prediction scores"""
-def perf_measure(y_true, y_pred, cleave_predictions):
+def perf_measure(y_true, y_pred):
     tn, fp, fn, tp = confusion_matrix(y_true, y_pred).ravel()
     rec = 1.0*tp/(tp+fn)
     prec = 1.0*tp/(tp+fp)
     f = 2*prec*rec/(prec+rec)
     mcc = matthews_corrcoef(y_true, y_pred)
-    return (prec, rec, f, mcc, np.mean(cleave_predictions))
+    return (prec, rec, f, mcc)
 
 """Computes test scores for a df with known labels"""
 def hmm_test(pos_model, neg_model, test_df):
     predictions = []
-    cleave_predictions = []
+
     for i, row in test_df.iterrows():
         seq = str(row['seq'])
         seq = seq.replace('U', '')
@@ -71,15 +71,8 @@ def hmm_test(pos_model, neg_model, test_df):
             predictions.append(1)
         else:
             predictions.append(0)
-        if row['label'] == 1:
-            if 'C' not in str(pos_seq):
-                cleave_predictions.append(0)
-            elif str(pos_seq).index('C') == str(row['ann']).index('C'):
-                cleave_predictions.append(1)
-            else:
-                cleave_predictions.append(0)
-    print np.mean(cleave_predictions)
-    return perf_measure(list(test_df['label']), predictions, cleave_predictions)
+    print np.sum(predictions)
+    return perf_measure(list(test_df['label']), predictions)
 
 """Helper function for splitting dataframe by binary group"""
 def split_df(df, group='label'):
@@ -140,8 +133,11 @@ def stats(df):
 def test_proteom(train_df, proteom, stopidx, startidx = 1, write = True):
     #Load proteom
     prot_df = load_signalp(proteom, stopidx, startidx)
-    test_df_non_tm, test_df_tm = split_df(prot_df, 'tm')
-    stats(prot_df)
+    if proteom != 'bacillus':
+        test_df_non_tm, test_df_tm = split_df(prot_df, 'tm')
+        stats(prot_df)
+    else:
+        print len(prot_df), np.sum(prot_df['label'])
     scores_all = []
     scores_non_tm = []
     scores_tm = []
@@ -151,8 +147,9 @@ def test_proteom(train_df, proteom, stopidx, startidx = 1, write = True):
     pos_model = fit_model(train_df_pos, True)
     neg_model = fit_model(train_df_neg, False)
     scores_all.append(hmm_test(pos_model, neg_model, prot_df))
-    scores_tm.append(hmm_test(pos_model, neg_model, test_df_tm))
-    scores_non_tm.append(hmm_test(pos_model, neg_model, test_df_non_tm))
+    if proteom != 'bacillus':
+        scores_tm.append(hmm_test(pos_model, neg_model, test_df_tm))
+        scores_non_tm.append(hmm_test(pos_model, neg_model, test_df_non_tm))
 
     if write:
         print scores_all
@@ -163,5 +160,5 @@ def test_proteom(train_df, proteom, stopidx, startidx = 1, write = True):
         print 'NON TM TESTDATA', np.mean(scores_non_tm)
 
 df =  fill_train_df()
-#test_proteom(df, 'ecoli', stopidx = 3, write = True)
-cross_validate(df, validations = 5, write = True)
+#test_proteom(df, 'bacillus', stopidx = 3, write = True)
+#cross_validate(df, validations = 2, write = True)
