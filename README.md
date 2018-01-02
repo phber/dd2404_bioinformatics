@@ -1,5 +1,7 @@
 # Signal peptide discrimination using a HMM with known states
 
+A classifier that is able to detect signal peptide sequences in a proteom, using two HMMs that are trained with annotated sequences (known states).
+
 ## Instructions
 
 1. Load training data:
