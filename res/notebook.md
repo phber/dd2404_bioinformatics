@@ -1,4 +1,3 @@
-# Signal peptide discrimination using a HMM 
 # Lab notebook
 
 ## 2 jan 2018
