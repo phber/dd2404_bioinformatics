@@ -3,7 +3,7 @@
 
 ## 2 jan 2018
 
-´´´
+```
 Type: PROTEOM of bacillus
 Validations : 1
 ALL TESTDATA: Average precision, recall, F-score, MCC:
@@ -12,7 +12,7 @@ TM TESTDATA: Average precision, recall, F-score, MCC:
 +-
 NON TM TESTDATA: Average precision, recall, F-score, MCC:
 +-
-´´´
+```
 
 ## 1 jan 2018
 
