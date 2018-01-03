@@ -2,7 +2,19 @@
 
 ## 2 jan 2018
 
+Final tests were made on the two proteomes. Results seemed to be independent of initialization of the model, so only 1 validation was performed. All squences for the proteom of Bacillus Subtilus was classified by SignalP-TM network only for some uncertain reasons. 
+
 ```
+Type: PROTEOM of ecoli
+Validations : 1
+ALL TESTDATA: Average precision, recall, F-score, MCC:
+0.654513888889,0.856818181818,0.742125984252,0.716652759202+-0.0,0.0,0.0,0.0
+TM TESTDATA: Average precision, recall, F-score, MCC:
+0.110344827586,0.761904761905,0.192771084337,0.256856258574+-0.0,0.0,0.0,0.0
+NON TM TESTDATA: Average precision, recall, F-score, MCC:
+0.837587006961,0.861575178998,0.849411764706,0.827310900299+-0.0,0.0,0.0,0.0
+
+
 Type: PROTEOM of bacillus
 Validations : 1
 ALL TESTDATA: Average precision, recall, F-score, MCC:
